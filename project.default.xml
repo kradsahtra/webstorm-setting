@@ -4,6 +4,12 @@
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="ECMAScript 6" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="JSX" />
+      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -17,6 +23,8 @@
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
       </component>
     </defaultProject>
   </component>
