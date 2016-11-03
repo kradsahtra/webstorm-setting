@@ -138,6 +138,12 @@
         <mark key="^" line="24" column="30" />
         <mark key="." line="24" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/learn-vue/.gitignore" timestamp="1478160087565">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/tmp/react-router/modules/Router.js" timestamp="1450347263449">
         <mark key="'" line="78" column="10" />
         <mark key="[" line="17" column="31" />
@@ -184,6 +190,12 @@
         <mark key="]" line="76" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="35" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/learn-vue/lesson_2.html" timestamp="1478161321721">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/.eslintrc" timestamp="1473145034783">
         <mark key="[" line="29" column="22" />
@@ -240,7 +252,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473158260376">
+      <file name="/Dummy.txt" timestamp="1478159873596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="28" />
@@ -292,18 +304,18 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/learn-vue/lesson_1.html" timestamp="1478157286115">
-        <mark key="'" line="38" column="6" />
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="68" column="1" />
-        <mark key="." line="68" column="1" />
-        <mark key="^" line="68" column="1" />
+      <file name="$USER_HOME$/workspace/learn-vue/lesson_1.html" timestamp="1478160788982">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="57" column="4" />
+        <mark key="^" line="57" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/learn-vue/README.md" timestamp="1478156218319">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="$USER_HOME$/workspace/learn-vue/README.md" timestamp="1478160193512">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/containers/HotContainer.js" timestamp="1473318942508">
         <mark key="'" line="9" column="14" />
@@ -356,10 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="29" filename="$USER_HOME$/tmp/css_mm_4e/08_finished/01_image_ex/styles.css" />
-      <jump line="99" column="0" filename="$USER_HOME$/tmp/css_mm_4e/08_finished/01_image_ex/styles.css" />
-      <jump line="55" column="38" filename="$USER_HOME$/workspace/mThrone/config/index.js" />
-      <jump line="5" column="26" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
       <jump line="19" column="3" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
       <jump line="74" column="2" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
@@ -456,46 +464,50 @@
       <jump line="2" column="24" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/AppNavDrawer.js" />
       <jump line="18" column="3" filename="$USER_HOME$/workspace/saluck/src/components/Hello.vue" />
       <jump line="30" column="6" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
+      <jump line="30" column="12" filename="$USER_HOME$/workspace/learn-vue/.gitignore" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/learn-vue/.gitignore" />
+      <jump line="71" column="3" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxsaT48L2xpPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YmVmb3JlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">YmVmb3JlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlU2VsZWN0YWJsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dmFyIGFwcDEgPSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJlZm9yZURlc3Ryb3k6IGZ1bmN0aW9uICgpIHsKICAgICAgY29uc29sZS5sb2coJ2JlZm9yZSBkZXN0cm95IGhvb2sgY2FsbGVkJykKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGRpdiBpZD0iYXBwIj4KICB7eyBtZXNzYWdlIH19CjwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIHNlcmllc0xpc3Q6IHByb3BzLnNlcmllc0xpc3QKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuc2VyaWVzTGlzdCkK</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21wb25lbnQgZGlkIG1vdW50IGNhbGxlZCcpCg==</text>
+        <text encoding="base64">UkVBRE1FLm1kCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
