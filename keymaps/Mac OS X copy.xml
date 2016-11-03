@@ -2,7 +2,20 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="EditorUnSelectWord" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="FileChooser.NewFolder" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
@@ -11,6 +24,9 @@
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
