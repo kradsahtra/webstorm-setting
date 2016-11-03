@@ -125,6 +125,13 @@
         <mark key="." line="74" column="27" />
         <mark key="^" line="74" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/learn-vue/lesson_3.html" timestamp="1478166230942">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="68" column="9" />
+        <mark key="]" line="69" column="10" />
+        <mark key="." line="69" column="10" />
+        <mark key="^" line="69" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" timestamp="1456122807899">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="27" />
@@ -137,6 +144,12 @@
         <mark key="]" line="24" column="30" />
         <mark key="^" line="24" column="30" />
         <mark key="." line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/learn-vue/.gitignore" timestamp="1478160087565">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/react-router/modules/Router.js" timestamp="1450347263449">
         <mark key="'" line="78" column="10" />
@@ -164,12 +177,6 @@
         <mark key="." line="32" column="60" />
         <mark key="^" line="32" column="60" />
       </file>
-      <file name="$USER_HOME$/fun/vue-hackernews-2.0/src/App.vue" timestamp="1478179180928">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/temporary.jsx" timestamp="1456137346837">
         <mark key="'" line="9" column="47" />
         <mark key="[" line="22" column="0" />
@@ -190,6 +197,12 @@
         <mark key="]" line="76" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="35" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/learn-vue/lesson_2.html" timestamp="1478161321721">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/.eslintrc" timestamp="1473145034783">
         <mark key="[" line="29" column="22" />
@@ -246,11 +259,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473158260376">
+      <file name="/Dummy.txt" timestamp="1478166264213">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="19" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/components/Zen/index.js" timestamp="1472615084989">
         <mark key="[" line="2" column="18" />
@@ -297,6 +310,19 @@
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/learn-vue/lesson_1.html" timestamp="1478162781119">
+        <mark key="'" line="106" column="46" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="57" column="4" />
+        <mark key="^" line="57" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/learn-vue/README.md" timestamp="1478164452169">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/containers/HotContainer.js" timestamp="1473318942508">
         <mark key="'" line="9" column="14" />
@@ -349,17 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="3" filename="$USER_HOME$/tmp/css_mm_4e/07_finished/main.css" />
-      <jump line="57" column="29" filename="$USER_HOME$/tmp/css_mm_4e/08_finished/01_image_ex/styles.css" />
-      <jump line="99" column="0" filename="$USER_HOME$/tmp/css_mm_4e/08_finished/01_image_ex/styles.css" />
-      <jump line="55" column="38" filename="$USER_HOME$/workspace/mThrone/config/index.js" />
-      <jump line="5" column="26" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
-      <jump line="19" column="3" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
-      <jump line="74" column="2" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
-      <jump line="120" column="25" filename="$USER_HOME$/workspace/mThrone/package.json" />
-      <jump line="59" column="46" filename="$USER_HOME$/workspace/mThrone/package.json" />
-      <jump line="22" column="1" filename="$USER_HOME$/workspace/mThrone/src/main.js" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/mThrone/src/main.js" />
       <jump line="122" column="25" filename="$USER_HOME$/workspace/mThrone/package.json" />
       <jump line="15" column="1" filename="$USER_HOME$/workspace/mThrone/src/routes/index.js" />
@@ -449,61 +464,71 @@
       <jump line="10" column="23" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/AppNavDrawer.js" />
       <jump line="2" column="24" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/AppNavDrawer.js" />
       <jump line="18" column="3" filename="$USER_HOME$/workspace/saluck/src/components/Hello.vue" />
+      <jump line="30" column="6" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
+      <jump line="30" column="12" filename="$USER_HOME$/workspace/learn-vue/.gitignore" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/learn-vue/.gitignore" />
+      <jump line="71" column="3" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
+      <jump line="106" column="46" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
+      <jump line="24" column="6" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
+      <jump line="11" column="36" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
+      <jump line="18" column="5" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
+      <jump line="53" column="18" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
+      <jump line="5" column="20" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlU2VsZWN0YWJsZVw+</text>
+        <text encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZXJpZXNMaXN0OiBSZWFjdC5Qcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">W2xlc3NvbiAxXShodHRwOi8vbG9jYWxob3N0OjgwMDAvbGVzc29uXzEuaHRtbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIHNlcmllc0xpc3Q6IHByb3BzLnNlcmllc0xpc3QKICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuc2VyaWVzTGlzdCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21wb25lbnQgZGlkIG1vdW50IGNhbGxlZCcpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgSlNPTi5wYXJzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlU2VsZWN0YWJsZVw+</last-search>
+      <last-search encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlU2VsZWN0YWJsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpbk1zZ0hhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDx1c2VQcm90b2J1Zlw+</entry>
         <entry encoding="base64">XDx0ZW1wb3JhcnlcPg==</entry>
         <entry encoding="base64">XDx0ZW1jaGFyZ2VcPg==</entry>
@@ -523,6 +548,7 @@
         <entry encoding="base64">XDxvbkNoYW5nZUxpc3RcPg==</entry>
         <entry encoding="base64">XDxTZWxlY3RhYmxlTGlzdFw+</entry>
         <entry encoding="base64">XDxtYWtlU2VsZWN0YWJsZVw+</entry>
+        <entry encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
