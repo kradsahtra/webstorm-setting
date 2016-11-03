@@ -125,12 +125,12 @@
         <mark key="." line="74" column="27" />
         <mark key="^" line="74" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/learn-vue/lesson_3.html" timestamp="1478164361678">
-        <mark key="'" line="11" column="36" />
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="50" />
-        <mark key="^" line="11" column="50" />
-        <mark key="." line="11" column="50" />
+      <file name="$USER_HOME$/workspace/learn-vue/lesson_3.html" timestamp="1478166230942">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="68" column="9" />
+        <mark key="]" line="69" column="10" />
+        <mark key="." line="69" column="10" />
+        <mark key="^" line="69" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" timestamp="1456122807899">
         <mark key="[" line="7" column="22" />
@@ -259,8 +259,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478164471082">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1478166264213">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="10" />
@@ -375,9 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="25" filename="$USER_HOME$/workspace/mThrone/package.json" />
-      <jump line="59" column="46" filename="$USER_HOME$/workspace/mThrone/package.json" />
-      <jump line="22" column="1" filename="$USER_HOME$/workspace/mThrone/src/main.js" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/mThrone/src/main.js" />
       <jump line="122" column="25" filename="$USER_HOME$/workspace/mThrone/package.json" />
       <jump line="15" column="1" filename="$USER_HOME$/workspace/mThrone/src/routes/index.js" />
@@ -475,13 +472,16 @@
       <jump line="106" column="46" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
       <jump line="24" column="6" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
       <jump line="11" column="36" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
+      <jump line="18" column="5" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
+      <jump line="53" column="18" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
+      <jump line="5" column="20" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGluc3RhbmNl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGluc3RhbmNl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</text>
@@ -490,13 +490,13 @@
         <text encoding="base64">W2xlc3NvbiAxXShodHRwOi8vbG9jYWxob3N0OjgwMDAvbGVzc29uXzEuaHRtbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -508,13 +508,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
