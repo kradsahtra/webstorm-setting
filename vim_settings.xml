@@ -252,11 +252,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478159873596">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="19" />
+      <file name="/Dummy.txt" timestamp="1478162657628">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/components/Zen/index.js" timestamp="1472615084989">
         <mark key="[" line="2" column="18" />
@@ -471,10 +471,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YmVmb3JlIA==</text>
+        <text>introduction</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YmVmb3JlIA==</text>
+        <text>introduction</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlU2VsZWN0YWJsZVw+</text>
