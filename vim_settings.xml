@@ -125,6 +125,12 @@
         <mark key="." line="74" column="27" />
         <mark key="^" line="74" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/learn-vue/lesson_3.html" timestamp="1478162782114">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" timestamp="1456122807899">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="27" />
@@ -304,8 +310,8 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/learn-vue/lesson_1.html" timestamp="1478160788982">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/workspace/learn-vue/lesson_1.html" timestamp="1478162781119">
+        <mark key="'" line="106" column="46" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="33" />
         <mark key="." line="57" column="4" />
@@ -368,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="3" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
       <jump line="74" column="2" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/mThrone/build/webpack.config.js" />
       <jump line="120" column="25" filename="$USER_HOME$/workspace/mThrone/package.json" />
@@ -468,19 +473,20 @@
       <jump line="45" column="0" filename="$USER_HOME$/workspace/learn-vue/.gitignore" />
       <jump line="71" column="3" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
+      <jump line="106" column="46" filename="$USER_HOME$/workspace/learn-vue/lesson_1.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>introduction</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL3Z1ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>introduction</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlU2VsZWN0YWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZURlc3Ryb3k6IGZ1bmN0aW9uICgpIHsKICAgICAgY29uc29sZS5sb2coJ2JlZm9yZSBkZXN0cm95IGhvb2sgY2FsbGVkJykKICAgIH0sCg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL3Z1ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
