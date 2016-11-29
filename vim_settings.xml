@@ -22,7 +22,7 @@
         <mark key="^" line="56" column="22" />
         <mark key="." line="56" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1480405687781">
+      <file name="/a.dummy" timestamp="1480410174491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480407203739">
@@ -230,11 +230,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/build/webpack.dev.conf.js" timestamp="1480402109005">
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="33" column="27" />
-        <mark key="." line="33" column="27" />
-        <mark key="^" line="33" column="27" />
+      <file name="$USER_HOME$/fun/vue-admin/build/webpack.dev.conf.js" timestamp="1480410182002">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="53" />
+        <mark key="." line="9" column="53" />
+        <mark key="^" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/.eslintrc" timestamp="1473145034783">
         <mark key="[" line="29" column="22" />
@@ -519,11 +519,11 @@
       <jump line="16" column="26" filename="$USER_HOME$/fun/vue-admin/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwPlN1cHBvcnRzIFZ1ZSAyLjAgYW5kIEJ1bG1hIDAuMiE8L3A+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>src</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob21lcGFnZVw+</text>
