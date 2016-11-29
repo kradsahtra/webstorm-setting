@@ -259,6 +259,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1478166264213">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/mThrone/src/components/Zen/index.js" timestamp="1472615084989">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -298,6 +304,11 @@
         <mark key="]" line="0" column="25" />
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1480430388437">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/shared/config/mysql.json" timestamp="1454580923770">
         <mark key="[" line="14" column="18" />
@@ -477,11 +488,11 @@
       <jump line="43" column="18" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</text>
@@ -490,28 +501,28 @@
         <text encoding="base64">ICA8Y291bnRlcj48L2NvdW50ZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbi1kZXZ0b29scy1pbnN0YWxsZXIiOiAiXjIuMC4xIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgZGF0YSA9IHsgY291bnRlcjogMH0K</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbiI6ICJeMS40LjciLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbiI6ICJjcm9zcy1lbnYgTk9ERV9FTEVDVFJPTj10cnVlIG5wbSBydW4gYnVpbGQgJiYgZWxlY3Ryb24gZWxlY3Ryb24uanMiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgZGF0YSA9IHsgY291bnRlcjogMH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
