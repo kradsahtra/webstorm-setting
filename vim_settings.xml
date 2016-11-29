@@ -25,11 +25,12 @@
       <file name="/a.dummy" timestamp="1480405687781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480403573638">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480407203739">
+        <mark key="'" line="17" column="26" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/client/App.vue" timestamp="1480403383774" />
       <file name="$USER_HOME$/workspace/mThrone/src/components/Zen/Zen.js" timestamp="1473222688893">
@@ -58,11 +59,12 @@
         <mark key="^" line="7" column="51" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/components/Counter/Counter.js" timestamp="1472707067162">
-        <mark key="'" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/fun/vue-admin/client/views/Home.vue" timestamp="1480405650887">
+      <file name="$USER_HOME$/fun/vue-admin/client/views/Home.vue" timestamp="1480407736458">
         <mark key="'" line="10" column="16" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/.gitignore" timestamp="1472465112222">
         <mark key="[" line="2" column="0" />
@@ -78,6 +80,7 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/store/actions.js" timestamp="1480406559703" />
       <file name="$USER_HOME$/fun/vue-admin/client/components/layout/Navbar.vue" timestamp="1480403655498">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="34" />
@@ -90,12 +93,6 @@
         <mark key="]" line="5" column="58" />
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
-      </file>
-      <file name="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" timestamp="1472721117333">
-        <mark key="'" line="137" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/store/createStore.js" timestamp="1473304713815">
-        <mark key="'" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/index.js" timestamp="1473219198018">
         <mark key="[" line="15" column="10" />
@@ -160,6 +157,12 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/store/index.js" timestamp="1480407008635">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/chatofpomelo-websocket/game-server/config/servers.json" timestamp="1454378954523">
         <mark key="'" line="29" column="29" />
@@ -392,9 +395,6 @@
         <mark key="." line="60" column="20" />
         <mark key="^" line="60" column="20" />
       </file>
-      <file name="$USER_HOME$/fun/material-ui/docs/src/app/components/AppNavDrawer.js" timestamp="1473319430161">
-        <mark key="'" line="2" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/learn-vue/lesson_4.html" timestamp="1478485819350">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -408,9 +408,15 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="113" column="0" />
       </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/store/getters.js" timestamp="1480406616660" />
+      <file name="$USER_HOME$/fun/vue-admin/client/components/layout/FooterBar.vue" timestamp="1480407410267">
+        <mark key="[" line="4" column="123" />
+        <mark key="]" line="4" column="127" />
+        <mark key="." line="4" column="127" />
+        <mark key="^" line="4" column="127" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="1" filename="$USER_HOME$/workspace/mThrone/src/routes/index.js" />
       <jump line="20" column="45" filename="$USER_HOME$/workspace/mThrone/package.json" />
       <jump line="55" column="18" filename="$USER_HOME$/workspace/mThrone/src/main.js" />
       <jump line="24" column="2" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/index.js" />
@@ -510,13 +516,14 @@
       <jump line="5" column="20" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
       <jump line="43" column="18" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
       <jump line="10" column="16" filename="$USER_HOME$/fun/vue-admin/client/views/Home.vue" />
+      <jump line="16" column="26" filename="$USER_HOME$/fun/vue-admin/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hash</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxwPlN1cHBvcnRzIFZ1ZSAyLjAgYW5kIEJ1bG1hIDAuMiE8L3A+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hash</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob21lcGFnZVw+</text>
@@ -525,28 +532,28 @@
         <text encoding="base64">ICA8Y291bnRlcj48L2NvdW50ZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwPlN1cHBvcnRzIFZ1ZSAyLjAgYW5kIEJ1bG1hIDAuMiE8L3A+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgZGF0YSA9IHsgY291bnRlcjogMH0K</text>
+        <text encoding="base64">ICAgICAgPGEgOmhyZWY9ImhvbWVwYWdlIj7mtYvor5Xnjq/looM8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD5Db2RlIGxpY2Vuc2VkIHVuZGVyIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9mdW5kb24vdnVlLWFkbWluL2Jsb2IvbWFzdGVyL0xJQ0VOU0UiPnt7IGxpY2Vuc2UgfX08L2E+LjwvcD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0ic29jaWFsIj4KICAgICAgICAgIDxhIDpocmVmPSInaHR0cHM6Ly9naXRodWIuY29tLycgKyByZXBvc2l0b3J5Ij4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24iPgogICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1naXRodWIiPjwvaT4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPC9hPgogICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS9fZnVuZG9uIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24iPgogICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10d2l0dGVyIj48L2k+CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvYT4KICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAia2V5d29yZHMiOiBbCiAgICAiYWRtaW4iLAogICAgImJ1bG1hIiwKICAgICJkYXNoYm9hcmQiLAogICAgImRhdGEiLAogICAgInZpc3VhbGl6YXRpb24iLAogICAgInZ1ZSIKICBdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1cmwiOiAiZnVuZG9uLm1lIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAibGljZW5zZSI6ICJNSVQiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
