@@ -22,7 +22,7 @@
         <mark key="^" line="56" column="22" />
         <mark key="." line="56" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1480403548658">
+      <file name="/a.dummy" timestamp="1480405687781">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480403573638">
@@ -60,6 +60,9 @@
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/components/Counter/Counter.js" timestamp="1472707067162">
         <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/views/Home.vue" timestamp="1480405650887">
+        <mark key="'" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/.gitignore" timestamp="1472465112222">
         <mark key="[" line="2" column="0" />
@@ -407,7 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="25" filename="$USER_HOME$/workspace/mThrone/package.json" />
       <jump line="15" column="1" filename="$USER_HOME$/workspace/mThrone/src/routes/index.js" />
       <jump line="20" column="45" filename="$USER_HOME$/workspace/mThrone/package.json" />
       <jump line="55" column="18" filename="$USER_HOME$/workspace/mThrone/src/main.js" />
@@ -507,6 +509,7 @@
       <jump line="53" column="18" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
       <jump line="5" column="20" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
       <jump line="43" column="18" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
+      <jump line="10" column="16" filename="$USER_HOME$/fun/vue-admin/client/views/Home.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -516,7 +519,7 @@
         <text>hash</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</text>
+        <text encoding="base64">XDxob21lcGFnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8Y291bnRlcj48L2NvdW50ZXI+Cg==</text>
@@ -553,15 +556,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxob21lcGFnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxob21lcGFnZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VQcm90b2J1Zlw+</entry>
         <entry encoding="base64">XDx0ZW1wb3JhcnlcPg==</entry>
         <entry encoding="base64">XDx0ZW1jaGFyZ2VcPg==</entry>
         <entry encoding="base64">XDxUZW1wUGF5XD4=</entry>
@@ -581,6 +583,7 @@
         <entry encoding="base64">XDxTZWxlY3RhYmxlTGlzdFw+</entry>
         <entry encoding="base64">XDxtYWtlU2VsZWN0YWJsZVw+</entry>
         <entry encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxob21lcGFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
