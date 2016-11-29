@@ -22,10 +22,16 @@
         <mark key="^" line="56" column="22" />
         <mark key="." line="56" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1480402680135">
+      <file name="/a.dummy" timestamp="1480403548658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480401166271" />
+      <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480403573638">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/App.vue" timestamp="1480403383774" />
       <file name="$USER_HOME$/workspace/mThrone/src/components/Zen/Zen.js" timestamp="1473222688893">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
@@ -68,6 +74,12 @@
         <mark key="]" line="18" column="46" />
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/components/layout/Navbar.vue" timestamp="1480403655498">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/tmp/material-ui/docs/src/app/app.jsx" timestamp="1452674960606">
         <mark key="'" line="15" column="22" />
@@ -139,6 +151,12 @@
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/router/index.js" timestamp="1480404017338">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/chatofpomelo-websocket/game-server/config/servers.json" timestamp="1454378954523">
         <mark key="'" line="29" column="29" />
@@ -492,10 +510,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Vue Admin</text>
+        <text>hash</text>
       </register>
       <register name="-" type="4">
-        <text>Vue Admin</text>
+        <text>hash</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</text>
