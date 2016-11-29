@@ -49,6 +49,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="meta f1" />
     <keyboard-shortcut first-keystroke="ctrl meta m" />
