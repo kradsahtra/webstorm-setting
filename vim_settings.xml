@@ -9,12 +9,12 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480497480039">
+      <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480501649771">
         <mark key="'" line="45" column="10" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="61" column="88" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="61" column="89" />
+        <mark key="." line="61" column="89" />
+        <mark key="^" line="61" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/web-server/public/index.html" timestamp="1454474306854">
         <mark key="[" line="56" column="15" />
@@ -49,6 +49,10 @@
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/components/Counter/Counter.js" timestamp="1472707067162">
         <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/fun/vuex/examples/shopping-cart/components/ProductList.vue" timestamp="1480501598461">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="42" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/client/views/Home.vue" timestamp="1480407736458">
         <mark key="'" line="10" column="16" />
@@ -104,11 +108,12 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480500536830">
-        <mark key="'" line="17" column="1" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480501819898">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" timestamp="1480414290826">
         <mark key="'" line="130" column="21" />
@@ -139,12 +144,11 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/store/actions.js" timestamp="1480493815402">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="22" column="69" />
-        <mark key="]" line="23" column="69" />
-        <mark key="^" line="23" column="69" />
-        <mark key="." line="23" column="69" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/actions.js" timestamp="1480501468014">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/components/layout/Sidebar.vue" timestamp="1480495539843">
         <mark key="'" line="69" column="7" />
@@ -172,12 +176,13 @@
         <mark key="." line="32" column="60" />
         <mark key="^" line="32" column="60" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/store/mutation-types.js" timestamp="1480493766673">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="10" column="56" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/mutation-types.js" timestamp="1480500866247">
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/fun/vuex/examples/shopping-cart/components/Cart.vue" timestamp="1480501624657" />
       <file name="$USER_HOME$/workspace/learn-vue/lesson_2.html" timestamp="1478161321721">
         <mark key="[" line="17" column="2" />
         <mark key="]" line="17" column="11" />
@@ -288,10 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="16" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="30" column="11" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
       <jump line="18" column="21" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Home/components/HomeView.js" />
@@ -378,7 +379,6 @@
       <jump line="45" column="7" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
       <jump line="46" column="10" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
       <jump line="15" column="1" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
-      <jump line="3" column="11" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
       <jump line="21" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
       <jump line="19" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
       <jump line="20" column="38" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
@@ -388,61 +388,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
       <jump line="69" column="7" filename="$USER_HOME$/fun/vue-admin/src/components/layout/Sidebar.vue" />
       <jump line="10" column="2" filename="$USER_HOME$/fun/vuex/examples/shopping-cart/store/modules/products.js" />
+      <jump line="0" column="50" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
+      <jump line="13" column="15" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
+      <jump line="14" column="17" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gZ2V0dGVycwpjb25zdCBnZXR0ZXJzID0gewogIAp9Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlLnJlcXVlc3RTdGF0dXMgPSAnc3RvcHBlZCcK</text>
       </register>
       <register name="-" type="4">
-        <text>cb</text>
+        <text>started</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxQcm9kdWN0c1w+</text>
+        <text encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFVVEhFTlRJQ0FURSA9ICdBVVRIRU5USUNBVEUnCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlLnJlcXVlc3RTdGF0dXMgPSAnc3RvcHBlZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gZ2V0dGVycwpjb25zdCBnZXR0ZXJzID0gewogIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5sb2dpbih7J2VtYWlsJzogJ2xpY2hhbmdAYWRzcXVhcmUtdGVjaC5jb20nLCAncGFzc3dvcmQnOiAnMTIzNDU2J30sIGZ1bmN0aW9uICgpIHsKICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKChlcnJvcikgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF1dGhTZXJ2aWNlIGZyb20gJy4uL2FwaS9hdXRoJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGxvZ2luID0gKHN0b3JlLCByZXF1ZXN0KSA9PiB7CiAgcmV0dXJuIGF1dGhTZXJ2aWNlLmxvZ2luQVBJKHJlcXVlc3QpCiAgICAudGhlbigocmVzcG9uc2UpID0+IHN0b3JlLmRpc3BhdGNoKHR5cGVzLkFVVEhFTlRJQ0FURSwgcmVzcG9uc2UpKQogICAgLmNhdGNoKChlcnJvcikgPT4gc3RvcmUuZGlzcGF0Y2godHlwZXMuQVVUSEVOVElDQVRFX0ZBSUxVUkUsIGVycm9yKSkKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICJ2dWUiOwo=</text>
+        <text encoding="base64">ICAgIHN0YXRlLnRva2VuID0gbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlLnVzZXJfaWQgPSBudWxsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmYWlsdXJlID0gbnUK</text>
+        <text encoding="base64">Ly8gZ2V0dGVycwpjb25zdCBnZXR0ZXJzID0gewogIAp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxQcm9kdWN0c1w+</last-search>
+      <last-search encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxQcm9kdWN0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYXZEcmF3ZXJPcGVuXD4=</entry>
         <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
         <entry encoding="base64">XDxmZXRjaFw+</entry>
         <entry encoding="base64">XDx0aHVua1w+</entry>
@@ -462,6 +466,7 @@
         <entry encoding="base64">XDx0b2dnbGVEZXZpY2VcPg==</entry>
         <entry encoding="base64">XDxleHBhbmRNZW51XD4=</entry>
         <entry encoding="base64">XDxhbGxQcm9kdWN0c1w+</entry>
+        <entry encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
