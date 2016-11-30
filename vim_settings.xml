@@ -28,12 +28,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480470458912">
+      <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480473609939">
         <mark key="'" line="17" column="26" />
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="45" />
         <mark key="^" line="2" column="25" />
+        <mark key="." line="21" column="45" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/client/App.vue" timestamp="1480403383774" />
       <file name="$USER_HOME$/workspace/chatofpomelo-websocket/game-server/app/servers/connector/handler/entryHandler.js" timestamp="1454656599739">
@@ -360,10 +360,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFscGhh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFscGhh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGFydFw+</text>
@@ -372,31 +372,31 @@
         <text>width=&quot;100&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJvaiAoaW5pdCk6IGZpcnN0IGJsb29kCg==</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbiI6ICJjcm9zcy1lbnYgTk9ERV9FTEVDVFJPTj10cnVlIG5wbSBydW4gYnVpbGQgJiYgZWxlY3Ryb24gZWxlY3Ryb24uanMiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbi1kZXZ0b29scy1pbnN0YWxsZXIiOiAiXjIuMC4xIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbiI6ICJeMS40LjciLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZENvbG9yOiBbCiAgICAgICAgJyMxZmM4ZGInLAogICAgICAgICcjZmNlNDczJywKICAgICAgICAnIzQyYWZlMycsCiAgICAgICAgJyNlZDZjNjMnLAogICAgICAgICcjOTdjZDc2JwogICAgICBdLAo=</text>
+        <text encoding="base64">cHJvaiAoaW5pdCk6IGZpcnN0IGJsb29kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBpZURhdGEgKCkgewogICAgICByZXR1cm4gewogICAgICAgIGxhYmVsczogdGhpcy5sYWJlbHMsCiAgICAgICAgZGF0YXNldHM6IFt7CiAgICAgICAgICBkYXRhOiB0aGlzLmRhdGEsCiAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IHRoaXMuYmFja2dyb3VuZENvbG9yCiAgICAgICAgfV0KICAgICAgfQogICAgfSwKCiAgICB3YXZlRGF0YSAoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgbGFiZWxzOiB0aGlzLmxhYmVsc18yLAogICAgICAgIGRhdGFzZXRzOiBbewogICAgICAgICAgbGFiZWw6ICdNeSBSYWRhcicsCiAgICAgICAgICBkYXRhOiB0aGlzLmRhdGFfMiwKICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogdGhpcy5iYWNrZ3JvdW5kQ29sb3JbMF0KICAgICAgICB9XQogICAgICB9CiAgICB9LAoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZENvbG9yOiBbCiAgICAgICAgJyMxZmM4ZGInLAogICAgICAgICcjZmNlNDczJywKICAgICAgICAnIzQyYWZlMycsCiAgICAgICAgJyNlZDZjNjMnLAogICAgICAgICcjOTdjZDc2JwogICAgICBdLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIHBpZURhdGEgKCkgewogICAgICByZXR1cm4gewogICAgICAgIGxhYmVsczogdGhpcy5sYWJlbHMsCiAgICAgICAgZGF0YXNldHM6IFt7CiAgICAgICAgICBkYXRhOiB0aGlzLmRhdGEsCiAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IHRoaXMuYmFja2dyb3VuZENvbG9yCiAgICAgICAgfV0KICAgICAgfQogICAgfSwKCiAgICB3YXZlRGF0YSAoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgbGFiZWxzOiB0aGlzLmxhYmVsc18yLAogICAgICAgIGRhdGFzZXRzOiBbewogICAgICAgICAgbGFiZWw6ICdNeSBSYWRhcicsCiAgICAgICAgICBkYXRhOiB0aGlzLmRhdGFfMiwKICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogdGhpcy5iYWNrZ3JvdW5kQ29sb3JbMF0KICAgICAgICB9XQogICAgICB9CiAgICB9LAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
