@@ -104,12 +104,11 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480492977081">
-        <mark key="'" line="15" column="1" />
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="23" column="1" />
-        <mark key="." line="23" column="1" />
-        <mark key="^" line="23" column="1" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480500536830">
+        <mark key="'" line="17" column="1" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" timestamp="1480414290826">
         <mark key="'" line="130" column="21" />
@@ -122,11 +121,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/api/auth.js" timestamp="1480496857449">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/fun/vue-admin/src/api/auth.js" timestamp="1480500223540">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/client/router/index.js" timestamp="1480404017338">
         <mark key="[" line="6" column="9" />
@@ -205,6 +204,9 @@
       </file>
       <file name="$USER_HOME$/fun/vue-admin/build/webpack.base.conf.js" timestamp="1480412465483">
         <mark key="'" line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/fun/vuex/examples/shopping-cart/store/modules/products.js" timestamp="1480500371521">
+        <mark key="'" line="10" column="2" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/build/webpack.prod.conf.js" timestamp="1480402149577">
         <mark key="[" line="53" column="14" />
@@ -286,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="16" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
       <jump line="73" column="16" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
@@ -386,61 +387,61 @@
       <jump line="33" column="13" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
       <jump line="69" column="7" filename="$USER_HOME$/fun/vue-admin/src/components/layout/Sidebar.vue" />
+      <jump line="10" column="2" filename="$USER_HOME$/fun/vuex/examples/shopping-cart/store/modules/products.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZ2V0dGVycwpjb25zdCBnZXR0ZXJzID0gewogIAp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Promise.reject(error)</text>
+        <text>cb</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBhbmRNZW51XD4=</text>
+        <text encoding="base64">XDxhbGxQcm9kdWN0c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IEFVVEhFTlRJQ0FURSA9ICdBVVRIRU5USUNBVEUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZ2V0dGVycwpjb25zdCBnZXR0ZXJzID0gewogIAp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKChlcnJvcikgPT4gewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICJ2dWUiOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICJ2dWUiOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmYWlsdXJlID0gbnUK</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InRpbGUgaXMtYW5jZXN0b3IiPgo=</text>
+        <text encoding="base64">ICBmYWlsdXJlID0gbnUK</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHBhbmRNZW51XD4=</last-search>
+      <last-search encoding="base64">XDxhbGxQcm9kdWN0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBhbmRNZW51XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhbGxQcm9kdWN0c1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcHBCYXJcPg==</entry>
         <entry encoding="base64">XDxuYXZEcmF3ZXJPcGVuXD4=</entry>
         <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
         <entry encoding="base64">XDxmZXRjaFw+</entry>
@@ -460,6 +461,7 @@
         <entry encoding="base64">XDxDaGFydFw+</entry>
         <entry encoding="base64">XDx0b2dnbGVEZXZpY2VcPg==</entry>
         <entry encoding="base64">XDxleHBhbmRNZW51XD4=</entry>
+        <entry encoding="base64">XDxhbGxQcm9kdWN0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
