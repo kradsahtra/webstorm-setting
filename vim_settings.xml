@@ -207,10 +207,10 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/store/index.js" timestamp="1480412516823">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/index.js" timestamp="1480492107636">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/modules/Hot.js" timestamp="1473149928648">
         <mark key="[" line="60" column="18" />
@@ -355,11 +355,11 @@
       <jump line="46" column="10" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGFydFw+</text>
