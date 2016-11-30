@@ -28,12 +28,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480412338086">
+      <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480470458912">
         <mark key="'" line="17" column="26" />
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/client/App.vue" timestamp="1480403383774" />
       <file name="$USER_HOME$/workspace/chatofpomelo-websocket/game-server/app/servers/connector/handler/entryHandler.js" timestamp="1454656599739">
@@ -359,11 +359,11 @@
       <jump line="45" column="7" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJvaiAoaW5pdCk6IGZpcnN0IGJsb29kCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFscGhh</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IGFscGhh</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGFydFw+</text>
