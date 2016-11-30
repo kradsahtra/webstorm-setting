@@ -35,6 +35,12 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
@@ -42,6 +48,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
