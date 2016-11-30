@@ -9,12 +9,12 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480495818596">
+      <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480497480039">
         <mark key="'" line="45" column="10" />
-        <mark key="[" line="61" column="65" />
-        <mark key="]" line="61" column="65" />
-        <mark key="^" line="61" column="65" />
-        <mark key="." line="61" column="65" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="61" column="88" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/web-server/public/index.html" timestamp="1454474306854">
         <mark key="[" line="56" column="15" />
@@ -122,11 +122,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/api/auth.js" timestamp="1480495671708">
-        <mark key="[" line="4" column="52" />
-        <mark key="]" line="4" column="52" />
-        <mark key="^" line="4" column="52" />
-        <mark key="." line="4" column="52" />
+      <file name="$USER_HOME$/fun/vue-admin/src/api/auth.js" timestamp="1480496857449">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/client/router/index.js" timestamp="1480404017338">
         <mark key="[" line="6" column="9" />
@@ -257,10 +257,11 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/store/index.js" timestamp="1480492107636">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/index.js" timestamp="1480497700595">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/modules/Hot.js" timestamp="1473149928648">
         <mark key="[" line="60" column="18" />
@@ -387,11 +388,11 @@
       <jump line="69" column="7" filename="$USER_HOME$/fun/vue-admin/src/components/layout/Sidebar.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>password</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>Promise.reject(error)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBhbmRNZW51XD4=</text>
@@ -406,25 +407,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICJ2dWUiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICJ2dWUiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmYWlsdXJlID0gbnUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBmYWlsdXJlID0gbnUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InRpbGUgaXMtYW5jZXN0b3IiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InRpbGUgaXMtYW5jZXN0b3IiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
