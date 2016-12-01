@@ -231,8 +231,8 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/App.vue" timestamp="1480494832932">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/fun/vue-admin/src/App.vue" timestamp="1480573250684">
+        <mark key="'" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/treasures/game-server/config/servers.json" timestamp="1454408510146">
         <mark key="[" line="7" column="76" />
@@ -293,11 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="21" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Home/components/HomeView.js" />
-      <jump line="68" column="15" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="14" column="17" filename="$USER_HOME$/workspace/mThrone/src/routes/Home/components/HomeView.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/mThrone/config/index.js" />
       <jump line="4" column="30" filename="$USER_HOME$/workspace/mThrone/src/components/Zen/Zen.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Zen/Zen.js" />
@@ -393,6 +388,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
       <jump line="3" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
       <jump line="14" column="17" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
+      <jump line="11" column="36" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="67" column="1" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="74" column="3" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="2" column="27" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="12" column="51" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -402,7 +402,7 @@
         <text>.auth</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</text>
+        <text encoding="base64">XDxucHJvZ3Jlc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXIKICAgICAgICBjYihyZXNwb25zZS5kYXRhKQo=</text>
@@ -439,15 +439,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</last-search>
+      <last-search encoding="base64">XDxucHJvZ3Jlc3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</last-pattern>
+      <last-pattern encoding="base64">XDxucHJvZ3Jlc3NcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
         <entry encoding="base64">XDxmZXRjaFw+</entry>
         <entry encoding="base64">XDx0aHVua1w+</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
@@ -467,6 +466,7 @@
         <entry encoding="base64">XDxleHBhbmRNZW51XD4=</entry>
         <entry encoding="base64">XDxhbGxQcm9kdWN0c1w+</entry>
         <entry encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</entry>
+        <entry encoding="base64">XDxucHJvZ3Jlc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
