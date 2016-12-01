@@ -9,11 +9,12 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480575603344">
+      <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480579979177">
         <mark key="'" line="45" column="10" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/web-server/public/index.html" timestamp="1454474306854">
         <mark key="[" line="56" column="15" />
@@ -114,12 +115,12 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480501819898">
+      <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="35" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" timestamp="1480414290826">
         <mark key="'" line="130" column="21" />
@@ -132,11 +133,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/api/auth.js" timestamp="1480575644715">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="24" />
+      <file name="$USER_HOME$/fun/vue-admin/src/api/auth.js" timestamp="1480579359563">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/client/router/index.js" timestamp="1480404017338">
         <mark key="[" line="6" column="9" />
@@ -225,16 +226,16 @@
         <mark key="." line="53" column="27" />
         <mark key="^" line="53" column="27" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/app.js" timestamp="1480576433845">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="16" column="26" />
+      <file name="$USER_HOME$/fun/vue-admin/src/app.js" timestamp="1480579089980">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480415431962">
+      <file name="/Dummy.txt" timestamp="1480580388392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="23" />
+        <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/components/Zen/index.js" timestamp="1472615084989">
@@ -410,11 +411,11 @@
       <jump line="428" column="11" filename="$USER_HOME$/fun/vue-admin/node_modules/nprogress/nprogress.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdCAoaG9tZSk6IGFkZCBuZXcgaG9tZSwgY3NzIGlzIG5vdCBkb25lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>数据</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRDbGFzc1w+</text>
@@ -423,31 +424,31 @@
         <text encoding="base64">ICAgICAgZGVidWdnZXIKICAgICAgICBjYihyZXNwb25zZS5kYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VnVlLnVzZShOUHJvZ3Jlc3MpCg==</text>
+        <text encoding="base64">ZmVhdCAoaG9tZSk6IGFkZCBuZXcgaG9tZSwgY3NzIGlzIG5vdCBkb25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAvLyBCdXQgdGhlcmUgc2hvdWxkIGJlIG90aGVyIHNvbHV0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUpCg==</text>
+        <text encoding="base64">VnVlLnVzZShOUHJvZ3Jlc3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKChlcnJvcikgPT4gewogICAgICAgIGVycm9yQ2IoZXJyb3IpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYihlcnJvci5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKChlcnJvcikgPT4gewogICAgICAgIGVycm9yQ2IoZXJyb3IpCiAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
