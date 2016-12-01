@@ -9,12 +9,12 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480501649771">
+      <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480565086275">
         <mark key="'" line="45" column="10" />
-        <mark key="[" line="61" column="34" />
-        <mark key="]" line="61" column="89" />
-        <mark key="." line="61" column="89" />
-        <mark key="^" line="61" column="89" />
+        <mark key="[" line="62" column="29" />
+        <mark key="]" line="62" column="29" />
+        <mark key="." line="62" column="29" />
+        <mark key="^" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/web-server/public/index.html" timestamp="1454474306854">
         <mark key="[" line="56" column="15" />
@@ -126,11 +126,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/fun/vue-admin/src/api/auth.js" timestamp="1480562965582">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="8" column="20" />
+      <file name="$USER_HOME$/fun/vue-admin/src/api/auth.js" timestamp="1480565540893">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/client/router/index.js" timestamp="1480404017338">
         <mark key="[" line="6" column="9" />
@@ -395,11 +395,11 @@
       <jump line="14" column="17" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKChlcnJvcikgPT4gewogICAgICAgIGVycm9yQ2IoZXJyb3IpCiAgICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>.auth</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>.auth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</text>
