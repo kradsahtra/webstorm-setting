@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/mThrone/config/index.js" timestamp="1473146269091">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="29" column="36" />
-        <mark key="]" line="29" column="37" />
-        <mark key="^" line="54" column="27" />
-        <mark key="." line="29" column="37" />
-      </file>
       <file name="$USER_HOME$/workspace/mThrone/src/styles/core.scss" timestamp="1473138912909">
         <mark key="[" line="8" column="40" />
         <mark key="]" line="9" column="58" />
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480579979177">
+        <mark key="'" line="45" column="10" />
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/web-server/public/index.html" timestamp="1454474306854">
         <mark key="[" line="56" column="15" />
@@ -22,15 +22,23 @@
         <mark key="^" line="56" column="22" />
         <mark key="." line="56" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1473304696997">
+      <file name="/a.dummy" timestamp="1480649749881">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/components/Zen/Zen.js" timestamp="1473222688893">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="44" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/fun/vue-admin/package.json" timestamp="1480473609939">
+        <mark key="'" line="17" column="26" />
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="45" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="21" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/App.vue" timestamp="1480650180618">
+        <mark key="[" line="52" column="2" />
+        <mark key="]" line="52" column="8" />
+        <mark key="." line="52" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/chatofpomelo-websocket/game-server/app/servers/connector/handler/entryHandler.js" timestamp="1454656599739">
         <mark key="[" line="21" column="36" />
@@ -38,21 +46,29 @@
         <mark key="^" line="21" column="36" />
         <mark key="." line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/PayResult.jsx" timestamp="1456136348926">
-        <mark key="'" line="48" column="9" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="3" />
-        <mark key="." line="138" column="3" />
-        <mark key="^" line="138" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/mThrone/.babelrc" timestamp="1472533750265">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="52" />
         <mark key="^" line="7" column="51" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/components/Counter/Counter.js" timestamp="1472707067162">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/fun/vuex/examples/shopping-cart/components/ProductList.vue" timestamp="1480501598461">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="42" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/node_modules/nprogress/nprogress.js" timestamp="1480576100451">
+        <mark key="'" line="428" column="11" />
+        <mark key="[" line="462" column="19" />
+        <mark key="]" line="462" column="21" />
+        <mark key="^" line="462" column="21" />
+        <mark key="." line="462" column="21" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/views/Home.vue" timestamp="1480407736458">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/.gitignore" timestamp="1472465112222">
         <mark key="[" line="2" column="0" />
@@ -60,25 +76,21 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/components/HotView/HotView.js" timestamp="1473319538733">
-        <mark key="'" line="35" column="2" />
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="46" />
-        <mark key="^" line="18" column="46" />
-        <mark key="." line="18" column="46" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/uifeatures.js" timestamp="1480586316760">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/material-ui/docs/src/app/app.jsx" timestamp="1452674960606">
-        <mark key="'" line="15" column="22" />
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="5" column="58" />
-        <mark key="." line="5" column="58" />
-        <mark key="^" line="5" column="58" />
+      <file name="$USER_HOME$/fun/vue-admin/client/components/layout/Navbar.vue" timestamp="1480403655498">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" timestamp="1472721117333">
-        <mark key="'" line="137" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/store/createStore.js" timestamp="1473304713815">
-        <mark key="'" line="9" column="22" />
+      <file name="$USER_HOME$/fun/vue-admin/src/components/layout/Navbar.vue" timestamp="1480412307102">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/index.js" timestamp="1473219198018">
         <mark key="[" line="15" column="10" />
@@ -98,39 +110,18 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/containers/AppContainer.js" timestamp="1473218915694">
-        <mark key="'" line="19" column="48" />
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/mThrone/src/index.html" timestamp="1473139301036">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/TempPay.jsx" timestamp="1456212790563">
-        <mark key="'" line="96" column="9" />
-        <mark key="[" line="286" column="19" />
-        <mark key="]" line="286" column="27" />
-        <mark key="." line="286" column="27" />
-        <mark key="^" line="286" column="27" />
-      </file>
-      <file name="$USER_HOME$/tmp/material-ui/docs/src/app/components/pages/customization/themes.jsx" timestamp="1452843853978">
-        <mark key="'" line="73" column="38" />
-        <mark key="[" line="74" column="23" />
-        <mark key="]" line="74" column="27" />
-        <mark key="." line="74" column="27" />
-        <mark key="^" line="74" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/learn-vue/lesson_3.html" timestamp="1478243213048">
-        <mark key="'" line="43" column="18" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="69" column="10" />
-        <mark key="^" line="69" column="10" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" timestamp="1456122807899">
         <mark key="[" line="7" column="22" />
@@ -138,25 +129,36 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/chatofpomelo-websocket/game-server/config/servers.json" timestamp="1454378954523">
-        <mark key="'" line="29" column="29" />
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="24" column="30" />
-        <mark key="^" line="24" column="30" />
-        <mark key="." line="24" column="30" />
+      <file name="$USER_HOME$/fun/vue-admin/src/api/auth.js" timestamp="1480579359563">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/learn-vue/.gitignore" timestamp="1478160087565">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/analysis.js" timestamp="1480588869891">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/tmp/react-router/modules/Router.js" timestamp="1450347263449">
-        <mark key="'" line="78" column="10" />
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="18" column="12" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="12" />
+      <file name="$USER_HOME$/fun/vue-admin/client/router/index.js" timestamp="1480404017338">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/store/index.js" timestamp="1480407008635">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/lazyLoading.js" timestamp="1480585825482" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/modules/menu/index.js" timestamp="1480411750774">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/components/HotView/index.js" timestamp="1473148130236">
         <mark key="[" line="0" column="31" />
@@ -164,12 +166,10 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/api/content.js" timestamp="1451358543377">
-        <mark key="'" line="459" column="37" />
-        <mark key="[" line="464" column="16" />
-        <mark key="]" line="465" column="14" />
-        <mark key="." line="465" column="14" />
-        <mark key="^" line="465" column="14" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/tables/Basic.vue" timestamp="1480646887547">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="305" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/apns-node/tasks/pushNotification.js" timestamp="1460717483755">
         <mark key="[" line="32" column="60" />
@@ -177,26 +177,16 @@
         <mark key="." line="32" column="60" />
         <mark key="^" line="32" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/temporary.jsx" timestamp="1456137346837">
-        <mark key="'" line="9" column="47" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="97" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="22" column="55" />
+      <file name="$USER_HOME$/workspace/mlucky/src/api/auth.js" timestamp="1480645997899">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/build/webpack.config.js" timestamp="1473219437444">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="249" column="20" />
-        <mark key="]" line="249" column="21" />
-        <mark key="." line="249" column="21" />
-        <mark key="^" line="249" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/routes/Zen/modules/zen.js" timestamp="1473148281257">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="76" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="35" column="19" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/mutation-types.js" timestamp="1480500866247">
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/learn-vue/lesson_2.html" timestamp="1478161321721">
         <mark key="[" line="17" column="2" />
@@ -204,66 +194,84 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
+      <file name="$USER_HOME$/fun/vue-admin/build/webpack.dev.conf.js" timestamp="1480410182002">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="53" />
+        <mark key="." line="9" column="53" />
+        <mark key="^" line="9" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" timestamp="1480588898476">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+        <mark key="^" line="54" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/user.js" timestamp="1480588547237">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/mThrone/.eslintrc" timestamp="1473145034783">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="24" />
         <mark key="." line="29" column="24" />
         <mark key="^" line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/lordofpomelo/game-server/app.js" timestamp="1454581255351">
-        <mark key="'" line="140" column="6" />
-        <mark key="[" line="140" column="20" />
-        <mark key="]" line="140" column="24" />
-        <mark key="." line="140" column="24" />
-        <mark key="^" line="140" column="24" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" timestamp="1480646846853">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="22" />
+        <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/charge.jsx" timestamp="1456121860434">
-        <mark key="'" line="8" column="9" />
-        <mark key="[" line="173" column="15" />
-        <mark key="]" line="173" column="18" />
-        <mark key="." line="173" column="18" />
-        <mark key="^" line="173" column="18" />
+      <file name="$USER_HOME$/fun/vue-admin/src/store/modules/menu/charts.js" timestamp="1480411772798">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/saluck/src/components/Hello.vue" timestamp="1475205165285">
-        <mark key="'" line="18" column="3" />
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" timestamp="1480652378030">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="100" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/ChargeResult.jsx" timestamp="1456136223191">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="58" column="18" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/workspace/mlucky/src/app.js" timestamp="1480649966496">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/main.js" timestamp="1473157081945">
-        <mark key="'" line="55" column="18" />
-        <mark key="[" line="71" column="43" />
-        <mark key="]" line="71" column="43" />
-        <mark key="^" line="71" column="43" />
-        <mark key="." line="71" column="43" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/charts.js" timestamp="1480587496114">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/lordofpomelo/game-server/config/serverProtos.json" timestamp="1454581092049">
-        <mark key="'" line="263" column="20" />
-        <mark key="[" line="281" column="14" />
-        <mark key="]" line="281" column="19" />
-        <mark key="." line="281" column="19" />
-        <mark key="^" line="281" column="19" />
+      <file name="$USER_HOME$/fun/vue-admin/build/webpack.prod.conf.js" timestamp="1480402149577">
+        <mark key="[" line="53" column="14" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+        <mark key="^" line="53" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/temcharge.jsx" timestamp="1456123667371">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/award.js" timestamp="1480588338613">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478166264213">
+      <file name="$USER_HOME$/fun/vue-admin/src/app.js" timestamp="1480579089980">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1480649099402">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/components/Zen/index.js" timestamp="1472615084989">
         <mark key="[" line="2" column="18" />
@@ -271,44 +279,16 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/routes/Zen/containers/ZenContainer.js" timestamp="1473150212794">
-        <mark key="'" line="0" column="34" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="62" />
-        <mark key="^" line="15" column="63" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/tmp/history/package.json" timestamp="1452580656395">
-        <mark key="'" line="66" column="3" />
-        <mark key="[" line="65" column="27" />
-        <mark key="]" line="65" column="27" />
-        <mark key="." line="65" column="27" />
-        <mark key="^" line="65" column="27" />
-      </file>
       <file name="$USER_HOME$/workspace/treasures/game-server/config/servers.json" timestamp="1454408510146">
         <mark key="[" line="7" column="76" />
         <mark key="]" line="7" column="100" />
         <mark key="^" line="7" column="100" />
         <mark key="." line="7" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/package.json" timestamp="1472792193952">
-        <mark key="'" line="20" column="45" />
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="47" />
-        <mark key="." line="59" column="18" />
-        <mark key="^" line="32" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" timestamp="1473224136731">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1480430388437">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1480649129310">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/shared/config/mysql.json" timestamp="1454580923770">
         <mark key="[" line="14" column="18" />
@@ -316,39 +296,16 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/learn-vue/lesson_1.html" timestamp="1478162781119">
-        <mark key="'" line="106" column="46" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="57" column="4" />
-        <mark key="^" line="57" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/learn-vue/README.md" timestamp="1478164452169">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/containers/HotContainer.js" timestamp="1473318942508">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/modules/hot.js" timestamp="1473304702436">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/mThrone/src/routes/Zen/index.js" timestamp="1473148209822">
-        <mark key="'" line="2" column="27" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1480646015227">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Counter/containers/CounterContainer.js" timestamp="1473219075396">
         <mark key="[" line="8" column="20" />
@@ -362,14 +319,17 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/fun/vue-admin/src/store/index.js" timestamp="1480497700595">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/modules/Hot.js" timestamp="1473149928648">
         <mark key="[" line="60" column="18" />
         <mark key="]" line="60" column="20" />
         <mark key="." line="60" column="20" />
         <mark key="^" line="60" column="20" />
-      </file>
-      <file name="$USER_HOME$/fun/material-ui/docs/src/app/components/AppNavDrawer.js" timestamp="1473319430161">
-        <mark key="'" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/learn-vue/lesson_4.html" timestamp="1478485819350">
         <mark key="[" line="17" column="0" />
@@ -377,86 +337,21 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" timestamp="1456137349209">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="115" column="98" />
-        <mark key="^" line="1" column="32" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/product.js" timestamp="1480588780799">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/fun/vue-admin/client/components/layout/FooterBar.vue" timestamp="1480407410267">
+        <mark key="[" line="4" column="123" />
+        <mark key="]" line="4" column="127" />
+        <mark key="." line="4" column="127" />
+        <mark key="^" line="4" column="127" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="25" filename="$USER_HOME$/workspace/mThrone/package.json" />
-      <jump line="15" column="1" filename="$USER_HOME$/workspace/mThrone/src/routes/index.js" />
-      <jump line="20" column="45" filename="$USER_HOME$/workspace/mThrone/package.json" />
-      <jump line="55" column="18" filename="$USER_HOME$/workspace/mThrone/src/main.js" />
-      <jump line="24" column="2" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/index.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/modules/zen.js" />
-      <jump line="5" column="11" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/modules/zen.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/modules/zen.js" />
-      <jump line="42" column="11" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/modules/zen.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/containers/ZenContainer.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/components/Zen.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/index.js" />
-      <jump line="2" column="3" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/containers/ZenContainer.js" />
-      <jump line="9" column="39" filename="$USER_HOME$/workspace/mThrone/src/components/Zen/Zen.js" />
-      <jump line="15" column="9" filename="$USER_HOME$/workspace/mThrone/src/containers/AppContainer.js" />
-      <jump line="6" column="38" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/modules/zen.js" />
-      <jump line="5" column="44" filename="$USER_HOME$/workspace/mThrone/src/layouts/CoreLayout/CoreLayout.js" />
-      <jump line="12" column="17" filename="$USER_HOME$/workspace/mThrone/src/routes/index.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="28" column="21" filename="$USER_HOME$/workspace/mThrone/src/components/Counter/Counter.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Counter/Counter.js" />
-      <jump line="17" column="9" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="170" column="9" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="7" column="28" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="29" column="27" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/AppNavDrawer.js" />
-      <jump line="11" column="6" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="233" column="27" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="2" column="32" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="157" column="6" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="199" column="16" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="107" column="33" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="113" column="6" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="120" column="6" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="137" column="6" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/Master.js" />
-      <jump line="148" column="19" filename="$USER_HOME$/fun/material-ui/docs/src/app/components/AppNavDrawer.js" />
-      <jump line="45" column="16" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="73" column="16" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="30" column="11" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="18" column="21" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Home/components/HomeView.js" />
-      <jump line="68" column="15" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="14" column="17" filename="$USER_HOME$/workspace/mThrone/src/routes/Home/components/HomeView.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/mThrone/config/index.js" />
-      <jump line="4" column="30" filename="$USER_HOME$/workspace/mThrone/src/components/Zen/Zen.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Zen/Zen.js" />
-      <jump line="4" column="20" filename="$USER_HOME$/workspace/mThrone/src/components/HotView/HotView.js" />
-      <jump line="35" column="22" filename="$USER_HOME$/workspace/mThrone/src/components/HotView/HotView.js" />
-      <jump line="12" column="11" filename="$USER_HOME$/workspace/mThrone/src/routes/Home/components/HomeView.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/workspace/mThrone/src/components/HotView/HotView.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Hot/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Hot/index.js" />
-      <jump line="2" column="27" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/index.js" />
-      <jump line="13" column="20" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/modules/zen.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/modules/zen.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/modules/zen.js" />
-      <jump line="10" column="11" filename="$USER_HOME$/workspace/mThrone/src/routes/Hot/containers/HotContainer.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/containers/ZenContainer.js" />
-      <jump line="0" column="34" filename="$USER_HOME$/workspace/mThrone/src/routes/Zen/containers/ZenContainer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Hot/containers/HotContainer.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/mThrone/src/layouts/CoreLayout/CoreLayout.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/workspace/mThrone/src/containers/AppContainer.js" />
-      <jump line="13" column="20" filename="$USER_HOME$/workspace/mThrone/src/containers/AppContainer.js" />
-      <jump line="19" column="48" filename="$USER_HOME$/workspace/mThrone/src/containers/AppContainer.js" />
-      <jump line="4" column="40" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Hot/containers/HotContainer.js" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/mThrone/src/components/Header/Header.js" />
       <jump line="24" column="11" filename="$USER_HOME$/workspace/mThrone/src/routes/Hot/modules/hot.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mThrone/src/routes/Hot/modules/hot.js" />
@@ -486,80 +381,151 @@
       <jump line="53" column="18" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
       <jump line="5" column="20" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
       <jump line="43" column="18" filename="$USER_HOME$/workspace/learn-vue/lesson_3.html" />
+      <jump line="10" column="16" filename="$USER_HOME$/fun/vue-admin/client/views/Home.vue" />
+      <jump line="16" column="26" filename="$USER_HOME$/fun/vue-admin/package.json" />
+      <jump line="1" column="6" filename="$USER_HOME$/fun/vue-admin/src/views/dashboard/index.vue" />
+      <jump line="25" column="6" filename="$USER_HOME$/fun/vue-admin/build/webpack.base.conf.js" />
+      <jump line="62" column="7" filename="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" />
+      <jump line="47" column="8" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="106" column="0" filename="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" />
+      <jump line="42" column="40" filename="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" />
+      <jump line="48" column="39" filename="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" />
+      <jump line="54" column="38" filename="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" />
+      <jump line="128" column="4" filename="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" />
+      <jump line="15" column="37" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="109" column="21" filename="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" />
+      <jump line="119" column="8" filename="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" />
+      <jump line="130" column="21" filename="$USER_HOME$/fun/vue-admin/src/views/charts/Chartjs.vue" />
+      <jump line="74" column="21" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="61" column="6" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="70" column="21" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="53" column="6" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="75" column="22" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="52" column="6" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="72" column="27" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="78" column="32" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="76" column="28" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="77" column="37" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="19" column="4" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="45" column="7" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="46" column="10" filename="$USER_HOME$/fun/vue-admin/src/views/Home.vue" />
+      <jump line="15" column="1" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
+      <jump line="20" column="38" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
+      <jump line="48" column="5" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="33" column="13" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="69" column="7" filename="$USER_HOME$/fun/vue-admin/src/components/layout/Sidebar.vue" />
+      <jump line="10" column="2" filename="$USER_HOME$/fun/vuex/examples/shopping-cart/store/modules/products.js" />
+      <jump line="0" column="50" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
+      <jump line="13" column="15" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/fun/vue-admin/src/store/actions.js" />
+      <jump line="14" column="17" filename="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" />
+      <jump line="11" column="36" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="67" column="1" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="74" column="3" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="2" column="27" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="12" column="51" filename="$USER_HOME$/fun/vue-admin/src/App.vue" />
+      <jump line="59" column="21" filename="$USER_HOME$/fun/vue-admin/node_modules/vue-nprogress/src/index.js" />
+      <jump line="62" column="93" filename="$USER_HOME$/fun/vue-admin/node_modules/vue-nprogress/src/index.js" />
+      <jump line="28" column="61" filename="$USER_HOME$/fun/vue-admin/node_modules/vue-nprogress/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/fun/vue-admin/node_modules/vue-nprogress/src/index.js" />
+      <jump line="428" column="11" filename="$USER_HOME$/fun/vue-admin/node_modules/nprogress/nprogress.js" />
+      <jump line="19" column="30" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
+      <jump line="20" column="20" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
+      <jump line="1" column="31" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
+      <jump line="13" column="41" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/uifeatures.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/uifeatures.js" />
+      <jump line="5" column="21" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" />
+      <jump line="7" column="29" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" />
+      <jump line="6" column="17" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/product.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/product.js" />
+      <jump line="53" column="3" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
+      <jump line="283" column="37" filename="$USER_HOME$/workspace/mlucky/src/views/tables/Basic.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/tables/Basic.vue" />
+      <jump line="18" column="16" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" />
+      <jump line="89" column="3" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</text>
+        <text encoding="base64">XDxsYXp5TG9hZGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8Y291bnRlcj48L2NvdW50ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWNsZSBjbGFzcz0idGlsZSBpcy1jaGlsZCBib3giPgogICAgICAgICAgCiAgICAgICAgPC9hcnRpY2xlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJlbGVjdHJvbi1kZXZ0b29scy1pbnN0YWxsZXIiOiAiXjIuMC4xIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJlbGVjdHJvbiI6ICJeMS40LjciLAo=</text>
+        <text encoding="base64">ICAgICAgPHBhZ2luYXRlLWxpbmtzIGZvcj0ibGFuZ3VhZ2VzIiA6bGltaXQ9IjIiPjwvcGFnaW5hdGUtbGlua3M+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlbGVjdHJvbiI6ICJjcm9zcy1lbnYgTk9ERV9FTEVDVFJPTj10cnVlIG5wbSBydW4gYnVpbGQgJiYgZWxlY3Ryb24gZWxlY3Ryb24uanMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cGFnaW5hdGUgbmFtZT0ibGFuZ3VhZ2VzIiA6bGlzdD0ibGFuZ3VhZ2VzIj4KICAgICAgICAgIDxsaSB2LWZvcj0ibGFuZ3VhZ2UgaW4gcGFnaW5hdGVkKCdsYW5ndWFnZXMnKSI+CiAgICAgICAgICAgIHt7IGxhbmd1YWdlIH19CiAgICAgICAgICA8L2xpPgogICAgICAgIDwvcGFnaW5hdGU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgZGF0YSA9IHsgY291bnRlcjogMH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPHBhZ2luYXRlIG5hbWU9Imxhbmd1YWdlcyIgOmxpc3Q9Imxhbmd1YWdlcyI+CiAgICAgICAgPGxpIHYtZm9yPSJsYW5ndWFnZSBpbiBwYWdpbmF0ZWQoJ2xhbmd1YWdlcycpIj4KICAgICAgICAgIHt7IGxhbmd1YWdlIH19CiAgICAgICAgPC9saT4KICAgICAgPC9wYWdpbmF0ZT4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj48L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwYWdpbmF0ZSBuYW1lPSJsYW5ndWFnZXMiIDpsaXN0PSJsYW5ndWFnZXMiPgogICAgICA8bGkgdi1mb3I9Imxhbmd1YWdlIGluIHBhZ2luYXRlZCgnbGFuZ3VhZ2VzJykiPgogICAgICAgIHt7IGxhbmd1YWdlIH19CiAgICAgIDwvbGk+CiAgICA8L3BhZ2luYXRlPgogICAgPHBhZ2luYXRlLWxpbmtzIGZvcj0ibGFuZ3VhZ2VzIiA6bGltaXQ9IjIiPjwvcGFnaW5hdGUtbGlua3M+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxsYXp5TG9hZGluZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsYXp5TG9hZGluZ1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VQcm90b2J1Zlw+</entry>
-        <entry encoding="base64">XDx0ZW1wb3JhcnlcPg==</entry>
-        <entry encoding="base64">XDx0ZW1jaGFyZ2VcPg==</entry>
-        <entry encoding="base64">XDxUZW1wUGF5XD4=</entry>
-        <entry encoding="base64">XDxnZXRDYXJ0TGlzdFw+</entry>
-        <entry encoding="base64">XDxEU19TVE9SRVw+</entry>
-        <entry>dis</entry>
-        <entry encoding="base64">XDxBcHBOYXZEcmF3ZXJcPg==</entry>
-        <entry encoding="base64">XDxDb21wb25lbnRcPg==</entry>
-        <entry encoding="base64">XDxNYXN0ZXJcPg==</entry>
-        <entry encoding="base64">XDxBcHBCYXJcPg==</entry>
-        <entry encoding="base64">XDxuYXZEcmF3ZXJPcGVuXD4=</entry>
-        <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
-        <entry encoding="base64">XDxmZXRjaFw+</entry>
-        <entry encoding="base64">XDx0aHVua1w+</entry>
-        <entry encoding="base64">XDxzdGF0ZVw+</entry>
-        <entry encoding="base64">XDxvbkNoYW5nZUxpc3RcPg==</entry>
         <entry encoding="base64">XDxTZWxlY3RhYmxlTGlzdFw+</entry>
         <entry encoding="base64">XDxtYWtlU2VsZWN0YWJsZVw+</entry>
         <entry encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxob21lcGFnZVw+</entry>
+        <entry encoding="base64">XDxzZXJpZXNEYXRhXD4=</entry>
+        <entry encoding="base64">XDxsYWJlbHNcPg==</entry>
+        <entry encoding="base64">XDxkYXRhXzNcPg==</entry>
+        <entry encoding="base64">XDxsYWJlbHNfM1w+</entry>
+        <entry encoding="base64">XDxzZXJpZXNcPg==</entry>
+        <entry encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JfM1w+</entry>
+        <entry encoding="base64">XDxDaGFydFw+</entry>
+        <entry encoding="base64">XDx0b2dnbGVEZXZpY2VcPg==</entry>
+        <entry encoding="base64">XDxleHBhbmRNZW51XD4=</entry>
+        <entry encoding="base64">XDxhbGxQcm9kdWN0c1w+</entry>
+        <entry encoding="base64">XDxBVVRIRU5USUNBVEVfUkVRVUVTVFw+</entry>
+        <entry encoding="base64">XDxucHJvZ3Jlc3NcPg==</entry>
+        <entry encoding="base64">XDxhcHBseU9uSHR0cFw+</entry>
+        <entry encoding="base64">XDxhZGRDbGFzc1w+</entry>
+        <entry encoding="base64">XDxkYXNoYm9hcmRcPg==</entry>
+        <entry encoding="base64">XDxsYXp5TG9hZGluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>

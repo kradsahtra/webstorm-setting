@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
@@ -17,12 +21,25 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="FileChooser.NewFolder" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -31,6 +48,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -38,6 +56,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="meta f1" />
     <keyboard-shortcut first-keystroke="ctrl meta m" />
