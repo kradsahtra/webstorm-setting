@@ -22,7 +22,7 @@
         <mark key="^" line="56" column="22" />
         <mark key="." line="56" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1480672862972">
+      <file name="/a.dummy" timestamp="1480910833009">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -168,12 +168,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1480673111450">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
+      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1480911192876">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1480673289082">
         <mark key="'" line="1" column="44" />
@@ -261,18 +261,18 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" timestamp="1480673454178">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" timestamp="1480909438443">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="51" column="71" />
-        <mark key="]" line="51" column="81" />
-        <mark key="." line="51" column="71" />
-        <mark key="^" line="51" column="70" />
+        <mark key="[" line="51" column="60" />
+        <mark key="]" line="51" column="62" />
+        <mark key="." line="51" column="60" />
+        <mark key="^" line="51" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/app.js" timestamp="1480672680280">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="53" />
+      <file name="$USER_HOME$/workspace/mlucky/src/app.js" timestamp="1480909745429">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="51" />
         <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="25" />
+        <mark key="." line="14" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/charts.js" timestamp="1480587496114">
         <mark key="[" line="9" column="0" />
@@ -338,12 +338,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1480673062104">
-        <mark key="'" line="4" column="15" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="35" column="40" />
-        <mark key="." line="35" column="40" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1480910807643">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Counter/containers/CounterContainer.js" timestamp="1473219075396">
         <mark key="[" line="8" column="20" />
@@ -492,44 +491,44 @@
       <jump line="19" column="7" filename="$USER_HOME$/workspace/mlucky/src/store/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>updated_at</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coVnVlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>updated_at</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwb25zaXZlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ2xvZ2luJywge2VtYWlsOiAnbGljaGFuZ0BhZHNxdWFyZS10ZWNoLmNvbScsIHBhc3N3b3JkOiAnMTIzNDU2J30pCg==</text>
+      <register name="0" type="4">
+        <text>data.token</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coVnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLnVzZXJfaWQgPSBkYXRhLmlkCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4uL3N0b3JlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLmxvZ2luU3RhdHVzID0gJ3N1Y2Nlc3NmdWwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFZ1ZS5odHRwLmhlYWRlcnMuY29tbW9uWydYLUFVVEgtVE9LRU4nXSA9IGRhdGEudG9rZW4K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coc3RvcmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFZ1ZS5odHRwLmhlYWRlcnMuY29tbW9uWydYLUFVVEgtVVNFUiddID0gZGF0YS5pZAo=</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhdXRoX2Vycm9yOiBudWxsCg==</text>
+        <text encoding="base64">ICAgIFZ1ZS5odHRwLmhlYWRlcnMuY29tbW9uWydYLUFVVEgtVVNFUiddID0gZGF0YS5pZC50b1N0cmluZygpCiAgICBWdWUuaHR0cC5oZWFkZXJzLmNvbW1vblsnWC1BVVRILVRPS0VOJ10gPSBkYXRhLnRva2VuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2dpblN0YXR1czogbnVsbCwK</text>
+        <text encoding="base64">ICAgIFZ1ZS5odHRwLmhlYWRlcnMuY29tbW9uWydYLUFVVEgtVVNFUiddID0gZGF0YS5pZC50b1N0cmluZygpCiAgICBWdWUuaHR0cC5oZWFkZXJzLmNvbW1vblsnWC1BVVRILVRPS0VOJ10gPSBkYXRhLnRva2VuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0b2tlbjogbnVsbCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFZ1ZS5odHRwLm9wdGlvbnMucm9vdCA9ICdodHRwOi8vMTIxLjQwLjI5LjE0NC9hZG1pbi8nCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlLnVzZXJfaWQgPSBkYXRhLmlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
