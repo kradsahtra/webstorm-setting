@@ -392,11 +392,11 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1481193471222">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="18" column="58" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1481194919275">
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="47" column="48" />
+        <mark key="." line="47" column="48" />
+        <mark key="^" line="47" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/modules/Hot.js" timestamp="1473149928648">
         <mark key="[" line="60" column="18" />
@@ -528,7 +528,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VyaWVzRGF0YSAoKSB7CiAgICAgICAgbGV0IGRhdGEgPSB7CiAgICAgICAgICBsYWJlbHM6IHRoaXMubGFiZWxzXzMKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGRhdGEKICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>:click=&quot;login&quot;</text>
@@ -540,31 +540,31 @@
         <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4vc3RvcmUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VyaWVzRGF0YSAoKSB7CiAgICAgICAgbGV0IGRhdGEgPSB7CiAgICAgICAgICBsYWJlbHM6IHRoaXMubGFiZWxzXzMKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGRhdGEKICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xpY2tlZCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpbiAoKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9naW4gKCkgewogICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdsb2dpbicsIHtlbWFpbDogJ2xpY2hhbmdAYWRzcXVhcmUtdGVjaC5jb20nLCBwYXNzd29yZDogJzEyMzQ1Nid9KQogICAgICB9LAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2luICgpIHsKICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ2xvZ2luJywge2VtYWlsOiAnbGljaGFuZ0BhZHNxdWFyZS10ZWNoLmNvbScsIHBhc3N3b3JkOiAnMTIzNDU2J30pCiAgICB9LAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dpbiAoKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbG9naW4gKCkgewogICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdsb2dpbicsIHtlbWFpbDogJ2xpY2hhbmdAYWRzcXVhcmUtdGVjaC5jb20nLCBwYXNzd29yZDogJzEyMzQ1Nid9KQogICAgICB9LAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ2xvZ2luJywge2VtYWlsOiAnbGljaGFuZ0BhZHNxdWFyZS10ZWNoLmNvbScsIHBhc3N3b3JkOiAnMTIzNDU2J30pCg==</text>
+        <text encoding="base64">ICAgIGxvZ2luICgpIHsKICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ2xvZ2luJywge2VtYWlsOiAnbGljaGFuZ0BhZHNxdWFyZS10ZWNoLmNvbScsIHBhc3N3b3JkOiAnMTIzNDU2J30pCiAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
