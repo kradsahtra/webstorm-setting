@@ -124,10 +124,11 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/Home.vue" timestamp="1481102098390">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/Home.vue" timestamp="1481193174588">
         <mark key="'" line="9" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="110" column="7" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
@@ -314,11 +315,10 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481191879244">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="7" column="36" />
+      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481192958382">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/app.js" timestamp="1480579089980">
         <mark key="[" line="14" column="5" />
@@ -392,11 +392,11 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1481188869386">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="10" column="75" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1481193471222">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="18" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/modules/Hot.js" timestamp="1473149928648">
         <mark key="[" line="60" column="18" />
@@ -528,10 +528,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>path/</text>
+        <text>:click=&quot;login&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblN0YXR1c1w+</text>
@@ -540,31 +540,31 @@
         <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4vc3RvcmUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dpbiAoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZSkK</text>
+        <text encoding="base64">ICAgICAgbG9naW4gKCkgewogICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdsb2dpbicsIHtlbWFpbDogJ2xpY2hhbmdAYWRzcXVhcmUtdGVjaC5jb20nLCBwYXNzd29yZDogJzEyMzQ1Nid9KQogICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5leHQoKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2luICgpIHsKICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ2xvZ2luJywge2VtYWlsOiAnbGljaGFuZ0BhZHNxdWFyZS10ZWNoLmNvbScsIHBhc3N3b3JkOiAnMTIzNDU2J30pCiAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5leHQoewogICAgICBwYXRoOiAnL2xvZ2luJywKICAgICAgcXVlcnk6IHsgcmVkaXJlY3Q6IHRvLmZ1bGxQYXRoIH0KICAgIH0pCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ2xvZ2luJywge2VtYWlsOiAnbGljaGFuZ0BhZHNxdWFyZS10ZWNoLmNvbScsIHBhc3N3b3JkOiAnMTIzNDU2J30pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVxdWlyZUF1dGggKHRvLCBmcm9tLCBuZXh0KSB7CiAgaWYgKCFhdXRoLmxvZ2dlZEluKCkpIHsKICAgIG5leHQoewogICAgICBwYXRoOiAnL2xvZ2luJywKICAgICAgcXVlcnk6IHsgcmVkaXJlY3Q6IHRvLmZ1bGxQYXRoIH0KICAgIH0pCiAgfSBlbHNlIHsKICAgIG5leHQoKQogIH0KfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
