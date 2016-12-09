@@ -6,6 +6,9 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -14,6 +17,7 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
   <action id="EditorUnSelectWord" />
   <action id="EditorUp">

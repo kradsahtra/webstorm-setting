@@ -315,10 +315,11 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481192958382">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481256284833">
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="31" />
+        <mark key="." line="45" column="31" />
+        <mark key="^" line="45" column="31" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/app.js" timestamp="1480579089980">
         <mark key="[" line="14" column="5" />
@@ -326,7 +327,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480933522231">
+      <file name="/Dummy.txt" timestamp="1481254247037">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="41" />
@@ -367,12 +368,12 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1481191275214">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1481253226943">
         <mark key="'" line="8" column="2" />
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
-        <mark key="^" line="34" column="34" />
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Counter/containers/CounterContainer.js" timestamp="1473219075396">
         <mark key="[" line="8" column="20" />
@@ -392,11 +393,11 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1481194919275">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="47" column="48" />
-        <mark key="." line="47" column="48" />
-        <mark key="^" line="47" column="48" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1481253872805">
+        <mark key="[" line="42" column="44" />
+        <mark key="]" line="42" column="44" />
+        <mark key="." line="42" column="44" />
+        <mark key="^" line="41" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/mThrone/src/routes/Hot/modules/Hot.js" timestamp="1473149928648">
         <mark key="[" line="60" column="18" />
@@ -527,11 +528,11 @@
       <jump line="8" column="2" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2VyaWVzRGF0YSAoKSB7CiAgICAgICAgbGV0IGRhdGEgPSB7CiAgICAgICAgICBsYWJlbHM6IHRoaXMubGFiZWxzXzMKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGRhdGEKICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>console.log</text>
       </register>
       <register name="-" type="4">
-        <text>:click=&quot;login&quot;</text>
+        <text>console.log</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblN0YXR1c1w+</text>
@@ -540,31 +541,31 @@
         <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4vc3RvcmUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2VyaWVzRGF0YSAoKSB7CiAgICAgICAgbGV0IGRhdGEgPSB7CiAgICAgICAgICBsYWJlbHM6IHRoaXMubGFiZWxzXzMKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGRhdGEKICAgICAgfQo=</text>
+        <text encoding="base64">ICBpZiAoZnJvbSA9PT0gJ2xvZ2luJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xpY2tlZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbW1pdCh0eXBlcy5BVVRIRU5USUNBVEVfUkVRVUVTVCkKICAgIGF1dGgubG9naW5BUEkocGFyYW1zLAogICAgICAoZGF0YSkgPT4gY29tbWl0KHR5cGVzLkFVVEhFTlRJQ0FURV9TVUNDRVNTLCBkYXRhKSwKICAgICAgKGVycm9yKSA9PiBjb21taXQodHlwZXMuQVVUSEVOVElDQVRFX0ZBSUxVUkUsIGVycm9yKQogICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VyaWVzRGF0YSAoKSB7CiAgICAgICAgbGV0IGRhdGEgPSB7CiAgICAgICAgICBsYWJlbHM6IHRoaXMubGFiZWxzXzMKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGRhdGEKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xpY2tlZCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpbiAoKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9naW4gKCkgewogICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdsb2dpbicsIHtlbWFpbDogJ2xpY2hhbmdAYWRzcXVhcmUtdGVjaC5jb20nLCBwYXNzd29yZDogJzEyMzQ1Nid9KQogICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2luICgpIHsKICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ2xvZ2luJywge2VtYWlsOiAnbGljaGFuZ0BhZHNxdWFyZS10ZWNoLmNvbScsIHBhc3N3b3JkOiAnMTIzNDU2J30pCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dpbiAoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
