@@ -304,12 +304,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481528657670">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481615092486">
         <mark key="'" line="22" column="49" />
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="32" column="28" />
-        <mark key="^" line="32" column="118" />
-        <mark key="." line="32" column="28" />
+        <mark key="[" line="54" column="35" />
+        <mark key="]" line="54" column="35" />
+        <mark key="^" line="54" column="37" />
+        <mark key="." line="54" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481268124503">
         <mark key="'" line="8" column="0" />
@@ -532,16 +532,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cGxhY2Vob2xkZXI9IueCueWHu+mAieWPluaXtumXtCIg</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGxhY2Vob2xkZXI9IueCueWHu+mAieWPluaXtumXtCIg</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2dnbGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>readonly</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wgaXMtaG9yaXpvbnRhbCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wtbGFiZWwiPgogICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPuWkseaViOaXtumXtDwvbGFiZWw+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sIGlzLWdyb3VwZWQiPgogICAgICAgICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgICAgICAgIDxkYXRlcGlja2VyIDpjb25maWc9Insgd3JhcDogdHJ1ZSwgZW5hYmxlVGltZTogdHJ1ZSwgZGF0ZUZvcm1hdDogJ1ktbS1kIGg6aSBLJyB9Ij4KICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ1dHRvbiIgZGF0YS10b2dnbGU+PGkgY2xhc3M9ImZhIGZhLWNhbGVuZGFyIj48L2k+PC9hPgogICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnV0dG9uIiBkYXRhLWNsZWFyPjxpIGNsYXNzPSJmYSBmYS1jbG9zZSI+PC9pPjwvYT4KICAgICAgICAgICAgICAgIDwvZGF0ZXBpY2tlcj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRlcGlja2VyIHBsYWNlaG9sZGVyPSLngrnlh7vpgInmi6nml7bpl7QiIDpjb25maWc9InsgZW5hYmxlVGltZTogdHJ1ZSwgZGF0ZUZvcm1hdDogJ1ktbS1kIGg6aSBLJyB9Ij48L2RhdGVwaWNrZXI+Cg==</text>
