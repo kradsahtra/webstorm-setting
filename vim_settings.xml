@@ -323,12 +323,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481626268076">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481683320388">
         <mark key="'" line="14" column="32" />
-        <mark key="[" line="100" column="62" />
-        <mark key="]" line="100" column="72" />
-        <mark key="^" line="100" column="72" />
-        <mark key="." line="100" column="72" />
+        <mark key="[" line="99" column="4" />
+        <mark key="]" line="99" column="10" />
+        <mark key="^" line="99" column="10" />
+        <mark key="." line="99" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481624005125">
         <mark key="'" line="10" column="0" />
@@ -337,12 +337,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481626254067">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481682782966">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/app.js" timestamp="1480579089980">
         <mark key="[" line="14" column="5" />
@@ -551,11 +551,11 @@
       <jump line="16" column="2" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4uL3N0b3JlJwo=</text>
+      <register name="&quot;" type="4">
+        <text>beforeMount</text>
       </register>
       <register name="-" type="4">
-        <text>/index</text>
+        <text>beforeMount</text>
       </register>
       <register name="/" type="4">
         <text>bum</text>
