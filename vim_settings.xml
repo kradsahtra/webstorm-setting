@@ -230,11 +230,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerList.vue" timestamp="1481626280580">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerList.vue" timestamp="1481684094548">
         <mark key="[" line="52" column="59" />
-        <mark key="]" line="52" column="69" />
+        <mark key="]" line="52" column="59" />
         <mark key="^" line="52" column="69" />
-        <mark key="." line="52" column="69" />
+        <mark key="." line="52" column="59" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/mutation-types.js" timestamp="1480500866247">
         <mark key="[" line="8" column="58" />
@@ -323,12 +323,11 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481683320388">
-        <mark key="'" line="14" column="32" />
-        <mark key="[" line="99" column="4" />
-        <mark key="]" line="99" column="10" />
-        <mark key="^" line="99" column="10" />
-        <mark key="." line="99" column="10" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481684728414">
+        <mark key="'" line="70" column="130" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481624005125">
         <mark key="'" line="10" column="0" />
@@ -337,12 +336,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481682782966">
+      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481684070315">
         <mark key="'" line="16" column="2" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/app.js" timestamp="1480579089980">
         <mark key="[" line="14" column="5" />
@@ -449,8 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" />
-      <jump line="6" column="17" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/product.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/product.js" />
       <jump line="53" column="3" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
@@ -523,7 +519,6 @@
       <jump line="130" column="31" filename="$USER_HOME$/workspace/mlucky/src/views/components/Datepicker.vue" />
       <jump line="175" column="70" filename="$USER_HOME$/workspace/mlucky/src/views/components/Datepicker.vue" />
       <jump line="16" column="24" filename="$USER_HOME$/workspace/mlucky/src/views/components/Datepicker.vue" />
-      <jump line="32" column="47" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="45" column="98" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="22" column="49" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="36" column="35" filename="$USER_HOME$/workspace/mlucky/src/views/components/Datepicker.vue" />
@@ -533,9 +528,7 @@
       <jump line="79" column="36" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="43" column="17" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="46" column="18" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="56" column="17" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="59" column="18" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="12" column="27" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="85" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="90" column="12" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="93" column="20" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
@@ -549,55 +542,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/Login.vue" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/404.vue" />
       <jump line="16" column="2" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
+      <jump line="12" column="27" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="32" column="103" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="42" column="102" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="56" column="132" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="70" column="130" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>beforeMount</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>beforeMount</text>
+        <text>var banner =</text>
       </register>
       <register name="/" type="4">
-        <text>bum</text>
+        <text encoding="base64">XDxiYW5uZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>this.$route.params.id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4uL3N0b3JlJwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFubmVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYmFubmVycyA9IHRoaXMuJHN0b3JlLnN0YXRlLmRhdGFDb25maWcuYmFubmVyTGlzdC5saXN0CiAgICAgICAgdmFyIGJhbm5lcklEID0gdGhpcy4kcm91dGUucGFyYW1zLmlkCiAgICAgICAgdmFyIGJhbm5lciA9IGJhbm5lcnMuZmlsdGVyKGZ1bmN0aW9uIChlbCkgewogICAgICAgICAgcmV0dXJuIGVsLmlkID09PSBiYW5uZXJJRAogICAgICAgIH0pWzBdCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICghYmFubmVyKSB7Ci8vICAgICAgICAgIGNvbnNvbGUubG9nKCdub3QgZm91bmQnKQovLyAgICAgICAgICB0aGlzLiRyb3V0ZXIucmVwbGFjZSh7bmFtZTogJzQwNCd9KQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ2dldEJhbm5lckRldGFpbHMnLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwPgogICAgICA8aW1nIHdpZHRoPSIxMDAiIHNyYz0ifmFzc2V0cy9sb2dvLnN2ZyI+CiAgICA8L3A+CiAgICA8ZGl2IGNsYXNzPSJ0aWxlIGlzLXBhcmVudCI+CiAgICAgIDxhcnRpY2xlIGNsYXNzPSJ0aWxlIGlzLWNoaWxkIGJveCI+CiAgICAgICAgPGgxIGNsYXNzPSJ0aXRsZSI+5rOo5YaM55m75b2VPC9oMT4KICAgICAgICA8ZGl2IGNsYXNzPSJibG9jayI+CiAgICAgICAgICA8cCBjbGFzcz0iY29udHJvbCBoYXMtaWNvbiI+CiAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQiIHR5cGU9ImVtYWlsIiBwbGFjZWhvbGRlcj0iRW1haWwiPgogICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxwIGNsYXNzPSJjb250cm9sIGhhcy1pY29uIj4KICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dCIgdHlwZT0icGFzc3dvcmQiIHBsYWNlaG9sZGVyPSJQYXNzd29yZCI+CiAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1sb2NrIj48L2k+CiAgICAgICAgICA8L3A+CiAgICAgICAgICA8cCBjbGFzcz0iY29udHJvbCI+CiAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ1dHRvbiBpcy1zdWNjZXNzIiBAY2xpY2s9ImxvZ2luIj4KICAgICAgICAgICAgICBMb2dpbgogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgPC9hcnRpY2xlPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kcm91dGUucGFyYW1zLmlkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4uL3N0b3JlJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBvcnQgQ2hhcnQgZnJvbSAndnVlLWJ1bG1hLWNoYXJ0anMnCgogIGV4cG9ydCBkZWZhdWx0IHsKICAgIGNvbXBvbmVudHM6IHsKICAgICAgQ2hhcnQKICAgIH0sCiAgICBiZWZvcmVNb3VudCAoKSB7CiAgICB9LAogICAgbWV0aG9kczogewogICAgICBsb2dpbjogZnVuY3Rpb24gKCkgewogICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdsb2dpbicsIHtlbWFpbDogJ2xpY2hhbmdAYWRzcXVhcmUtdGVjaC5jb20nLCBwYXNzd29yZDogJzEyMzQ1Nid9KS50aGVuKAogICAgICAgICAgKCkgPT4gewogICAgICAgICAgICB0aGlzLiRyb3V0ZXIucmVwbGFjZSh0aGlzLiRyb3V0ZS5xdWVyeS5yZWRpcmVjdCB8fCAnLycpCiAgICAgICAgICB9LAogICAgICAgICAgKCkgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZygnbG9naW4gZmFpbGVkJykKICAgICAgICAgIH0KICAgICAgICApCiAgICAgIH0KICAgIH0sCiAgICBkYXRhICgpIHsKICAgICAgcmV0dXJuIHt9CiAgICB9LAogICAgY29tcHV0ZWQ6IHsKICAgICAgYXV0aGVudGljYXRlZCAoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMuJHN0b3JlLnN0YXRlLmF1dGgubG9naW5TdGF0dXMKICAgICAgfQogICAgfQogIH0KPC9zY3JpcHQ+Cgo8c3R5bGUgbGFuZz0ic2NzcyIgc2NvcGVkPgo8L3N0eWxlPgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLmJhbm5lckxpc3Quc2l6ZSA9IGRhdGEuc2l6ZQogICAgc3RhdGUuYmFubmVyTGlzdC5wYWdlID0gZGF0YS5wYWdlCiAgICBzdGF0ZS5iYW5uZXJMaXN0Lmxpc3QgPSBkYXRhLmxpc3QK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYmFubmVycyA9IHRoaXMuJHN0b3JlLnN0YXRlLmRhdGFDb25maWcuYmFubmVyTGlzdC5saXN0CiAgICAgICAgdmFyIGJhbm5lcklEID0gdGhpcy4kcm91dGUucGFyYW1zLmlkCiAgICAgICAgdmFyIGJhbm5lciA9IGJhbm5lcnMuZmlsdGVyKGZ1bmN0aW9uIChlbCkgewogICAgICAgICAgcmV0dXJuIGVsLmlkID09PSBiYW5uZXJJRAogICAgICAgIH0pWzBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search>bum</last-search>
+      <last-search encoding="base64">XDxiYW5uZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>bum</last-pattern>
+      <last-pattern encoding="base64">XDxiYW5uZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -621,8 +619,8 @@
         <entry encoding="base64">XDx0b2dnbGVcPg==</entry>
         <entry encoding="base64">XDxEYXRlcGlja2VyXD4=</entry>
         <entry encoding="base64">XDxkYXRlcGlja2VyXD4=</entry>
-        <entry encoding="base64">XDxiYW5uZXJcPg==</entry>
         <entry>bum</entry>
+        <entry encoding="base64">XDxiYW5uZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
