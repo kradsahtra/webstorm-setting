@@ -355,11 +355,12 @@
         <mark key="^" line="7" column="100" />
         <mark key="." line="7" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1481703395548">
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1481709462512">
         <mark key="'" line="5" column="7" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="57" />
+        <mark key="." line="40" column="57" />
+        <mark key="^" line="40" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/shared/config/mysql.json" timestamp="1454580923770">
         <mark key="[" line="14" column="18" />
@@ -539,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wrap: true,</text>
+        <text>~/fun/datepicker</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>~/fun/datepicker</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZUNoYW5nZWRcPg==</text>
