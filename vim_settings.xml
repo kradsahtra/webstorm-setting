@@ -310,12 +310,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481707753904">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481711148400">
         <mark key="'" line="32" column="103" />
-        <mark key="[" line="56" column="106" />
-        <mark key="]" line="56" column="119" />
-        <mark key="." line="56" column="119" />
-        <mark key="^" line="56" column="119" />
+        <mark key="[" line="92" column="38" />
+        <mark key="]" line="92" column="63" />
+        <mark key="." line="92" column="63" />
+        <mark key="^" line="92" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481705969420">
         <mark key="'" line="10" column="0" />
@@ -540,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>~/fun/datepicker</text>
+        <text>-default</text>
       </register>
       <register name="-" type="4">
-        <text>~/fun/datepicker</text>
+        <text>-default</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZUNoYW5nZWRcPg==</text>
@@ -552,21 +552,24 @@
         <text>wrap: true,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRlcGlja2VyIDpjb25maWc9Insgd3JhcDogdHJ1ZSwgZGVmYXVsdERhdGU6IHN0YXJ0LCBlbmFibGVUaW1lOiB0cnVlIH0iIHYtbW9kZWw9InN0YXJ0IiA6dmFsdWU9InN0YXJ0Ij4KICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ1dHRvbiIgZGF0YS10b2dnbGU+PGkgY2xhc3M9ImZhIGZhLWNhbGVuZGFyIj48L2k+PC9hPgogICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnV0dG9uIiBkYXRhLWNsZWFyPjxpIGNsYXNzPSJmYSBmYS1jbG9zZSI+PC9pPjwvYT4KICAgICAgICAgICAgICAgIDwvZGF0ZXBpY2tlcj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGFydCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQge21hcFN0YXRlfSBmcm9tICd2dWV4Jwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGFydCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1cGRhdGVCYW5uZXJUaXRsZSAoKXsKICAgIAogIH0K</text>
+        <text encoding="base64">ICBpbXBvcnQge21hcFN0YXRlfSBmcm9tICd2dWV4Jwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICB1cGRhdGVCYW5uZXJUaXRsZSAoKXsKICAgIAogIH0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0pCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,
     watch: {
       'title': function (newVal, oldVal) {
@@ -575,14 +578,11 @@
       }
     },</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZHM6IHsKICAgICAgdGl0bGVDaGFuZ2VkICgpIHsKICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpdGxlKQogICAgICB9CiAgICB9Cg==</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIG1ldGhvZHM6IHsKICAgICAgdGl0bGVDaGFuZ2VkICgpIHsKICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpdGxlKQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgIG1ldGhvZHM6IHsKICAgICAgdGl0bGVDaGFuZ2VkICgpIHsKICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpdGxlKQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
