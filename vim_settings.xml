@@ -314,11 +314,11 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481787218347">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481788123374">
         <mark key="'" line="82" column="9" />
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="51" column="34" />
-        <mark key="." line="51" column="34" />
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="42" />
+        <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481769117190">
@@ -341,7 +341,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481785140027">
+      <file name="/Dummy.txt" timestamp="1481788165092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -359,12 +359,11 @@
         <mark key="^" line="7" column="100" />
         <mark key="." line="7" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1481768352647">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="40" column="57" />
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1481788192791">
+        <mark key="'" line="105" column="4" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/shared/config/mysql.json" timestamp="1454580923770">
         <mark key="[" line="14" column="18" />
@@ -441,7 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="6" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
       <jump line="18" column="9" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
       <jump line="13" column="53" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
@@ -541,61 +539,61 @@
       <jump line="124" column="60" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="78" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="72" column="9" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="105" column="4" filename="$USER_HOME$/workspace/mlucky/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>expanded</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ2dWUtYnVsbWEtZGF0ZXBpY2tlciI6ICJmaWxlOi9Vc2Vycy9tbS9mdW4vZGF0ZXBpY2tlciIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>expanded</text>
+        <text encoding="base64">IGlzLWV4cGFuZGVk</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEYXRlcGlja2VyXD4=</text>
+        <text>date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXBkYXRlU3RhcnQgKHZhbHVlKSB7CiAgICAgICAgdGhpcy4kc3RvcmUuY29tbWl0KCd1cGRhdGVCYW5uZXJTdGFydCcsIHZhbHVlKQogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQgKHZhbHVlKSB7CiAgICAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoJ3VwZGF0ZUJhbm5lclN0YXJ0JywgdmFsdWUpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICJ2dWUtYnVsbWEtZGF0ZXBpY2tlciI6ICJmaWxlOi9Vc2Vycy9tbS9mdW4vZGF0ZXBpY2tlciIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXQgKHZhbHVlKSB7CiAgICAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoJ3VwZGF0ZUJhbm5lclN0YXJ0JywgdmFsdWUpCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgY2hhbmdlLicpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRGF0ZXBpY2tlciBmcm9tICd2dWUtYnVsbWEtZGF0ZXBpY2tlcicK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgY2hhbmdlLicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRGF0ZXBpY2tlciwK</text>
+        <text encoding="base64">ICBpbXBvcnQgRGF0ZXBpY2tlciBmcm9tICd2dWUtYnVsbWEtZGF0ZXBpY2tlcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
+        <text encoding="base64">ICAgICAgRGF0ZXBpY2tlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uczogewogICAgICAgIGFsbG93SW5wdXQ6IHRydWUsCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgb3B0aW9uczogewogICAgICAgIGFsbG93SW5wdXQ6IHRydWUsCiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEYXRlcGlja2VyXD4=</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEYXRlcGlja2VyXD4=</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry encoding="base64">XDxsMTBuXD4=</entry>
         <entry encoding="base64">XDxwbGFjZWhvbGRlclw+</entry>
         <entry encoding="base64">XDx0b2dnbGVcPg==</entry>
@@ -615,6 +613,7 @@
         <entry encoding="base64">XDxXcmFwcGVySW5wdXRcPg==</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry encoding="base64">XDxEYXRlcGlja2VyXD4=</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
