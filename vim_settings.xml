@@ -182,12 +182,12 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1481706008301">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1481769166584">
         <mark key="'" line="35" column="2" />
-        <mark key="[" line="77" column="32" />
-        <mark key="]" line="77" column="32" />
-        <mark key="." line="77" column="32" />
-        <mark key="^" line="77" column="38" />
+        <mark key="[" line="85" column="45" />
+        <mark key="]" line="85" column="47" />
+        <mark key="^" line="85" column="47" />
+        <mark key="." line="85" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Levelbar.vue" timestamp="1481619731617">
         <mark key="[" line="47" column="0" />
@@ -288,8 +288,12 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" timestamp="1481703587227">
-        <mark key="'" line="48" column="13" />
+      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" timestamp="1481769737238">
+        <mark key="'" line="50" column="13" />
+        <mark key="[" line="46" column="72" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" timestamp="1481618128382">
         <mark key="'" line="110" column="0" />
@@ -310,19 +314,19 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481711148400">
-        <mark key="'" line="32" column="103" />
-        <mark key="[" line="92" column="38" />
-        <mark key="]" line="92" column="63" />
-        <mark key="." line="92" column="63" />
-        <mark key="^" line="92" column="63" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481769475642">
+        <mark key="'" line="92" column="6" />
+        <mark key="[" line="55" column="83" />
+        <mark key="]" line="55" column="88" />
+        <mark key="^" line="55" column="83" />
+        <mark key="." line="55" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481705969420">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481769117190">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="51" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="18" />
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="46" />
+        <mark key="." line="21" column="46" />
+        <mark key="^" line="21" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481699359570">
         <mark key="'" line="16" column="2" />
@@ -355,11 +359,11 @@
         <mark key="^" line="7" column="100" />
         <mark key="." line="7" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1481709462512">
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1481768352647">
         <mark key="'" line="5" column="7" />
-        <mark key="[" line="40" column="35" />
-        <mark key="]" line="40" column="57" />
-        <mark key="." line="40" column="57" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
         <mark key="^" line="40" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/shared/config/mysql.json" timestamp="1454580923770">
@@ -437,7 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="2" filename="$USER_HOME$/workspace/mlucky/src/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/app.js" />
       <jump line="2" column="27" filename="$USER_HOME$/workspace/mlucky/src/app.js" />
       <jump line="19" column="101" filename="$USER_HOME$/workspace/mlucky/src/app.js" />
@@ -537,67 +540,61 @@
       <jump line="48" column="13" filename="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" />
       <jump line="112" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="32" column="103" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="92" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-default</text>
+        <text>today</text>
       </register>
       <register name="-" type="4">
-        <text>-default</text>
+        <text>today</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aXRsZUNoYW5nZWRcPg==</text>
+        <text encoding="base64">XDxzdGFydERhdGVDaGFuZ2VkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>wrap: true,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHN0b3JlLmNvbW1pdCgndXBkYXRlQmFubmVyQ29tbWFuZCcsIHZhbHVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRlcGlja2VyIDpjb25maWc9Insgd3JhcDogdHJ1ZSwgZGVmYXVsdERhdGU6IHN0YXJ0LCBlbmFibGVUaW1lOiB0cnVlIH0iIHYtbW9kZWw9InN0YXJ0IiA6dmFsdWU9InN0YXJ0Ij4KICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ1dHRvbiIgZGF0YS10b2dnbGU+PGkgY2xhc3M9ImZhIGZhLWNhbGVuZGFyIj48L2k+PC9hPgogICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnV0dG9uIiBkYXRhLWNsZWFyPjxpIGNsYXNzPSJmYSBmYS1jbG9zZSI+PC9pPjwvYT4KICAgICAgICAgICAgICAgIDwvZGF0ZXBpY2tlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLiRzdG9yZS5zdGF0ZS5kYXRhQ29uZmlnLmJhbm5lckRldGFpbHMuc3RhcnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBkYXRlIGNoYW5nZWQnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGFydCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHN0b3JlLmNvbW1pdCgndXBkYXRlQmFubmVyQ29tbWFuZCcsIHZhbHVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQge21hcFN0YXRlfSBmcm9tICd2dWV4Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wgaXMtaG9yaXpvbnRhbCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wtbGFiZWwiPgogICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPuWkseaViOaXtumXtDwvbGFiZWw+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sIGlzLWdyb3VwZWQiPgogICAgICAgICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgICAgICAgIDxkYXRlcGlja2VyCiAgICAgICAgICAgICAgICAgIDpjb25maWc9Insgd3JhcDogdHJ1ZSwgZW5hYmxlVGltZTogdHJ1ZSwgZGF0ZUZvcm1hdDogJ1ktbS1kIGg6aSBLJ30iPgogICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnV0dG9uIiBkYXRhLXRvZ2dsZT48aSBjbGFzcz0iZmEgZmEtY2FsZW5kYXIiPjwvaT48L2E+CiAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidXR0b24iIGRhdGEtY2xlYXI+PGkgY2xhc3M9ImZhIGZhLWNsb3NlIj48L2k+PC9hPgogICAgICAgICAgICAgICAgPC9kYXRlcGlja2VyPgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1cGRhdGVCYW5uZXJUaXRsZSAoKXsKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-    watch: {
-      'title': function (newVal, oldVal) {
-        console.log(oldVal)
-        console.log(this.title)
-      }
-    },</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJ2dWUtZmxhdHBpY2tyIjogIl4yLjAuMyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZHM6IHsKICAgICAgdGl0bGVDaGFuZ2VkICgpIHsKICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpdGxlKQogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPnt7IHRpdGxlIH19PC9wPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZHM6IHsKICAgICAgdGl0bGVDaGFuZ2VkICgpIHsKICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpdGxlKQogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRlcGlja2VyIDpjb25maWc9Insgd3JhcDogdHJ1ZSwgZGVmYXVsdERhdGU6IHN0YXJ0LCBlbmFibGVUaW1lOiB0cnVlIH0iIHYtbW9kZWw9InN0YXJ0IiA6dmFsdWU9InN0YXJ0Ij4KICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ1dHRvbiIgZGF0YS10b2dnbGU+PGkgY2xhc3M9ImZhIGZhLWNhbGVuZGFyIj48L2k+PC9hPgogICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnV0dG9uIiBkYXRhLWNsZWFyPjxpIGNsYXNzPSJmYSBmYS1jbG9zZSI+PC9pPjwvYT4KICAgICAgICAgICAgICAgIDwvZGF0ZXBpY2tlcj4K</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aXRsZUNoYW5nZWRcPg==</last-search>
+      <last-search encoding="base64">XDxzdGFydERhdGVDaGFuZ2VkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aXRsZUNoYW5nZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydERhdGVDaGFuZ2VkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry>page</entry>
         <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry encoding="base64">XDxsMTBuXD4=</entry>
@@ -617,6 +614,7 @@
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDx0aXRsZUNoYW5nZWRcPg==</entry>
+        <entry encoding="base64">XDxzdGFydERhdGVDaGFuZ2VkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
