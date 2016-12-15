@@ -314,12 +314,11 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481788123374">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481793878189">
         <mark key="'" line="82" column="9" />
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="42" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="34" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481769117190">
         <mark key="'" line="10" column="0" />
@@ -341,7 +340,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481788165092">
+      <file name="/Dummy.txt" timestamp="1481789080237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -359,11 +358,11 @@
         <mark key="^" line="7" column="100" />
         <mark key="." line="7" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1481788192791">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1481793833221">
+        <mark key="'" line="103" column="4" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lordofpomelo/shared/config/mysql.json" timestamp="1454580923770">
         <mark key="[" line="14" column="18" />
@@ -543,10 +542,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ2dWUtYnVsbWEtZGF0ZXBpY2tlciI6ICJmaWxlOi9Vc2Vycy9tbS9mdW4vZGF0ZXBpY2tlciIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlzLWV4cGFuZGVk</text>
+        <text encoding="base64">dmFyIHVwbG9hZGVyID0g</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -555,31 +554,31 @@
         <text encoding="base64">ICAgICAgdXBkYXRlU3RhcnQgKHZhbHVlKSB7CiAgICAgICAgdGhpcy4kc3RvcmUuY29tbWl0KCd1cGRhdGVCYW5uZXJTdGFydCcsIHZhbHVlKQogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ2dWUtYnVsbWEtZGF0ZXBpY2tlciI6ICJmaWxlOi9Vc2Vycy9tbS9mdW4vZGF0ZXBpY2tlciIsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQgKHZhbHVlKSB7CiAgICAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoJ3VwZGF0ZUJhbm5lclN0YXJ0JywgdmFsdWUpCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgY2hhbmdlLicpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRGF0ZXBpY2tlciBmcm9tICd2dWUtYnVsbWEtZGF0ZXBpY2tlcicK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRGF0ZXBpY2tlciwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBRaW5pdS51cGxvYWRlcih7CiAgICBydW50aW1lczogJ2h0bWw1LGZsYXNoLGh0bWw0JywKICAgIGJyb3dzZV9idXR0b246ICdjaGFuZ2VJbWFnZUJ0bicsCiAgICB1cHRva2VuX3VybDogJy9hZG1pbi91cHRva2VuLycsCiAgICBkb21haW46ICdodHRwOi8vN3hvZDFsLmNvbTEuejAuZ2xiLmNsb3VkZG4uY29tLycsCiAgICBnZXRfbmV3X3VwdG9rZW46IGZhbHNlLAogICAgY29udGFpbmVyOiAnY29udGFpbmVyJywKICAgIG1heF9maWxlX3NpemU6ICcxMDBtYicsCiAgICBmbGFzaF9zd2ZfdXJsOiAnanMvcGx1cGxvYWQvTW94aWUuc3dmJywKICAgIG1heF9yZXRyaWVzOiAzLAogICAgZHJhZ2Ryb3A6IHRydWUsCiAgICBkcm9wX2VsZW1lbnQ6ICdjb250YWluZXInLAogICAgY2h1bmtfc2l6ZTogJzRtYicsCiAgICBhdXRvX3N0YXJ0OiB0cnVlLAogICAgaW5pdDogewogICAgICAnRmlsZXNBZGRlZCc6IGZ1bmN0aW9uICh1cCwgZmlsZXMpIHsKICAgICAgICBwbHVwbG9hZC5lYWNoKGZpbGVzLCBmdW5jdGlvbiAoZmlsZSkgewogICAgICAgICAgLy8g5paH5Lu25re75Yqg6L+b6Zif5YiX5ZCOLOWkhOeQhuebuOWFs+eahOS6i+aDhQogICAgICAgIH0pCiAgICAgIH0sCiAgICAgICdCZWZvcmVVcGxvYWQnOiBmdW5jdGlvbiAodXAsIGZpbGUpIHsKICAgICAgICAvLyDmr4/kuKrmlofku7bkuIrkvKDliY0s5aSE55CG55u45YWz55qE5LqL5oOFCiAgICAgIH0sCiAgICAgICdVcGxvYWRQcm9ncmVzcyc6IGZ1bmN0aW9uICh1cCwgZmlsZSkgewogICAgICAgIC8vIOavj+S4quaWh+S7tuS4iuS8oOaXtizlpITnkIbnm7jlhbPnmoTkuovmg4UKICAgICAgfSwKICAgICAgJ0ZpbGVVcGxvYWRlZCc6IGZ1bmN0aW9uICh1cCwgZmlsZSwgaW5mbykgewogICAgICAgIC8vIOavj+S4quaWh+S7tuS4iuS8oOaIkOWKn+WQjizlpITnkIbnm7jlhbPnmoTkuovmg4UKICAgICAgICAvLyDlhbbkuK0gaW5mbyDmmK/mlofku7bkuIrkvKDmiJDlip/lkI7vvIzmnI3liqHnq6/ov5Tlm57nmoRqc29u77yM5b2i5byP5aaCCiAgICAgICAgLy8gewogICAgICAgIC8vICAgICJoYXNoIjogIkZoOHhWcW9kMk1RMW1vY2ZJNFM0S3BSTDZEOTgiLAogICAgICAgIC8vICAgICJrZXkiOiAiZ29nb3BoZXIuanBnIgogICAgICAgIC8vICB9CiAgICAgICAgLy8g5Y+C6ICDaHR0cDovL2RldmVsb3Blci5xaW5pdS5jb20vZG9jcy92Ni9hcGkvb3ZlcnZpZXcvdXAvcmVzcG9uc2Uvc2ltcGxlLXJlc3BvbnNlLmh0bWwKCiAgICAgICAgLy8gdmFyIGRvbWFpbiA9IHVwLmdldE9wdGlvbignZG9tYWluJyk7CiAgICAgICAgLy8gdmFyIHJlcyA9IHBhcnNlSlNPTihpbmZvKTsKICAgICAgICAvLyB2YXIgc291cmNlTGluayA9IGRvbWFpbiArIHJlcy5rZXk7IOiOt+WPluS4iuS8oOaIkOWKn+WQjueahOaWh+S7tueahFVybAogICAgICB9LAogICAgICAnRXJyb3InOiBmdW5jdGlvbiAodXAsIGVyciwgZXJyVGlwKSB7CiAgICAgICAgLy8g5LiK5Lyg5Ye66ZSZ5pe2LOWkhOeQhuebuOWFs+eahOS6i+aDhQogICAgICB9LAogICAgICAnVXBsb2FkQ29tcGxldGUnOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgLy8g6Zif5YiX5paH5Lu25aSE55CG5a6M5q+V5ZCOLOWkhOeQhuebuOWFs+eahOS6i+aDhQogICAgICB9LAogICAgICAnS2V5JzogZnVuY3Rpb24gKHVwLCBmaWxlKSB7CiAgICAgICAgLy8g6Iul5oOz5Zyo5YmN56uv5a+55q+P5Liq5paH5Lu255qEa2V56L+b6KGM5Liq5oCn5YyW5aSE55CG77yM5Y+v5Lul6YWN572u6K+l5Ye95pWwCiAgICAgICAgLy8g6K+l6YWN572u5b+F6aG76KaB5ZyoIHVuaXF1ZV9uYW1lczogZmFsc2UgLCBzYXZlX2tleTogZmFsc2Ug5pe25omN55Sf5pWICgogICAgICAgIHZhciBrZXkgPSAnJwogICAgICAgIC8vIGRvIHNvbWV0aGluZyB3aXRoIGtleSBoZXJlCiAgICAgICAgcmV0dXJuIGtleQogICAgICB9CiAgICB9CiAgfSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbXBvcnQgUWluaXUgZnJvbSAncWluaXUtanMnCiAgaW1wb3J0IHBsdXBsb2FkIGZyb20gJ3BsdXBsb2FkJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJxaW5pdS1qcyI6ICJeMS4wLjE0LWJldGEiLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJwbHVwbG9hZCI6ICJeMi4yLjEiLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIHNhdmVfa2V5OiB0cnVlLCAgIC8vIOm7mOiupCBmYWxzZeOAguiLpeWcqOacjeWKoeerr+eUn+aIkHVwdG9rZW7nmoTkuIrkvKDnrZbnlaXkuK3mjIflrprkuoYgYHNhdmFfa2V5YO+8jOWImeW8gOWQr++8jFNES+S8muW/veeVpeWvuWtleeeahOWkhOeQhgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIHVuaXF1ZV9uYW1lczogdHJ1ZSwgLy8g6buY6K6kIGZhbHNl77yMa2V55Li65paH5Lu25ZCN44CC6Iul5byA5ZCv6K+l6YCJ6aG577yMU0RL5Li66Ieq5Yqo55Sf5oiQ5LiK5Lyg5oiQ5Yqf5ZCO55qEa2V577yI5paH5Lu25ZCN77yJ44CCCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIHVwdG9rZW4gOiAnJywgLy/oi6XmnKrmjIflrpp1cHRva2VuX3VybCzliJnlv4XpobvmjIflrpogdXB0b2tlbiAsdXB0b2tlbueUseWFtuS7lueoi+W6j+eUn+aIkAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uczogewogICAgICAgIGFsbG93SW5wdXQ6IHRydWUsCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
