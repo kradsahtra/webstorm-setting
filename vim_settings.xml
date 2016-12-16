@@ -169,11 +169,11 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1481874230159">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="36" />
-        <mark key="^" line="34" column="36" />
-        <mark key="." line="34" column="36" />
+      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1481879194527">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="33" column="36" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/service/auth.js" timestamp="1480932127560">
         <mark key="'" line="20" column="4" />
@@ -540,8 +540,8 @@
       <jump line="117" column="20" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtRGF0YS5hcHBlbmQoJ2tleScsICdrZXknKQo=</text>
       </register>
       <register name="-" type="4">
         <text>error</text>
@@ -553,31 +553,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdG9rZW4gPSByZXNwb25zZS5kYXRhLnVwdG9rZW4K</text>
+        <text encoding="base64">ICAgICAgICBmb3JtRGF0YS5hcHBlbmQoJ2tleScsICdrZXknKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpCiAgICBmb3JtRGF0YS5hcHBlbmQoJ2tleScsICdrZXknKQogICAgZm9ybURhdGEuYXBwZW5kKCd0b2tlbicsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdG9rZW4gPSByZXNwb25zZS5kYXRhLnVwdG9rZW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgIHZhciBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpCiAgICBmb3JtRGF0YS5hcHBlbmQoJ2tleScsICdrZXknKQogICAgZm9ybURhdGEuYXBwZW5kKCd0b2tlbicsICcnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuJHJlZnMuaW1hZ2VGb3JtLnN1Ym1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuJHJlZnMuaW1hZ2VGb3JtLnN1Ym1pdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckNiKGVycm9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYihyZXNwb25zZS5kYXRhLmRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvckNiKGVycm9yKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcm1EYXRhLmFwcGVuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjYihyZXNwb25zZS5kYXRhLmRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
