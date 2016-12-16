@@ -314,12 +314,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481859703851">
-        <mark key="'" line="88" column="9" />
-        <mark key="[" line="155" column="2" />
-        <mark key="]" line="155" column="3" />
-        <mark key="^" line="155" column="3" />
-        <mark key="." line="155" column="3" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481860884465">
+        <mark key="'" line="113" column="6" />
+        <mark key="[" line="118" column="20" />
+        <mark key="]" line="118" column="24" />
+        <mark key="^" line="118" column="24" />
+        <mark key="." line="118" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481769117190">
         <mark key="'" line="10" column="0" />
@@ -440,10 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
-      <jump line="18" column="9" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
-      <jump line="13" column="53" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
       <jump line="9" column="2" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="67" column="0" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
@@ -462,7 +458,6 @@
       <jump line="20" column="17" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" />
       <jump line="19" column="6" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" />
       <jump line="9" column="2" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" />
-      <jump line="28" column="38" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="53" column="2" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="143" column="4" filename="$USER_HOME$/workspace/mlucky/src/views/components/Datepicker.vue" />
       <jump line="139" column="7" filename="$USER_HOME$/workspace/mlucky/src/views/components/Datepicker.vue" />
@@ -511,7 +506,6 @@
       <jump line="79" column="35" filename="$USER_HOME$/workspace/mlucky/src/views/components/Datepicker.vue" />
       <jump line="83" column="46" filename="$USER_HOME$/workspace/mlucky/src/views/components/Datepicker.vue" />
       <jump line="86" column="46" filename="$USER_HOME$/workspace/mlucky/src/views/components/Datepicker.vue" />
-      <jump line="12" column="31" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="42" column="81" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="70" column="102" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="109" column="37" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
@@ -540,19 +534,25 @@
       <jump line="78" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="72" column="9" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="105" column="4" filename="$USER_HOME$/workspace/mlucky/package.json" />
+      <jump line="27" column="27" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="28" column="28" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="118" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="120" column="60" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="12" column="27" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="113" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>'image changed'</text>
       </register>
       <register name="-" type="4">
-        <text>hi-file</text>
+        <text>'image changed'</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text encoding="base64">XDx1cGRhdGVFbmRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>class=&quot;button is-primary is-outlined &quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW1hZ2UgY2hhbmdlZCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
@@ -586,15 +586,14 @@
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVFbmRcPg==</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVFbmRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsMTBuXD4=</entry>
         <entry encoding="base64">XDxwbGFjZWhvbGRlclw+</entry>
         <entry encoding="base64">XDx0b2dnbGVcPg==</entry>
         <entry encoding="base64">XDxkYXRlcGlja2VyXD4=</entry>
@@ -603,7 +602,6 @@
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxiYW5uZXJJbWFnZVw+</entry>
         <entry encoding="base64">XDxkZWZhdWx0RGF0ZVw+</entry>
-        <entry encoding="base64">XDxpbWFnZVw+</entry>
         <entry>banner</entry>
         <entry encoding="base64">XDx0b2RheVw+</entry>
         <entry encoding="base64">XDxtYXhEYXRlXD4=</entry>
@@ -614,6 +612,8 @@
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry encoding="base64">XDxEYXRlcGlja2VyXD4=</entry>
         <entry>date</entry>
+        <entry encoding="base64">XDxpbWFnZVw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVFbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
