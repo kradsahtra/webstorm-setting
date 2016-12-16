@@ -169,11 +169,11 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1481871773589">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="30" />
+      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1481874230159">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="36" />
+        <mark key="^" line="34" column="36" />
+        <mark key="." line="34" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/service/auth.js" timestamp="1480932127560">
         <mark key="'" line="20" column="4" />
@@ -182,12 +182,12 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1481786888330">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1481873594457">
         <mark key="'" line="35" column="2" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="68" column="78" />
-        <mark key="." line="80" column="0" />
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="42" column="14" />
+        <mark key="." line="46" column="49" />
+        <mark key="^" line="46" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Levelbar.vue" timestamp="1481619731617">
         <mark key="[" line="47" column="0" />
@@ -314,19 +314,17 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481872063023">
-        <mark key="'" line="118" column="20" />
-        <mark key="[" line="117" column="47" />
-        <mark key="]" line="117" column="48" />
-        <mark key="^" line="117" column="48" />
-        <mark key="." line="117" column="48" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1481873641501">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481769117190">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481873393347">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="46" />
-        <mark key="." line="21" column="46" />
-        <mark key="^" line="21" column="46" />
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="57" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481699359570">
         <mark key="'" line="16" column="2" />
@@ -543,43 +541,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVFbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW1hZ2UgY2hhbmdlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcm1EYXRhLmFwcGVuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdG9rZW4gPSByZXNwb25zZS5kYXRhLnVwdG9rZW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
+        <text encoding="base64">ICAgIHZhciBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpCiAgICBmb3JtRGF0YS5hcHBlbmQoJ2tleScsICdrZXknKQogICAgZm9ybURhdGEuYXBwZW5kKCd0b2tlbicsICcnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW1hZ2UgY2hhbmdlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuJHJlZnMuaW1hZ2VGb3JtLnN1Ym1pdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIGlkPSJjaGFuZ2VJbWFnZUJ0biIgY2xhc3M9ImJ1dHRvbiBpcy1wcmltYXJ5IGlzLW91dGxpbmVkICI+5pu05pS55Zu+54mHPC9idXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBuYW1lPSJhY2NlcHQiIHR5cGU9ImhpZGRlbiIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBlcnJvckNiKGVycm9yKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBuYW1lPSJjcmMzMiIgdHlwZT0iaGlkZGVuIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBjYihyZXNwb25zZS5kYXRhLmRhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHREYXRlOiAnMjAxNi0xMC0yJwo=</text>
+        <text encoding="base64">ICAgIGZvcm1EYXRhLmFwcGVuZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
