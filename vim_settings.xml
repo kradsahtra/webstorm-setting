@@ -183,10 +183,10 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1482120191873">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1482121449820">
         <mark key="'" line="28" column="14" />
-        <mark key="[" line="64" column="60" />
-        <mark key="]" line="65" column="16" />
+        <mark key="[" line="55" column="2" />
+        <mark key="]" line="55" column="20" />
         <mark key="." line="65" column="16" />
         <mark key="^" line="65" column="16" />
       </file>
@@ -321,12 +321,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1482118454922">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1482121761703">
         <mark key="'" line="12" column="27" />
-        <mark key="[" line="131" column="7" />
-        <mark key="]" line="133" column="20" />
-        <mark key="." line="133" column="20" />
-        <mark key="^" line="133" column="20" />
+        <mark key="[" line="140" column="37" />
+        <mark key="]" line="140" column="41" />
+        <mark key="." line="140" column="41" />
+        <mark key="^" line="140" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1482119478360">
         <mark key="'" line="10" column="0" />
@@ -550,43 +550,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>failed</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>failed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>UPDATE_BANNER_DETAILS_FAILURE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NhdmUgZmFpbGVkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb21taXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbW1pdCh0eXBlcy5VUERBVEVfQkFOTkVSX0RFVEFJTFNfUkVRVUVTVCkKICAgIGRhdGFDb25maWcudXBkYXRlQmFubmVyRGV0YWlsc0FQSShwYXJhbXMuYXV0aEhlYWRlcnMsIHBhcmFtcy5iYW5uZXJJRCwgcGFyYW1zLmRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb21taXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLnFpbml1LmVycm9yID0gZXJyb3IK</text>
+        <text encoding="base64">ICAgIGNvbW1pdCh0eXBlcy5VUERBVEVfQkFOTkVSX0RFVEFJTFNfUkVRVUVTVCkKICAgIGRhdGFDb25maWcudXBkYXRlQmFubmVyRGV0YWlsc0FQSShwYXJhbXMuYXV0aEhlYWRlcnMsIHBhcmFtcy5iYW5uZXJJRCwgcGFyYW1zLmRhdGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgUUlOSVVfSU1BR0VfRE9NQUlOOiBRSU5JVV9JTUFHRV9ET01BSU4KfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlLnFpbml1LmVycm9yID0gZXJyb3IK</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
