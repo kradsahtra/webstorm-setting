@@ -169,11 +169,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1482115265283">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="27" />
-        <mark key="^" line="31" column="27" />
-        <mark key="." line="31" column="27" />
+      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1482119208050">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="56" />
+        <mark key="^" line="42" column="56" />
+        <mark key="." line="42" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/service/auth.js" timestamp="1480932127560">
         <mark key="'" line="20" column="4" />
@@ -182,12 +183,12 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1482117249447">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1482120191873">
         <mark key="'" line="28" column="14" />
-        <mark key="[" line="107" column="53" />
-        <mark key="]" line="107" column="61" />
-        <mark key="^" line="107" column="61" />
-        <mark key="." line="107" column="61" />
+        <mark key="[" line="64" column="60" />
+        <mark key="]" line="65" column="16" />
+        <mark key="." line="65" column="16" />
+        <mark key="^" line="65" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Levelbar.vue" timestamp="1481619731617">
         <mark key="[" line="47" column="0" />
@@ -308,11 +309,11 @@
         <mark key="." line="53" column="27" />
         <mark key="^" line="53" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/const.js" timestamp="1482117236049">
-        <mark key="[" line="0" column="60" />
-        <mark key="]" line="0" column="60" />
-        <mark key="^" line="0" column="60" />
-        <mark key="." line="0" column="60" />
+      <file name="$USER_HOME$/workspace/mlucky/src/const.js" timestamp="1482119220207">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/award.js" timestamp="1480588338613">
         <mark key="[" line="17" column="18" />
@@ -320,19 +321,19 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1482114503539">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1482118454922">
         <mark key="'" line="12" column="27" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="124" column="43" />
+        <mark key="[" line="131" column="7" />
+        <mark key="]" line="133" column="20" />
+        <mark key="." line="133" column="20" />
+        <mark key="^" line="133" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1481873393347">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1482119478360">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="57" />
-        <mark key="." line="25" column="37" />
-        <mark key="^" line="25" column="32" />
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="75" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="29" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1481699359570">
         <mark key="'" line="16" column="2" />
@@ -446,8 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="23" filename="$USER_HOME$/workspace/mlucky/package.json" />
-      <jump line="19" column="31" filename="$USER_HOME$/workspace/mlucky/package.json" />
       <jump line="5" column="7" filename="$USER_HOME$/workspace/mlucky/package.json" />
       <jump line="110" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
@@ -489,7 +488,6 @@
       <jump line="31" column="16" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="33" column="48" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="22" column="40" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
-      <jump line="15" column="24" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
       <jump line="110" column="62" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="114" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
@@ -546,46 +544,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="106" column="40" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="27" column="14" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
+      <jump line="14" column="23" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLnFpbml1LnJlcXVlc3RTdGF0dXMgPSAnc3RvcHBlZCcK</text>
+      <register name="0" type="4">
+        <text>UPDATE_BANNER_DETAILS_FAILURE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBjb21taXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbW1pdCh0eXBlcy5VUERBVEVfQkFOTkVSX0RFVEFJTFNfUkVRVUVTVCkKICAgIGRhdGFDb25maWcudXBkYXRlQmFubmVyRGV0YWlsc0FQSShwYXJhbXMuYXV0aEhlYWRlcnMsIHBhcmFtcy5iYW5uZXJJRCwgcGFyYW1zLmRhdGEpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9LAoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9LAoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN0YXRlLnFpbml1LmVycm9yID0gZXJyb3IK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlc1swXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtRGF0YS5hcHBlbmQoJ2ZpbGUnLCBmaWxlRGF0YSkK</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgUUlOSVVfSU1BR0VfRE9NQUlOOiBRSU5JVV9JTUFHRV9ET01BSU4KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtRGF0YS5hcHBlbmQoJ2ZpbGUnLCBmaWxlRGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
