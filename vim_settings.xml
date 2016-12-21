@@ -331,12 +331,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1482224545062">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1482287670365">
         <mark key="'" line="2" column="26" />
-        <mark key="[" line="136" column="29" />
-        <mark key="]" line="137" column="29" />
-        <mark key="." line="137" column="29" />
-        <mark key="^" line="137" column="29" />
+        <mark key="[" line="136" column="24" />
+        <mark key="]" line="136" column="27" />
+        <mark key="." line="136" column="27" />
+        <mark key="^" line="136" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1482143242898">
         <mark key="'" line="10" column="0" />
@@ -569,10 +569,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vue-bulma/modal</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>vue-bulma/modal</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc01vZGFsVmlzaWJsZVw+</text>
