@@ -223,12 +223,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" timestamp="1487062640387">
-        <mark key="'" line="35" column="49" />
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" timestamp="1487125698944">
+        <mark key="'" line="57" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="27" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="96" column="28" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="25" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="108" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
@@ -328,6 +327,7 @@
       <jump line="35" column="49" filename="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" />
       <jump line="361" column="37" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
       <jump line="1" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
+      <jump line="57" column="40" filename="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,7 +337,7 @@
         <text>/home/ubuntu/.ssh/id_rsa.2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRBcGlBZGRyZXNzXD4=</text>
+        <text encoding="base64">XDxBYm91dFVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmlzRGVsZXRlTW9kYWxWaXNpYmxlID0gZmFsc2UK</text>
@@ -374,15 +374,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRBcGlBZGRyZXNzXD4=</last-search>
+      <last-search encoding="base64">XDxBYm91dFVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRBcGlBZGRyZXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBYm91dFVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWdWVcPg==</entry>
         <entry encoding="base64">XDxVUExPQURfSU1BR0VfU1VDQ0VTU1w+</entry>
         <entry encoding="base64">XDxpbWFnZUlucHV0XD4=</entry>
         <entry encoding="base64">XDxuZXdCYW5uZXJcPg==</entry>
@@ -402,6 +401,7 @@
         <entry>cp</entry>
         <entry encoding="base64">XDxNeURhaWx5QXR0ZW5kYW5jZVw+</entry>
         <entry encoding="base64">XDxnZXRBcGlBZGRyZXNzXD4=</entry>
+        <entry encoding="base64">XDxBYm91dFVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
