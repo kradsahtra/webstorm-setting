@@ -6,6 +6,13 @@
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/Modal.vue" timestamp="1482290382473">
         <mark key="'" line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerList.vue" timestamp="1482219462091">
+        <mark key="'" line="66" column="59" />
+        <mark key="[" line="66" column="21" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="24" />
+        <mark key="^" line="66" column="24" />
+      </file>
       <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480579979177">
         <mark key="'" line="45" column="10" />
         <mark key="[" line="23" column="34" />
@@ -26,10 +33,43 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="21" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" timestamp="1480588898476">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+        <mark key="^" line="54" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/views/404.vue" timestamp="1481625154753">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" timestamp="1481625036802">
+        <mark key="'" line="9" column="2" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/components/Message.vue" timestamp="1482134949270">
         <mark key="'" line="77" column="6" />
         <mark key="[" line="31" column="75" />
         <mark key="]" line="31" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/views/components/Modal.vue" timestamp="1482222023103">
+        <mark key="'" line="21" column="69" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="77" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" timestamp="1481770628908">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/node_modules/nprogress/nprogress.js" timestamp="1480576100451">
         <mark key="'" line="428" column="11" />
@@ -43,6 +83,13 @@
         <mark key="[" line="242" column="0" />
         <mark key="]" line="292" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" timestamp="1481618128382">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="63" />
+        <mark key="." line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+      </file>
       <file name="$USER_HOME$/fun/vue-admin/client/views/Home.vue" timestamp="1480407736458">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="12" column="0" />
@@ -50,7 +97,41 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/discovery/DailyTurntable.jsx" timestamp="1487062171968" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1482291186426">
+        <mark key="'" line="186" column="23" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="41" />
+        <mark key="." line="205" column="0" />
+        <mark key="^" line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1482143242898">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="67" />
+        <mark key="^" line="34" column="37" />
+        <mark key="." line="34" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/utils/notification.js" timestamp="1482138469056">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1482143875705">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="55" column="40" />
+        <mark key="]" line="55" column="40" />
+        <mark key="." line="55" column="40" />
+        <mark key="^" line="55" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1482198875035">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/views/components/modals/Modal.vue" timestamp="1482220008328">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" timestamp="1487062958094">
         <mark key="'" line="1" column="8" />
       </file>
@@ -63,6 +144,13 @@
       </file>
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/CardModal.vue" timestamp="1482290435131">
         <mark key="'" line="10" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487210334310">
+        <mark key="'" line="39" column="20" />
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+        <mark key="." line="46" column="35" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
@@ -79,6 +167,13 @@
       <file name="$USER_HOME$/workspace/mlucky/src/views/components/Notification.vue" timestamp="1482135071633">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1482225074717">
+        <mark key="'" line="103" column="4" />
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="40" />
+        <mark key="." line="45" column="40" />
+        <mark key="^" line="45" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" timestamp="1487058642777">
         <mark key="'" line="41" column="1" />
@@ -120,102 +215,6 @@
         <mark key="^" line="174" column="18" />
         <mark key="." line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/api/auth.js" timestamp="1481267042601">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerList.vue" timestamp="1482219462091">
-        <mark key="'" line="66" column="59" />
-        <mark key="[" line="66" column="21" />
-        <mark key="]" line="66" column="24" />
-        <mark key="." line="66" column="24" />
-        <mark key="^" line="66" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" timestamp="1480588898476">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="12" />
-        <mark key="." line="54" column="12" />
-        <mark key="^" line="54" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/404.vue" timestamp="1481625154753">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" timestamp="1481625036802">
-        <mark key="'" line="9" column="2" />
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="17" column="32" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="17" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/components/Modal.vue" timestamp="1482222023103">
-        <mark key="'" line="21" column="69" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="77" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" timestamp="1481770628908">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/banner.vue" timestamp="1481618128382">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="63" />
-        <mark key="." line="24" column="60" />
-        <mark key="^" line="24" column="60" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1482291186426">
-        <mark key="'" line="186" column="23" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="41" />
-        <mark key="." line="205" column="0" />
-        <mark key="^" line="6" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1482143242898">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="34" column="42" />
-        <mark key="]" line="34" column="67" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="34" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/utils/notification.js" timestamp="1482138469056">
-        <mark key="'" line="4" column="6" />
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1482143875705">
-        <mark key="'" line="16" column="2" />
-        <mark key="[" line="55" column="40" />
-        <mark key="]" line="55" column="40" />
-        <mark key="." line="55" column="40" />
-        <mark key="^" line="55" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1482198875035">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/components/modals/Modal.vue" timestamp="1482220008328">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="39" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1482225074717">
-        <mark key="'" line="103" column="4" />
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="45" column="40" />
-        <mark key="." line="45" column="40" />
-        <mark key="^" line="45" column="40" />
-      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/product.js" timestamp="1480588780799">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -223,15 +222,18 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/api/auth.js" timestamp="1481267042601">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" timestamp="1487125698944">
         <mark key="'" line="57" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="28" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
-      <jump line="108" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="106" column="40" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="27" column="14" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="14" column="23" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
@@ -328,19 +330,23 @@
       <jump line="361" column="37" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
       <jump line="1" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
       <jump line="57" column="40" filename="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" />
+      <jump line="96" column="22" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="148" column="23" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="22" column="6" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="39" column="20" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/home/ubuntu/.ssh/id_rsa.2</text>
+        <text>this.state.checked</text>
       </register>
       <register name="-" type="4">
         <text>/home/ubuntu/.ssh/id_rsa.2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBYm91dFVzXD4=</text>
+        <text encoding="base64">XDxjaGVja2VkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzRGVsZXRlTW9kYWxWaXNpYmxlID0gZmFsc2UK</text>
+      <register name="0" type="4">
+        <text>this.state.checked</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -374,15 +380,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBYm91dFVzXD4=</last-search>
+      <last-search encoding="base64">XDxjaGVja2VkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBYm91dFVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja2VkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVUExPQURfSU1BR0VfU1VDQ0VTU1w+</entry>
         <entry encoding="base64">XDxpbWFnZUlucHV0XD4=</entry>
         <entry encoding="base64">XDxuZXdCYW5uZXJcPg==</entry>
         <entry encoding="base64">XDxVUExPQURfTkVXX0JBTk5FUl9JTUFHRV9TVUNDRVNTXD4=</entry>
@@ -402,6 +407,7 @@
         <entry encoding="base64">XDxNeURhaWx5QXR0ZW5kYW5jZVw+</entry>
         <entry encoding="base64">XDxnZXRBcGlBZGRyZXNzXD4=</entry>
         <entry encoding="base64">XDxBYm91dFVzXD4=</entry>
+        <entry encoding="base64">XDxjaGVja2VkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
