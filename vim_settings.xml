@@ -20,7 +20,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1487062191106">
+      <file name="/a.dummy" timestamp="1487215624654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -145,12 +145,12 @@
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/CardModal.vue" timestamp="1482290435131">
         <mark key="'" line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487214905116">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="91" column="37" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487217181896">
+        <mark key="'" line="94" column="2" />
+        <mark key="[" line="134" column="60" />
+        <mark key="]" line="134" column="61" />
+        <mark key="^" line="134" column="63" />
+        <mark key="." line="134" column="61" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
@@ -234,17 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="110" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="106" column="8" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="70" column="51" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="60" column="86" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="114" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/components/Message.vue" />
-      <jump line="77" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/components/Message.vue" />
-      <jump line="91" column="9" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="229" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
-      <jump line="209" column="92" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="116" column="17" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="216" column="2" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
@@ -322,10 +311,8 @@
       <jump line="96" column="22" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="98" column="22" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="22" column="6" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
-      <jump line="39" column="20" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="46" column="27" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="47" column="19" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
-      <jump line="145" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="149" column="21" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="35" column="37" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="146" column="33" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
@@ -334,64 +321,73 @@
       <jump line="161" column="32" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="105" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="108" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="52" column="61" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="128" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="39" column="35" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="145" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="132" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="131" column="9" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="101" column="37" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="102" column="27" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="31" column="23" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="134" column="37" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="30" column="9" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="94" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvL2NvbXBvbmVudERpZFVwZGF0ZSgpewogIC8vCWlmKHRoaXMuc3RhdGUuY2hlY2tlZD09PTEpewogIC8vCiAgLy8JfQogIC8vfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/home/ubuntu/.ssh/id_rsa.2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1NoYXJlU3VjY2Vzc1w+</text>
+        <text encoding="base64">XDxfaXNDaGVja2VkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2lzU2hhcmVGdW4gY2FsbGVkJykK</text>
+        <text encoding="base64">ICAgIGNsZWFySW50ZXJ2YWwodGhpcy5pbnRlcnZhbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvL2NvbXBvbmVudERpZFVwZGF0ZSgpewogIC8vCWlmKHRoaXMuc3RhdGUuY2hlY2tlZD09PTEpewogIC8vCiAgLy8JfQogIC8vfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImlzQ2hlY2tlZCBjYWxsZWQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmludGVydmFsKSB7CiAgICAgIGNsZWFySW50ZXJ2YWwodGhpcy5pbnRlcnZhbCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLmRlbGV0ZUNvbmZpcm0uc2hvdyA9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzTW9kYWxWaXNpYmxlID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGNsZWFySW50ZXJ2YWwodGhpcy5pbnRlcnZhbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpc01vZGFsVmlzaWJsZTogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29udGVudCBoYXMtdGV4dC1jZW50ZXJlZCI+PGltZyA6c3JjPSJzcmMiIGhlaWdodD0iMTIwIiBhbHQ9IlZ1ZSBBZG1pbiI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICBfZ29TaWduICgpIHsKICAgIENvbnRlbnRBUEkuY2hlY2tDcmVkaXRTaWduKGZ1bmN0aW9uIChkYXRhKSB7CiAgICAgIGlmIChkYXRhLmNvbnRpbnVvdXNfdGltZXMpIHsKICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgIGNvbnRpbnVvdXNfdGltZXM6IGRhdGEuY29udGludW91c190aW1lcywKICAgICAgICAgIGFkZGVkX2NyZWRpdDI6IGRhdGEuYWRkZWRfY3JlZGl0CiAgICAgICAgfSkKICAgICAgfQogICAgfS5iaW5kKHRoaXMpKTsKICB9CgogIF9pc1NoYXJlRnVuICgpIHsKICAgIGlmICh3aW5kb3cueXlnICYmIHdpbmRvdy55eWcuaXNTaGFyZVN1Y2Nlc3MpIHsKICAgICAgbGV0IGlzU2hhcmVTdWNjZXNzID0gd2luZG93Lnl5Zy5pc1NoYXJlU3VjY2Vzcygnc2lnbl9zaGFyZScpOwogICAgICBpZiAoaXNTaGFyZVN1Y2Nlc3MgPT09IDIpIHsKICAgICAgICB0aGlzLnNldFN0YXRlKHtjaGVja2VkOiAxfSk7CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuQ2FyZE1vZGFsKHsKICAgICAgICAgIHRpdGxlOiAnTW9kYWwgdGl0bGUnLAogICAgICAgICAgdXJsOiB0aGlzLiRzdG9yZS5zdGF0ZS5wa2cuaG9tZXBhZ2UKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2lzU2hhcmVGdW4gY2FsbGVkJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1NoYXJlU3VjY2Vzc1w+</last-search>
+      <last-search encoding="base64">XDxfaXNDaGVja2VkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1NoYXJlU3VjY2Vzc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfaXNDaGVja2VkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVUExPQURfTkVXX0JBTk5FUl9JTUFHRV9TVUNDRVNTXD4=</entry>
-        <entry encoding="base64">XDxpbWFnZVw+</entry>
-        <entry encoding="base64">XDxDUkVBVEVfTkVXX0JBTk5FUl9SRVFVRVNUXD4=</entry>
-        <entry encoding="base64">XDxNb2RhbFw+</entry>
         <entry encoding="base64">XDxvcGVuTW9kYWxDYXJkXD4=</entry>
         <entry encoding="base64">XDxva1w+</entry>
         <entry encoding="base64">XDxpc01vZGFsVmlzaWJsZVw+</entry>
@@ -406,8 +402,12 @@
         <entry encoding="base64">XDxnZXRBcGlBZGRyZXNzXD4=</entry>
         <entry encoding="base64">XDxBYm91dFVzXD4=</entry>
         <entry encoding="base64">XDxjaGVja2VkXD4=</entry>
-        <entry encoding="base64">XDxfaXNTaGFyZUZ1blw+</entry>
         <entry encoding="base64">XDxpc1NoYXJlU3VjY2Vzc1w+</entry>
+        <entry encoding="base64">XDxfZ29BdHRlbmRhbmNlXD4=</entry>
+        <entry encoding="base64">XDxfaXNTaGFyZUZ1blw+</entry>
+        <entry encoding="base64">XDxfZ29TaWduXD4=</entry>
+        <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
+        <entry encoding="base64">XDxfaXNDaGVja2VkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
