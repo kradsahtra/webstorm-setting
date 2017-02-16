@@ -145,12 +145,12 @@
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/CardModal.vue" timestamp="1482290435131">
         <mark key="'" line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487214169528">
-        <mark key="'" line="148" column="10" />
-        <mark key="[" line="97" column="37" />
-        <mark key="]" line="97" column="37" />
-        <mark key="^" line="97" column="37" />
-        <mark key="." line="97" column="37" />
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487214905116">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="91" column="37" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
@@ -234,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="63" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="111" column="8" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="51" column="5" filename="$USER_HOME$/workspace/mlucky/src/views/Login.vue" />
       <jump line="149" column="110" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="106" column="8" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="70" column="51" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
@@ -334,10 +331,13 @@
       <jump line="146" column="33" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="147" column="38" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="148" column="10" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="161" column="32" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="105" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2lzU2hhcmVGdW4gY2FsbGVkJykK</text>
+        <text encoding="base64">ICAvL2NvbXBvbmVudERpZFVwZGF0ZSgpewogIC8vCWlmKHRoaXMuc3RhdGUuY2hlY2tlZD09PTEpewogIC8vCiAgLy8JfQogIC8vfQoK</text>
       </register>
       <register name="-" type="4">
         <text>/home/ubuntu/.ssh/id_rsa.2</text>
@@ -349,31 +349,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX2lzU2hhcmVGdW4gY2FsbGVkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL2NvbXBvbmVudERpZFVwZGF0ZSgpewogIC8vCWlmKHRoaXMuc3RhdGUuY2hlY2tlZD09PTEpewogIC8vCiAgLy8JfQogIC8vfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLmRlbGV0ZUNvbmZpcm0uc2hvdyA9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzTW9kYWxWaXNpYmxlID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLmRlbGV0ZUNvbmZpcm0uc2hvdyA9IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpc01vZGFsVmlzaWJsZTogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlzTW9kYWxWaXNpYmxlID0gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29udGVudCBoYXMtdGV4dC1jZW50ZXJlZCI+PGltZyA6c3JjPSJzcmMiIGhlaWdodD0iMTIwIiBhbHQ9IlZ1ZSBBZG1pbiI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc01vZGFsVmlzaWJsZTogdHJ1ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuQ2FyZE1vZGFsKHsKICAgICAgICAgIHRpdGxlOiAnTW9kYWwgdGl0bGUnLAogICAgICAgICAgdXJsOiB0aGlzLiRzdG9yZS5zdGF0ZS5wa2cuaG9tZXBhZ2UKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29udGVudCBoYXMtdGV4dC1jZW50ZXJlZCI+PGltZyA6c3JjPSJzcmMiIGhlaWdodD0iMTIwIiBhbHQ9IlZ1ZSBBZG1pbiI+PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBDYXJkTW9kYWxDb21wb25lbnQgPSBWdWUuZXh0ZW5kKENhcmRNb2RhbCkK</text>
+        <text encoding="base64">ICAgICAgICBvcGVuQ2FyZE1vZGFsKHsKICAgICAgICAgIHRpdGxlOiAnTW9kYWwgdGl0bGUnLAogICAgICAgICAgdXJsOiB0aGlzLiRzdG9yZS5zdGF0ZS5wa2cuaG9tZXBhZ2UKICAgICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
