@@ -145,12 +145,12 @@
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/CardModal.vue" timestamp="1482290435131">
         <mark key="'" line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487242071135">
-        <mark key="'" line="94" column="2" />
-        <mark key="[" line="134" column="60" />
-        <mark key="]" line="134" column="61" />
-        <mark key="^" line="134" column="63" />
-        <mark key="." line="134" column="61" />
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487299490498">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="70" column="131" />
+        <mark key="]" line="70" column="131" />
+        <mark key="^" line="70" column="131" />
+        <mark key="." line="70" column="131" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
@@ -167,6 +167,11 @@
       <file name="$USER_HOME$/workspace/mlucky/src/views/components/Notification.vue" timestamp="1482135071633">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/scss/dailyattendance.scss" timestamp="1487299370870">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1482225074717">
         <mark key="'" line="103" column="4" />
@@ -234,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="17" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="216" column="2" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="256" column="26" filename="$USER_HOME$/workspace/mlucky/src/views/ui/Form.vue" />
@@ -334,13 +338,14 @@
       <jump line="134" column="37" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="30" column="9" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="94" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>每日幸运用户榜</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>每日幸运用户榜</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaXNDaGVja2VkXD4=</text>
