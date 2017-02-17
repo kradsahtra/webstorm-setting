@@ -149,12 +149,12 @@
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/CardModal.vue" timestamp="1482290435131">
         <mark key="'" line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487318803688">
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487326998429">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="62" />
-        <mark key="^" line="12" column="62" />
-        <mark key="." line="12" column="62" />
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="41" />
+        <mark key="^" line="51" column="12" />
+        <mark key="." line="51" column="13" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
@@ -354,16 +354,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://7xov77.com2.z0.glb.qiniucdn.com/discovery05.png</text>
+        <text>className=&quot;daily-banner-txt&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>http://7xov77.com2.z0.glb.qiniucdn.com/discovery05.png</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaXNDaGVja2VkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsK</text>
+      <register name="0" type="4">
+        <text>className=&quot;daily-banner-txt&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
