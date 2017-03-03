@@ -149,12 +149,12 @@
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/CardModal.vue" timestamp="1482290435131">
         <mark key="'" line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1487928366037">
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1488531127626">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="10" />
-        <mark key="]" line="59" column="42" />
-        <mark key="^" line="59" column="49" />
-        <mark key="." line="59" column="10" />
+        <mark key="[" line="120" column="87" />
+        <mark key="]" line="120" column="87" />
+        <mark key="^" line="120" column="87" />
+        <mark key="." line="120" column="87" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
@@ -354,10 +354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHAgY2xhc3NOYW1lPSJkYWlseS1iYW5uZXItdHh0Ij4=</text>
+        <text>(process.env.NODE_ENV == 'production' ? 'http://www.1yuan-gou.com' : 'http://121.41.6.238:9898') + '/share_app2';</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>(process.env.NODE_ENV == 'production' ? 'http://www.1yuan-gou.com' : 'http://121.41.6.238:9898') + '/share_app2';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaXNDaGVja2VkXD4=</text>
