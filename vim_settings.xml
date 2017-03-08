@@ -20,7 +20,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1487302152533">
+      <file name="/a.dummy" timestamp="1488962319125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -132,12 +132,12 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" timestamp="1487300533183">
-        <mark key="'" line="1" column="8" />
-        <mark key="[" line="434" column="12" />
-        <mark key="]" line="434" column="29" />
-        <mark key="." line="434" column="29" />
-        <mark key="^" line="434" column="29" />
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" timestamp="1488962548839">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="144" column="11" />
+        <mark key="]" line="144" column="18" />
+        <mark key="." line="144" column="18" />
+        <mark key="^" line="144" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" timestamp="1482290083304">
         <mark key="'" line="136" column="25" />
@@ -251,10 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="26" filename="$USER_HOME$/workspace/mlucky/src/views/ui/Form.vue" />
-      <jump line="194" column="15" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="34" column="14" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
-      <jump line="149" column="55" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="151" column="42" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="150" column="8" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
@@ -351,19 +347,23 @@
       <jump line="52" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/DailyLuckyUsers.jsx" />
       <jump line="107" column="22" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="146" column="16" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
+      <jump line="151" column="16" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
+      <jump line="161" column="16" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL2FwcC90b2tvLXNlcmlidS9pZDEyMDU4MDY2MTE/bD16aCZscz0xJm10PTg=</text>
+        <text>支付宝</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL2FwcC90b2tvLXNlcmlidS9pZDEyMDU4MDY2MTE/bD16aCZscz0xJm10PTg=</text>
+        <text>支付宝</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaXNDaGVja2VkXD4=</text>
+        <text encoding="base64">XDxwYXlfYWxpX2ljb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PHAgY2xhc3NOYW1lPSJkYWlseS1iYW5uZXItdHh0Ij4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CTg6IHsKCQluYW1lOiAn5pSv5LuY5a6dJywKCQljb21tZW50OiAnJywKCQlpY29uQ2xhc3M6ICdwYXlfYWxpX2ljb24nCgl9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -397,15 +397,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaXNDaGVja2VkXD4=</last-search>
+      <last-search encoding="base64">XDxwYXlfYWxpX2ljb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaXNDaGVja2VkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXlfYWxpX2ljb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcGVuTW9kYWxDYXJkXD4=</entry>
         <entry encoding="base64">XDxva1w+</entry>
         <entry encoding="base64">XDxpc01vZGFsVmlzaWJsZVw+</entry>
         <entry encoding="base64">XDxyZWZzXD4=</entry>
@@ -425,6 +424,7 @@
         <entry encoding="base64">XDxfZ29TaWduXD4=</entry>
         <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
         <entry encoding="base64">XDxfaXNDaGVja2VkXD4=</entry>
+        <entry encoding="base64">XDxwYXlfYWxpX2ljb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
