@@ -11,7 +11,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1489571266892">
+      <file name="/a.dummy" timestamp="1489574577499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -119,7 +119,7 @@
         <mark key="^" line="174" column="18" />
         <mark key="." line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/AppMain.vue" timestamp="1489570692671">
+      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/AppMain.vue" timestamp="1489575228299">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -228,12 +228,12 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489571704157">
+      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489574080094">
         <mark key="'" line="66" column="6" />
-        <mark key="[" line="162" column="7" />
-        <mark key="]" line="163" column="5" />
+        <mark key="[" line="121" column="11" />
+        <mark key="]" line="121" column="11" />
         <mark key="^" line="163" column="5" />
-        <mark key="." line="163" column="5" />
+        <mark key="." line="121" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1489567344562">
         <mark key="[" line="24" column="39" />
@@ -376,11 +376,11 @@
       <jump line="66" column="6" filename="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>~</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0V4cGFuZGVkXD4=</text>
