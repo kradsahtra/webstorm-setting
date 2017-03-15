@@ -119,6 +119,13 @@
         <mark key="^" line="174" column="18" />
         <mark key="." line="70" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/AppMain.vue" timestamp="1489569324712">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="40" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/api/auth.js" timestamp="1481267042601">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="10" column="1" />
@@ -221,8 +228,8 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489568546245">
-        <mark key="[" line="120" column="18" />
+      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489569316564">
+        <mark key="[" line="120" column="19" />
         <mark key="]" line="120" column="39" />
         <mark key="^" line="120" column="39" />
         <mark key="." line="120" column="39" />
@@ -266,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="9" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="61" column="29" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="133" column="7" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="135" column="30" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
@@ -366,19 +372,20 @@
       <jump line="63" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="52" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
       <jump line="153" column="20" filename="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/components/layout/AppMain.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>ref=&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>ref=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1aWZlYXR1cmVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>en</text>
+        <text>rel=&quot;stylesheet/scss&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbXBvbmVudHMsCg==</text>
