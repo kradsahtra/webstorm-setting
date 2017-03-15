@@ -213,7 +213,7 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489545292285">
+      <file name="/Dummy.txt" timestamp="1489547426812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1488534633293">
@@ -223,12 +223,10 @@
         <mark key="^" line="120" column="58" />
         <mark key="." line="120" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1489546486464">
-        <mark key="'" line="48" column="40" />
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="45" column="40" />
-        <mark key="." line="45" column="40" />
-        <mark key="^" line="45" column="40" />
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1489547423100">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/TempCharge.jsx" timestamp="1488969980722">
         <mark key="[" line="175" column="74" />
@@ -387,22 +385,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICBfZ29Ib21lKCl7CiAgICAgICAgIGlmKHdpbmRvdy55eWcgJiYgd2luZG93Lnl5Zy5nb0hvbWUpewogICAgICAgICAgICAgd2luZG93Lnl5Zy5nb0hvbWUoKTsKICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICcvJzsKICAgICAgICAgfQoKICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYnRuIiBvblRvdWNoVGFwPXt0aGlzLl9nb0hvbWUuYmluZCh0aGlzKX0+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICBfZ29Ib21lKCl7CiAgICAgICAgIGlmKHdpbmRvdy55eWcgJiYgd2luZG93Lnl5Zy5nb0hvbWUpewogICAgICAgICAgICAgd2luZG93Lnl5Zy5nb0hvbWUoKTsKICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICcvJzsKICAgICAgICAgfQoKICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYnRuIiBvblRvdWNoVGFwPXt0aGlzLl9nb0hvbWUuYmluZCh0aGlzKX0+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmUoJy4uLy4uL2ltZy8nK0kxOE4udCgnbm90LWZvdW5kXzInKSl9IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYnRuIiBvblRvdWNoVGFwPXt0aGlzLl9nb0hvbWUuYmluZCh0aGlzKX0+PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSdeY3JlZGl0X3FhMi8/JCc6IHsKCQl0aXRsZTogJ+WFg+WuneivtOaYjicsCgkJbGVmdEljb25DbGFzczogJ2ljb25fYmFja19kZWZhdWx0IGRpc19sZWZ0X2ljb24nLAoJCWxlZnRJY29uVXJsOiAnZ29fYmFjaycKCX0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyBzcmM9e3JlcXVpcmUoJy4uLy4uL2ltZy8nK0kxOE4udCgnbm90LWZvdW5kXzInKSl9IC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9ImNyZWRpdF9xYTIiIGNvbXBvbmVudD17Q3JlZGl0UUEyfS8+Cg==</text>
+        <text encoding="base64">CSdeY3JlZGl0X3FhMi8/JCc6IHsKCQl0aXRsZTogJ+WFg+WuneivtOaYjicsCgkJbGVmdEljb25DbGFzczogJ2ljb25fYmFja19kZWZhdWx0IGRpc19sZWZ0X2ljb24nLAoJCWxlZnRJY29uVXJsOiAnZ29fYmFjaycKCX0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
