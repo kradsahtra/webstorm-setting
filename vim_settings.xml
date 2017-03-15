@@ -3,9 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/Modal.vue" timestamp="1482290382473">
-        <mark key="'" line="16" column="42" />
-      </file>
+      <file name="$USER_HOME$/workspace/flucky/src/utils/i18n.js" timestamp="1489560692880" />
       <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480579979177">
         <mark key="'" line="45" column="10" />
         <mark key="[" line="23" column="34" />
@@ -53,9 +51,6 @@
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
         <mark key="^" line="161" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/CardModal.vue" timestamp="1482290435131">
-        <mark key="'" line="10" column="44" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
