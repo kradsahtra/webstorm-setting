@@ -221,6 +221,12 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489568546245">
+        <mark key="[" line="120" column="18" />
+        <mark key="]" line="120" column="39" />
+        <mark key="^" line="120" column="39" />
+        <mark key="." line="120" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1489567344562">
         <mark key="[" line="24" column="39" />
         <mark key="]" line="24" column="40" />
@@ -260,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="6" filename="$USER_HOME$/workspace/mlucky/src/utils/notification.js" />
       <jump line="84" column="9" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="61" column="29" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="133" column="7" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
@@ -360,6 +365,7 @@
       <jump line="73" column="17" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="63" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="52" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
+      <jump line="153" column="20" filename="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
