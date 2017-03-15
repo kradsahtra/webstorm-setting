@@ -138,12 +138,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" timestamp="1480588898476">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="12" />
-        <mark key="." line="54" column="12" />
-        <mark key="^" line="54" column="12" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" timestamp="1489567597262">
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="12" />
+        <mark key="^" line="50" column="12" />
+        <mark key="." line="50" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/404.vue" timestamp="1481625154753">
         <mark key="'" line="29" column="0" />
@@ -218,9 +217,15 @@
         <mark key="." line="120" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1489563964028">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1489567344562">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="40" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="24" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/TempCharge.jsx" timestamp="1488969980722">
         <mark key="[" line="175" column="74" />
@@ -255,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="9" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="2" column="6" filename="$USER_HOME$/workspace/mlucky/src/utils/notification.js" />
       <jump line="84" column="9" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="61" column="29" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
@@ -355,61 +359,61 @@
       <jump line="126" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="73" column="17" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="63" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="52" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1RhYnMnLAogICAgICBwYXRoOiAndGFicycsCiAgICAgIG1ldGE6IHsKICAgICAgICBkZXNjcmlwdGlvbjogJ1RhYnMgY29tcG9uZW50JywKICAgICAgICByZXBvc2l0b3J5OiAnaHR0cHM6Ly9naXRodWIuY29tL3Z1ZS1idWxtYS90YWJzJwogICAgICB9LAogICAgICBjb21wb25lbnQ6IGxhenlMb2FkaW5nKCdjb21wb25lbnRzL1RhYnMnKQogICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>0.2.3</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGbGF0cGlja3JcPg==</text>
+        <text encoding="base64">XDx1aWZlYXR1cmVzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>en</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1RhYnMnLAogICAgICBwYXRoOiAndGFicycsCiAgICAgIG1ldGE6IHsKICAgICAgICBkZXNjcmlwdGlvbjogJ1RhYnMgY29tcG9uZW50JywKICAgICAgICByZXBvc2l0b3J5OiAnaHR0cHM6Ly9naXRodWIuY29tL3Z1ZS1idWxtYS90YWJzJwogICAgICB9LAogICAgICBjb21wb25lbnQ6IGxhenlMb2FkaW5nKCdjb21wb25lbnRzL1RhYnMnKQogICAgfSwK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1F1aWxsJywKICAgICAgcGF0aDogJ3F1aWxsJywKICAgICAgbWV0YTogewogICAgICAgIGRlc2NyaXB0aW9uOiAnWW91ciBwb3dlcmZ1bCwgcmljaCB0ZXh0IGVkaXRvcicsCiAgICAgICAgcmVwb3NpdG9yeTogJ2h0dHBzOi8vZ2l0aHViLmNvbS92dWUtYnVsbWEvcXVpbGwnCiAgICAgIH0sCiAgICAgIGNvbXBvbmVudDogbGF6eUxvYWRpbmcoJ2NvbXBvbmVudHMvUXVpbGwnKQogICAgfSwK</text>
+        <text encoding="base64">ICAgIHRhYmxlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1Byb2dyZXNzVHJhY2tlcicsCiAgICAgIHBhdGg6ICdwcm9ncmVzcy10cmFja2VyJywKICAgICAgbWV0YTogewogICAgICAgIGRlc2NyaXB0aW9uOiAnUHJvZ3Jlc3NUcmFja2VyIGNvbXBvbmVudCBpcyBiYXNlZCBvbiBwcm9ncmVzcy10cmFja2VyJywKICAgICAgICByZXBvc2l0b3J5OiAnaHR0cHM6Ly9naXRodWIuY29tL3Z1ZS1idWxtYS9wcm9ncmVzcy10cmFja2VyJwogICAgICB9LAogICAgICBjb21wb25lbnQ6IGxhenlMb2FkaW5nKCdjb21wb25lbnRzL1Byb2dyZXNzVHJhY2tlcicpCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgIHVpZmVhdHVyZXMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrLW1lcmdlIjogIl40LjAuMCIKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNoYXJ0cywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNoYXJ0cyBmcm9tICcuL2NoYXJ0cycKaW1wb3J0IHVpZmVhdHVyZXMgZnJvbSAnLi91aWZlYXR1cmVzJwppbXBvcnQgY29tcG9uZW50cyBmcm9tICcuL2NvbXBvbmVudHMnCmltcG9ydCB0YWJsZXMgZnJvbSAnLi90YWJsZXMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1RhYnMnLAogICAgICBwYXRoOiAndGFicycsCiAgICAgIG1ldGE6IHsKICAgICAgICBkZXNjcmlwdGlvbjogJ1RhYnMgY29tcG9uZW50JywKICAgICAgICByZXBvc2l0b3J5OiAnaHR0cHM6Ly9naXRodWIuY29tL3Z1ZS1idWxtYS90YWJzJwogICAgICB9LAogICAgICBjb21wb25lbnQ6IGxhenlMb2FkaW5nKCdjb21wb25lbnRzL1RhYnMnKQogICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ2dWUtZmxhdHBpY2tyIjogIl4yLjAuMyIsCg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1F1aWxsJywKICAgICAgcGF0aDogJ3F1aWxsJywKICAgICAgbWV0YTogewogICAgICAgIGRlc2NyaXB0aW9uOiAnWW91ciBwb3dlcmZ1bCwgcmljaCB0ZXh0IGVkaXRvcicsCiAgICAgICAgcmVwb3NpdG9yeTogJ2h0dHBzOi8vZ2l0aHViLmNvbS92dWUtYnVsbWEvcXVpbGwnCiAgICAgIH0sCiAgICAgIGNvbXBvbmVudDogbGF6eUxvYWRpbmcoJ2NvbXBvbmVudHMvUXVpbGwnKQogICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGbGF0cGlja3IgY2xhc3M9ImlucHV0IiA6b3B0aW9ucz0ib3B0aW9ucyIgdi1tb2RlbD0iZW5kIiBAdXBkYXRlPSJ1cGRhdGVFbmQiLz4K</text>
+        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1Byb2dyZXNzVHJhY2tlcicsCiAgICAgIHBhdGg6ICdwcm9ncmVzcy10cmFja2VyJywKICAgICAgbWV0YTogewogICAgICAgIGRlc2NyaXB0aW9uOiAnUHJvZ3Jlc3NUcmFja2VyIGNvbXBvbmVudCBpcyBiYXNlZCBvbiBwcm9ncmVzcy10cmFja2VyJywKICAgICAgICByZXBvc2l0b3J5OiAnaHR0cHM6Ly9naXRodWIuY29tL3Z1ZS1idWxtYS9wcm9ncmVzcy10cmFja2VyJwogICAgICB9LAogICAgICBjb21wb25lbnQ6IGxhenlMb2FkaW5nKCdjb21wb25lbnRzL1Byb2dyZXNzVHJhY2tlcicpCiAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGbGF0cGlja3IgY2xhc3M9ImlucHV0IiA6b3B0aW9ucz0ib3B0aW9ucyIgdi1tb2RlbD0ic3RhcnQiIEB1cGRhdGU9InVwZGF0ZVN0YXJ0Ii8+Cg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLW1lcmdlIjogIl40LjAuMCIKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGbGF0cGlja3JcPg==</last-search>
+      <last-search encoding="base64">XDx1aWZlYXR1cmVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGbGF0cGlja3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1aWZlYXR1cmVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ref</entry>
         <entry encoding="base64">XDxjbG9zZVw+</entry>
         <entry encoding="base64">XDxkZWxldGVDb25maXJtXD4=</entry>
         <entry>$2</entry>
@@ -429,6 +433,7 @@
         <entry encoding="base64">XDxweDJyZW1cPg==</entry>
         <entry encoding="base64">XDxQVF9DT0RBUEFZX1dBUFw+</entry>
         <entry encoding="base64">XDxGbGF0cGlja3JcPg==</entry>
+        <entry encoding="base64">XDx1aWZlYXR1cmVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
