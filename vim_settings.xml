@@ -223,8 +223,8 @@
         <mark key="^" line="120" column="58" />
         <mark key="." line="120" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1482225074717">
-        <mark key="'" line="103" column="4" />
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1489546486464">
+        <mark key="'" line="48" column="40" />
         <mark key="[" line="45" column="31" />
         <mark key="]" line="45" column="40" />
         <mark key="." line="45" column="40" />
@@ -263,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="37" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="54" column="51" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="148" column="59" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="195" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
@@ -363,6 +362,7 @@
       <jump line="11" column="9" filename="$USER_HOME$/workspace/LuckyShopWeb/src/scss/dailyattendance.scss" />
       <jump line="13" column="27" filename="$USER_HOME$/workspace/LuckyShopWeb/src/scss/dailyattendance.scss" />
       <jump line="139" column="13" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
+      <jump line="48" column="40" filename="$USER_HOME$/workspace/mlucky/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
