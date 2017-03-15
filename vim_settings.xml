@@ -11,7 +11,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1489565630160">
+      <file name="/a.dummy" timestamp="1489571266892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -228,11 +228,12 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489569316564">
-        <mark key="[" line="120" column="19" />
-        <mark key="]" line="120" column="39" />
-        <mark key="^" line="120" column="39" />
-        <mark key="." line="120" column="39" />
+      <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489571704157">
+        <mark key="'" line="66" column="6" />
+        <mark key="[" line="162" column="7" />
+        <mark key="]" line="163" column="5" />
+        <mark key="^" line="163" column="5" />
+        <mark key="." line="163" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1489567344562">
         <mark key="[" line="24" column="39" />
@@ -273,8 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="29" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
-      <jump line="133" column="7" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="135" column="30" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="128" column="29" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="141" column="106" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
@@ -373,16 +372,18 @@
       <jump line="52" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
       <jump line="153" column="20" filename="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/components/layout/AppMain.vue" />
+      <jump line="24" column="22" filename="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" />
+      <jump line="66" column="6" filename="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ref=&quot;&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1aWZlYXR1cmVzXD4=</text>
+        <text encoding="base64">XDxpc0V4cGFuZGVkXD4=</text>
       </register>
       <register name="0" type="4">
         <text>rel=&quot;stylesheet/scss&quot;</text>
@@ -391,43 +392,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRhYmxlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVpZmVhdHVyZXMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNoYXJ0cywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYXJ0cyBmcm9tICcuL2NoYXJ0cycKaW1wb3J0IHVpZmVhdHVyZXMgZnJvbSAnLi91aWZlYXR1cmVzJwppbXBvcnQgY29tcG9uZW50cyBmcm9tICcuL2NvbXBvbmVudHMnCmltcG9ydCB0YWJsZXMgZnJvbSAnLi90YWJsZXMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1RhYnMnLAogICAgICBwYXRoOiAndGFicycsCiAgICAgIG1ldGE6IHsKICAgICAgICBkZXNjcmlwdGlvbjogJ1RhYnMgY29tcG9uZW50JywKICAgICAgICByZXBvc2l0b3J5OiAnaHR0cHM6Ly9naXRodWIuY29tL3Z1ZS1idWxtYS90YWJzJwogICAgICB9LAogICAgICBjb21wb25lbnQ6IGxhenlMb2FkaW5nKCdjb21wb25lbnRzL1RhYnMnKQogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1F1aWxsJywKICAgICAgcGF0aDogJ3F1aWxsJywKICAgICAgbWV0YTogewogICAgICAgIGRlc2NyaXB0aW9uOiAnWW91ciBwb3dlcmZ1bCwgcmljaCB0ZXh0IGVkaXRvcicsCiAgICAgICAgcmVwb3NpdG9yeTogJ2h0dHBzOi8vZ2l0aHViLmNvbS92dWUtYnVsbWEvcXVpbGwnCiAgICAgIH0sCiAgICAgIGNvbXBvbmVudDogbGF6eUxvYWRpbmcoJ2NvbXBvbmVudHMvUXVpbGwnKQogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ1Byb2dyZXNzVHJhY2tlcicsCiAgICAgIHBhdGg6ICdwcm9ncmVzcy10cmFja2VyJywKICAgICAgbWV0YTogewogICAgICAgIGRlc2NyaXB0aW9uOiAnUHJvZ3Jlc3NUcmFja2VyIGNvbXBvbmVudCBpcyBiYXNlZCBvbiBwcm9ncmVzcy10cmFja2VyJywKICAgICAgICByZXBvc2l0b3J5OiAnaHR0cHM6Ly9naXRodWIuY29tL3Z1ZS1idWxtYS9wcm9ncmVzcy10cmFja2VyJwogICAgICB9LAogICAgICBjb21wb25lbnQ6IGxhenlMb2FkaW5nKCdjb21wb25lbnRzL1Byb2dyZXNzVHJhY2tlcicpCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHMsCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1aWZlYXR1cmVzXD4=</last-search>
+      <last-search encoding="base64">XDxpc0V4cGFuZGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1aWZlYXR1cmVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc0V4cGFuZGVkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbG9zZVw+</entry>
         <entry encoding="base64">XDxkZWxldGVDb25maXJtXD4=</entry>
         <entry>$2</entry>
         <entry>$1</entry>
@@ -447,6 +447,7 @@
         <entry encoding="base64">XDxQVF9DT0RBUEFZX1dBUFw+</entry>
         <entry encoding="base64">XDxGbGF0cGlja3JcPg==</entry>
         <entry encoding="base64">XDx1aWZlYXR1cmVzXD4=</entry>
+        <entry encoding="base64">XDxpc0V4cGFuZGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
