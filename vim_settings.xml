@@ -11,7 +11,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1489574577499">
+      <file name="/a.dummy" timestamp="1489629981680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -63,11 +63,6 @@
         <mark key="]" line="29" column="34" />
         <mark key="." line="29" column="34" />
         <mark key="^" line="29" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/components/modals/CardModal.vue" timestamp="1482222095146">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/scss/dailyattendance.scss" timestamp="1488964693261">
         <mark key="'" line="13" column="27" />
@@ -124,6 +119,7 @@
         <mark key="^" line="174" column="18" />
         <mark key="." line="70" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/package.json" timestamp="1489630099703" />
       <file name="$USER_HOME$/workspace/mlucky/src/components/layout/AppMain.vue" timestamp="1489575228299">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
@@ -170,8 +166,8 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" timestamp="1489577171249">
-        <mark key="'" line="1" column="22" />
+      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" timestamp="1489630121873">
+        <mark key="'" line="1" column="141" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -184,13 +180,8 @@
         <mark key="." line="24" column="60" />
         <mark key="^" line="24" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/about.jsx" timestamp="1489543788349">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1489577152786">
-        <mark key="'" line="140" column="6" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1489628605069">
+        <mark key="'" line="62" column="15" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
@@ -251,11 +242,6 @@
         <mark key="." line="175" column="75" />
         <mark key="^" line="175" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/temporary.css" timestamp="1488964911973">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/product.js" timestamp="1480588780799">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -278,8 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="69" filename="$USER_HOME$/workspace/mlucky/src/views/components/Modal.vue" />
-      <jump line="50" column="4" filename="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/CardModal.vue" />
       <jump line="21" column="47" filename="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-modal/src/CardModal.vue" />
       <jump line="181" column="13" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="44" column="12" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
@@ -377,7 +361,9 @@
       <jump line="197" column="13" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="2" column="26" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
       <jump line="140" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
-      <jump line="1" column="22" filename="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" />
+      <jump line="104" column="36" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="62" column="15" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" />
+      <jump line="1" column="141" filename="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -387,7 +373,7 @@
         <text>d-m-Y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRlXD4=</text>
+        <text encoding="base64">XDxjbG9zZVBpY2tlclw+</text>
       </register>
       <register name="0" type="4">
         <text>Y-m-d H:i:S</text>
@@ -424,15 +410,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxjbG9zZVBpY2tlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbG9zZVBpY2tlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBcGlBZGRyZXNzXD4=</entry>
         <entry encoding="base64">XDxBYm91dFVzXD4=</entry>
         <entry encoding="base64">XDxjaGVja2VkXD4=</entry>
         <entry encoding="base64">XDxpc1NoYXJlU3VjY2Vzc1w+</entry>
@@ -447,11 +432,12 @@
         <entry encoding="base64">XDxGbGF0cGlja3JcPg==</entry>
         <entry encoding="base64">XDx1aWZlYXR1cmVzXD4=</entry>
         <entry encoding="base64">XDxpc0V4cGFuZGVkXD4=</entry>
-        <entry encoding="base64">XDxkYXRlcGlja2VyXD4=</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxpc0RlbGV0ZU1vZGFsVmlzaWJsZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVTdGFydFw+</entry>
         <entry encoding="base64">XDxkYXRlXD4=</entry>
+        <entry encoding="base64">XDxkYXRlcGlja2VyXD4=</entry>
+        <entry encoding="base64">XDxjbG9zZVBpY2tlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
