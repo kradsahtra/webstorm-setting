@@ -71,6 +71,7 @@
         <mark key="." line="50" column="41" />
         <mark key="^" line="50" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-click-outside/package.json" timestamp="1489631297769" />
       <file name="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" timestamp="1487058642777">
         <mark key="'" line="41" column="1" />
         <mark key="[" line="7" column="15" />
@@ -255,12 +256,6 @@
         <mark key="]" line="101" column="74" />
         <mark key="." line="101" column="74" />
         <mark key="^" line="101" column="56" />
-      </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" timestamp="1489543797664">
-        <mark key="'" line="57" column="40" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
       </file>
     </filemarks>
     <jumps>
