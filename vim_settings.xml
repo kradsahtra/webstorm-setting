@@ -22,7 +22,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1489717182652">
+      <file name="/a.dummy" timestamp="1489717433681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -59,11 +59,11 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1489716987892">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="28" column="5" />
-        <mark key="^" line="12" column="74" />
-        <mark key="." line="28" column="5" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1489718948556">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="43" />
+        <mark key="^" line="17" column="43" />
+        <mark key="." line="17" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" timestamp="1489630121873">
         <mark key="'" line="1" column="141" />
@@ -104,12 +104,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="67" column="110" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1482143242898">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1489718877548">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="34" column="42" />
-        <mark key="]" line="34" column="67" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="34" column="42" />
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="43" column="61" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="43" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/utils/notification.js" timestamp="1482138469056">
         <mark key="'" line="4" column="6" />
@@ -225,12 +225,12 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1489717332826">
-        <mark key="'" line="89" column="19" />
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="3" />
-        <mark key="^" line="42" column="3" />
-        <mark key="." line="42" column="3" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1489718617516">
+        <mark key="'" line="93" column="19" />
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/TempCharge.jsx" timestamp="1488969980722">
         <mark key="[" line="175" column="74" />
@@ -371,43 +371,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IE51bWJlcg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IE51bWJlcg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzd2l0Y2hTdGF0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>app_store_sensor</text>
+        <text>updateGooglePlaySensor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGEgKCkgewogICAgICByZXR1cm4gewogICAgICAgIGFwcF9zdG9yZV9zZW5zb3I6IGZhbHNlCiAgICAgIH0KICAgIH0sCiAgICBjb21wdXRlZDogewo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IENSRUFURV9ORVdfQkFOTkVSX1JFUVVFU1QgPSAnQ1JFQVRFX05FV19CQU5ORVJfUkVRVUVTVCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2Yi1zd2l0Y2ggdHlwZT0ic3VjY2VzcyIgc2l6ZT0ibGFyZ2UiIDpjaGVja2VkPSJhcHBfc3RvcmVfc2Vuc29yIiB2LW1vZGVsPSJhcHBfc3RvcmVfc2Vuc29yIj48L3ZiLXN3aXRjaD4K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFVQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUID0gJ1VQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IENSRUFURV9ORVdfQkFOTkVSX1JFUVVFU1QgPSAnQ1JFQVRFX05FV19CQU5ORVJfUkVRVUVTVCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3dpdGNoU3RhdCAoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMudmFsdWUgPyAnT24nIDogJ09mZicKICAgICAgfQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFVQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUID0gJ1VQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj5OYW1lPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgIGRhdGEgKCkgewogICAgICByZXR1cm4gewogICAgICAgIGFwcF9zdG9yZV9zZW5zb3I6IGZhbHNlCiAgICAgIH0KICAgIH0sCiAgICBjb21wdXRlZDogewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGxhYmVsIGNsYXNzPSJsYWJlbCI+TmFtZTwvbGFiZWw+CiAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iVGV4dCBpbnB1dCI+CiAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgIDx2Yi1zd2l0Y2ggdHlwZT0ic3VjY2VzcyIgc2l6ZT0ibGFyZ2UiIDpjaGVja2VkPSJhcHBfc3RvcmVfc2Vuc29yIiB2LW1vZGVsPSJhcHBfc3RvcmVfc2Vuc29yIj48L3ZiLXN3aXRjaD4K</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
