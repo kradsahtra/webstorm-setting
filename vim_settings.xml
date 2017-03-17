@@ -10,11 +10,6 @@
         <mark key="." line="66" column="24" />
         <mark key="^" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/components.js" timestamp="1489565641380">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
       <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480579979177">
         <mark key="'" line="45" column="10" />
         <mark key="[" line="23" column="34" />
@@ -125,7 +120,7 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489656632886">
+      <file name="/Dummy.txt" timestamp="1489737967553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" timestamp="1489544407530">
@@ -142,12 +137,12 @@
         <mark key="^" line="181" column="17" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1488534633293">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="120" column="15" />
-        <mark key="]" line="120" column="58" />
-        <mark key="^" line="120" column="58" />
-        <mark key="." line="120" column="58" />
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1489737959250">
+        <mark key="'" line="76" column="81" />
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="70" />
+        <mark key="^" line="12" column="70" />
+        <mark key="." line="12" column="70" />
       </file>
       <file name="$USER_HOME$/fun/vue-admin/src/store/modules/auth.js" timestamp="1480579471484">
         <mark key="'" line="15" column="17" />
@@ -166,11 +161,6 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="50" column="41" />
         <mark key="^" line="50" column="41" />
-      </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1489563964028">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489574080094">
         <mark key="'" line="66" column="6" />
@@ -266,9 +256,9 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" timestamp="1489737283189" />
     </filemarks>
     <jumps>
-      <jump line="24" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
       <jump line="27" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
       <jump line="35" column="6" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
       <jump line="10" column="6" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
@@ -368,13 +358,14 @@
       <jump line="70" column="19" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="84" column="25" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="37" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
+      <jump line="76" column="81" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IE51bWJlcg==</text>
+        <text>http://p.1yuan-gou.com/id-facebook-share-big.png</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE51bWJlcg==</text>
+        <text>http://p.1yuan-gou.com/id-facebook-share-big.png</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzd2l0Y2hTdGF0XD4=</text>
