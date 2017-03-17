@@ -59,11 +59,11 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1489656629155">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="42" />
-        <mark key="^" line="6" column="42" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1489716360327">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" timestamp="1489630121873">
         <mark key="'" line="1" column="141" />
@@ -268,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
       <jump line="24" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
       <jump line="27" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
       <jump line="35" column="6" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
@@ -368,61 +367,61 @@
       <jump line="63" column="19" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="70" column="19" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="84" column="25" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
+      <jump line="37" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1aXJlQXV0aFw+</text>
+        <text encoding="base64">XDxzd2l0Y2hTdGF0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dmItc3dpdGNoIHR5cGU9InN1Y2Nlc3MiIHNpemU9ImxhcmdlIiA6Y2hlY2tlZD0idmFsdWUiIHYtbW9kZWw9InZhbHVlIj48L3ZiLXN3aXRjaD4K</text>
+      <register name="0" type="4">
+        <text>app_store_sensor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx2Yi1zd2l0Y2ggdHlwZT0ic3VjY2VzcyIgc2l6ZT0ibGFyZ2UiIDpjaGVja2VkPSJhcHBfc3RvcmVfc2Vuc29yIiB2LW1vZGVsPSJhcHBfc3RvcmVfc2Vuc29yIj48L3ZiLXN3aXRjaD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj5OYW1lPC9sYWJlbD4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGxhYmVsIGNsYXNzPSJsYWJlbCI+TmFtZTwvbGFiZWw+CiAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iVGV4dCBpbnB1dCI+CiAgICAgIDwvcD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkI8L2gxPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkE8L2gxPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc3dpdGNoU3RhdCAoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMudmFsdWUgPyAnT24nIDogJ09mZicKICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj5OYW1lPC9sYWJlbD4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wgaXMtaG9yaXpvbnRhbCI+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsIGNsYXNzPSJsYWJlbCI+TmFtZTwvbGFiZWw+CiAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iVGV4dCBpbnB1dCI+CiAgICAgIDwvcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29udHJvbCBpcy1ncm91cGVkIGlzLXZlcnRpY2FsIj4KICAgICAgICA8aW1nIDpzcmM9ImltYWdlIj4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgPGgxPkI8L2gxPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29udHJvbC1sYWJlbCI+CiAgICAgICAgPGxhYmVsIGNsYXNzPSJsYWJlbCI+5Zu+54mHPC9sYWJlbD4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgPGgxPkE8L2gxPgo=</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1aXJlQXV0aFw+</last-search>
+      <last-search encoding="base64">XDxzd2l0Y2hTdGF0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1aXJlQXV0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzd2l0Y2hTdGF0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc1NoYXJlU3VjY2Vzc1w+</entry>
         <entry encoding="base64">XDxfZ29BdHRlbmRhbmNlXD4=</entry>
         <entry encoding="base64">XDxfaXNTaGFyZUZ1blw+</entry>
         <entry encoding="base64">XDxfZ29TaWduXD4=</entry>
@@ -442,6 +441,7 @@
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
         <entry encoding="base64">XDxyZXF1aXJlQXV0aFw+</entry>
+        <entry encoding="base64">XDxzd2l0Y2hTdGF0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
