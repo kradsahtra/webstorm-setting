@@ -22,7 +22,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1489656646027">
+      <file name="/a.dummy" timestamp="1489717182652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -59,11 +59,11 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1489716360327">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="12" column="48" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1489716987892">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="5" />
         <mark key="^" line="12" column="74" />
+        <mark key="." line="28" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/node_modules/vue-bulma-datepicker/src/index.vue" timestamp="1489630121873">
         <mark key="'" line="1" column="141" />
@@ -198,12 +198,12 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/index.js" timestamp="1480673334220">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/index.js" timestamp="1489717239673">
         <mark key="'" line="20" column="7" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="13" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
         <mark key="^" line="20" column="13" />
-        <mark key="." line="20" column="13" />
+        <mark key="." line="13" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1482143604802">
         <mark key="'" line="42" column="0" />
@@ -225,12 +225,12 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1482143538953">
-        <mark key="'" line="85" column="19" />
-        <mark key="[" line="70" column="3" />
-        <mark key="]" line="70" column="3" />
-        <mark key="^" line="174" column="18" />
-        <mark key="." line="70" column="3" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1489717332826">
+        <mark key="'" line="89" column="19" />
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/temporary/TempCharge.jsx" timestamp="1488969980722">
         <mark key="[" line="175" column="74" />
@@ -383,31 +383,31 @@
         <text>app_store_sensor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2Yi1zd2l0Y2ggdHlwZT0ic3VjY2VzcyIgc2l6ZT0ibGFyZ2UiIDpjaGVja2VkPSJhcHBfc3RvcmVfc2Vuc29yIiB2LW1vZGVsPSJhcHBfc3RvcmVfc2Vuc29yIj48L3ZiLXN3aXRjaD4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEgKCkgewogICAgICByZXR1cm4gewogICAgICAgIGFwcF9zdG9yZV9zZW5zb3I6IGZhbHNlCiAgICAgIH0KICAgIH0sCiAgICBjb21wdXRlZDogewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx2Yi1zd2l0Y2ggdHlwZT0ic3VjY2VzcyIgc2l6ZT0ibGFyZ2UiIDpjaGVja2VkPSJhcHBfc3RvcmVfc2Vuc29yIiB2LW1vZGVsPSJhcHBfc3RvcmVfc2Vuc29yIj48L3ZiLXN3aXRjaD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3dpdGNoU3RhdCAoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMudmFsdWUgPyAnT24nIDogJ09mZicKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj5OYW1lPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgc3dpdGNoU3RhdCAoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMudmFsdWUgPyAnT24nIDogJ09mZicKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGxhYmVsIGNsYXNzPSJsYWJlbCI+TmFtZTwvbGFiZWw+CiAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iVGV4dCBpbnB1dCI+CiAgICAgIDwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkI8L2gxPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj5OYW1lPC9sYWJlbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkE8L2gxPgo=</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsIGNsYXNzPSJsYWJlbCI+TmFtZTwvbGFiZWw+CiAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iVGV4dCBpbnB1dCI+CiAgICAgIDwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
