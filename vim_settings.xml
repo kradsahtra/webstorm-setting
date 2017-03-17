@@ -120,7 +120,7 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489737967553">
+      <file name="/Dummy.txt" timestamp="1489738183758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" timestamp="1489544407530">
@@ -234,6 +234,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="25" column="23" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/flucky/src/components/user/MyDailyAttendance.jsx" timestamp="1489738180858">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="70" />
+        <mark key="." line="12" column="70" />
+        <mark key="^" line="12" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/product.js" timestamp="1480588780799">
         <mark key="'" line="0" column="0" />
