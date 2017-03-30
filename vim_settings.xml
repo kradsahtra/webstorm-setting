@@ -17,7 +17,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1489717433681">
+      <file name="/a.dummy" timestamp="1490842620054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -168,6 +168,12 @@
         <mark key="]" line="121" column="11" />
         <mark key="^" line="163" column="5" />
         <mark key="." line="121" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/flucky/lib/deploy.sh" timestamp="1490842553230">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" timestamp="1487058642777">
         <mark key="'" line="41" column="1" />
@@ -367,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://p.1yuan-gou.com/id-facebook-share-new.png</text>
+        <text>121.40.29.144</text>
       </register>
       <register name="-" type="4">
-        <text>http://p.1yuan-gou.com/id-facebook-share-new.png</text>
+        <text>121.40.29.144</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzd2l0Y2hTdGF0XD4=</text>
