@@ -120,7 +120,7 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489738183758">
+      <file name="/Dummy.txt" timestamp="1492049623057">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" timestamp="1489544407530">
@@ -241,11 +241,11 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/flucky/src/components/user/MyDailyAttendance.jsx" timestamp="1490171682332">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="65" />
-        <mark key="." line="12" column="65" />
-        <mark key="^" line="12" column="65" />
+      <file name="$USER_HOME$/workspace/flucky/src/components/user/MyDailyAttendance.jsx" timestamp="1492049400435">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/product.js" timestamp="1480588780799">
         <mark key="'" line="0" column="0" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>121.40.29.144</text>
+        <text>Toko Seribu</text>
       </register>
       <register name="-" type="4">
-        <text>121.40.29.144</text>
+        <text>Toko Seribu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzd2l0Y2hTdGF0XD4=</text>
