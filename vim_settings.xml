@@ -120,7 +120,7 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492079356254">
+      <file name="/Dummy.txt" timestamp="1492134873644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" timestamp="1489544407530">
@@ -234,6 +234,12 @@
         <mark key="." line="175" column="75" />
         <mark key="^" line="175" column="80" />
       </file>
+      <file name="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" timestamp="1492134953429">
+        <mark key="'" line="200" column="12" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/components/layout/AppMain.vue" timestamp="1489575228299">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
@@ -276,19 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
-      <jump line="35" column="6" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
-      <jump line="10" column="6" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
-      <jump line="12" column="6" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
-      <jump line="44" column="76" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
-      <jump line="41" column="1" filename="$USER_HOME$/workspace/LuckyShopWeb/lib/deploy.sh" />
-      <jump line="157" column="61" filename="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" />
-      <jump line="186" column="53" filename="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" />
-      <jump line="35" column="49" filename="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" />
-      <jump line="361" column="37" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
-      <jump line="1" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
-      <jump line="57" column="40" filename="$USER_HOME$/workspace/LuckyShopWeb/src/all.jsx" />
-      <jump line="96" column="22" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="98" column="22" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="22" column="6" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="46" column="27" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
@@ -376,61 +369,73 @@
       <jump line="84" column="25" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="37" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
       <jump line="76" column="81" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
+      <jump line="111" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="150" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="149" column="15" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="179" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="199" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="1" column="4" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="117" column="18" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="135" column="18" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="154" column="18" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="181" column="12" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="200" column="12" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>121.41.6.238</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgbXlyZWcgPSAvXigoKDFbMy03XVswLTldezF9KXwoMTVbMC05XXsxfSl8KDE4WzAtOV17MX0pKStcZHs4fSkkLzsK</text>
       </register>
       <register name="-" type="4">
         <text>121.41.6.238</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzd2l0Y2hTdGF0XD4=</text>
+        <text encoding="base64">XDxteXJlZ1w+</text>
       </register>
       <register name="0" type="4">
         <text>updateGooglePlaySensor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbXlyZWcgPSAvXigoKDFbMy03XVswLTldezF9KXwoMTVbMC05XXsxfSl8KDE4WzAtOV17MX0pKStcZHs4fSkkLzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IENSRUFURV9ORVdfQkFOTkVSX1JFUVVFU1QgPSAnQ1JFQVRFX05FV19CQU5ORVJfUkVRVUVTVCcK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbXlyZWcgPSAvXigoKDFbMy03XVswLTldezF9KXwoMTVbMC05XXsxfSl8KDE4WzAtOV17MX0pKStcZHs4fSkkLzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFVQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUID0gJ1VQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUJwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbXlyZWcgPSAvXigoKDFbMy03XVswLTldezF9KXwoMTVbMC05XXsxfSl8KDE4WzAtOV17MX0pKStcZHs4fSkkLzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbXlyZWcgPSAvXigoKDFbMy03XVswLTldezF9KXwoMTVbMC05XXsxfSl8KDE4WzAtOV17MX0pKStcZHs4fSkkLzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IENSRUFURV9ORVdfQkFOTkVSX1JFUVVFU1QgPSAnQ1JFQVRFX05FV19CQU5ORVJfUkVRVUVTVCcK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbXlyZWcgPSAvXigoKDFbMy03XVswLTldezF9KXwoMTVbMC05XXsxfSl8KDE4WzAtOV17MX0pKStcZHs4fSkkLzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFVQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUID0gJ1VQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IENSRUFURV9ORVdfQkFOTkVSX1JFUVVFU1QgPSAnQ1JFQVRFX05FV19CQU5ORVJfUkVRVUVTVCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGEgKCkgewogICAgICByZXR1cm4gewogICAgICAgIGFwcF9zdG9yZV9zZW5zb3I6IGZhbHNlCiAgICAgIH0KICAgIH0sCiAgICBjb21wdXRlZDogewo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFVQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUID0gJ1VQREFURV9CQU5ORVJfREVUQUlMU19SRVFVRVNUJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2Yi1zd2l0Y2ggdHlwZT0ic3VjY2VzcyIgc2l6ZT0ibGFyZ2UiIDpjaGVja2VkPSJhcHBfc3RvcmVfc2Vuc29yIiB2LW1vZGVsPSJhcHBfc3RvcmVfc2Vuc29yIj48L3ZiLXN3aXRjaD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzd2l0Y2hTdGF0XD4=</last-search>
+      <last-search encoding="base64">XDxteXJlZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzd2l0Y2hTdGF0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxteXJlZ1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ29BdHRlbmRhbmNlXD4=</entry>
         <entry encoding="base64">XDxfaXNTaGFyZUZ1blw+</entry>
         <entry encoding="base64">XDxfZ29TaWduXD4=</entry>
         <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
@@ -450,6 +455,7 @@
         <entry encoding="base64">XDxpbWFnZVw+</entry>
         <entry encoding="base64">XDxyZXF1aXJlQXV0aFw+</entry>
         <entry encoding="base64">XDxzd2l0Y2hTdGF0XD4=</entry>
+        <entry encoding="base64">XDxteXJlZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
