@@ -132,11 +132,12 @@
         <mark key="." line="595" column="0" />
         <mark key="^" line="139" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/API/account.js" timestamp="1492510142735">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="15" />
+      <file name="$USER_HOME$/workspace/game_center/assets/API/account.js" timestamp="1492511320944">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" timestamp="1489646276468">
         <mark key="'" line="158" column="56" />
@@ -296,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="108" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="52" column="61" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="128" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
@@ -396,19 +396,20 @@
       <jump line="747" column="5" filename="$USER_HOME$/workspace/game_center/creator.d.ts" />
       <jump line="2" column="16" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/NetWork/zlAjax.js" />
       <jump line="3" column="6" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/NetWork/zlAjax.js" />
+      <jump line="9" column="31" filename="$USER_HOME$/workspace/game_center/assets/API/account.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>anonymousLogin</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4aHJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB4aHIub25yZWFkeXN0YXRlY2hhbmdlID0gZnVuY3Rpb24gKCkgewogICAgLy/liKTmlq1hamF45piv5ZCm5Yqg6L295a6M5oiQCiAgICBpZiAoeGhyLnJlYWR5U3RhdGUgPT0gNCkgewogICAgICAvL+WIpOaWremhtemdouaYr+WQpuivt+axguaIkOWKnwogICAgICBpZiAoeGhyLnN0YXR1cyA9PSAyMDApIHsKICAgICAgICBvcHRpb24uc3VjY2Vzcyh4aHIucmVzcG9uc2VUZXh0KTsKICAgICAgfSBlbHNlIHsKICAgICAgICBvcHRpb24uZXJyb3IoeGhyLnN0YXR1cykKICAgICAgfQogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>anonymousLogin</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL+WIpOaWremhtemdouaYr+WQpuivt+axguaIkOWKnwo=</text>
