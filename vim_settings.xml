@@ -23,7 +23,8 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginAndRegister.js" timestamp="1492515834234">
+      <file name="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginAndRegister.js" timestamp="1492583031813">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="52" column="45" />
       </file>
@@ -263,6 +264,7 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/game_center/assets/Common/Script/AnonymousLoginCtl.js" timestamp="1492582914236" />
       <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489574080094">
         <mark key="'" line="66" column="6" />
         <mark key="[" line="121" column="11" />
@@ -307,9 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
-      <jump line="131" column="9" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
-      <jump line="101" column="37" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="102" column="27" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="31" column="23" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="134" column="37" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
@@ -407,6 +406,9 @@
       <jump line="94" column="8" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="96" column="17" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="130" column="51" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
+      <jump line="51" column="21" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginAndRegister.js" />
+      <jump line="101" column="21" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginAndRegister.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginAndRegister.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -416,7 +418,7 @@
         <text>txt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dpbkFuZFJlZ2lzdGVyXD4=</text>
+        <text encoding="base64">XDxub2RlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0cmFuc0RhdGEgPSBKU09OLnBhcnNlKHR4dCkuZGF0YTsKICAgICAgICAgICAgICAgIHVzZXJEYXRhTWdyLnNhdmVVc2VyRGF0YUV2ZW50KHRyYW5zRGF0YSk7CiAgICAgICAgICAgICAgICAvL+i/m+WFpeWkp+WOhQogICAgICAgICAgICAgICAgc2VsZi5ub2RlLnJ1bkFjdGlvbihjYy5mYWRlT3V0KDEuMCkpOwogICAgICAgICAgICAgICAgY2MuZGlyZWN0b3IubG9hZFNjZW5lKCdIYWxsJyk7Cg==</text>
@@ -453,15 +455,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dpbkFuZFJlZ2lzdGVyXD4=</last-search>
+      <last-search encoding="base64">XDxub2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dpbkFuZFJlZ2lzdGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxub2RlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXlfYWxpX2ljb25cPg==</entry>
         <entry encoding="base64">XDxweDJyZW1cPg==</entry>
         <entry encoding="base64">XDxQVF9DT0RBUEFZX1dBUFw+</entry>
         <entry encoding="base64">XDxGbGF0cGlja3JcPg==</entry>
@@ -481,6 +482,7 @@
         <entry encoding="base64">XDxteXJlZ1w+</entry>
         <entry encoding="base64">XDx4aHJcPg==</entry>
         <entry encoding="base64">XDxsb2dpbkFuZFJlZ2lzdGVyXD4=</entry>
+        <entry encoding="base64">XDxub2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
