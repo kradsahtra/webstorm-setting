@@ -264,11 +264,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/Common/Script/AnonymousLoginCtl.js" timestamp="1492585163894">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/workspace/game_center/assets/Common/Script/AnonymousLoginCtl.js" timestamp="1492587657114">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/components/layout/Sidebar.vue" timestamp="1489574080094">
         <mark key="'" line="66" column="6" />
@@ -416,11 +416,11 @@
       <jump line="51" column="16" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginAndRegister.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>.data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -429,19 +429,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0cmFuc0RhdGEgPSBKU09OLnBhcnNlKHR4dCkuZGF0YTsKICAgICAgICAgICAgICAgIHVzZXJEYXRhTWdyLnNhdmVVc2VyRGF0YUV2ZW50KHRyYW5zRGF0YSk7CiAgICAgICAgICAgICAgICAvL+i/m+WFpeWkp+WOhQogICAgICAgICAgICAgICAgc2VsZi5ub2RlLnJ1bkFjdGlvbihjYy5mYWRlT3V0KDEuMCkpOwogICAgICAgICAgICAgICAgY2MuZGlyZWN0b3IubG9hZFNjZW5lKCdIYWxsJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhbm9ueW1vdXMgbG9naW4gYnV0dG9uIGNsaWNrZWQnKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhbm9ueW1vdXMgbG9naW4gYnV0dG9uIGNsaWNrZWQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy/ov5vlhaXlpKfljoUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy/ov5vlhaXlpKfljoUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -450,10 +450,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbGxlZCBldmVyeSBmcmFtZSwgdW5jb21tZW50IHRoaXMgZnVuY3Rpb24gdG8gYWN0aXZhdGUgdXBkYXRlIGNhbGxiYWNrCiAgICAvLyB1cGRhdGU6IGZ1bmN0aW9uIChkdCkgewoKICAgIC8vIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgo=</text>
+        <text encoding="base64">ICAgIC8vIGNhbGxlZCBldmVyeSBmcmFtZSwgdW5jb21tZW50IHRoaXMgZnVuY3Rpb24gdG8gYWN0aXZhdGUgdXBkYXRlIGNhbGxiYWNrCiAgICAvLyB1cGRhdGU6IGZ1bmN0aW9uIChkdCkgewoKICAgIC8vIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
