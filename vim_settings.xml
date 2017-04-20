@@ -34,7 +34,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/Home/Script/zlUtils/userDataKeys.js" timestamp="1492598630125" />
       <file name="$USER_HOME$/fun/vue-admin/node_modules/nprogress/nprogress.js" timestamp="1480576100451">
         <mark key="'" line="428" column="11" />
         <mark key="[" line="462" column="19" />
@@ -49,6 +48,17 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" timestamp="1492678721187">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="57" column="45" />
+        <mark key="]" line="57" column="46" />
+        <mark key="." line="57" column="46" />
+        <mark key="^" line="57" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/game_center/assets/Home/Script/zlUtils/userDataMgr.js" timestamp="1492678512160">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" timestamp="1489544407530">
         <mark key="'" line="139" column="13" />
         <mark key="[" line="595" column="0" />
@@ -56,12 +66,12 @@
         <mark key="." line="595" column="0" />
         <mark key="^" line="139" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/API/account.js" timestamp="1492515738902">
-        <mark key="'" line="9" column="31" />
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="4" column="44" />
-        <mark key="." line="12" column="21" />
+      <file name="$USER_HOME$/workspace/game_center/assets/API/account.js" timestamp="1492678540489">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="23" column="62" />
+        <mark key="^" line="23" column="62" />
+        <mark key="." line="23" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" timestamp="1489646276468">
         <mark key="'" line="158" column="56" />
@@ -313,12 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="9" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
-      <jump line="94" column="2" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/DailyLuckyUsers.jsx" />
-      <jump line="107" column="22" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" />
       <jump line="146" column="16" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
       <jump line="151" column="16" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
       <jump line="161" column="16" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
@@ -413,64 +417,66 @@
       <jump line="8" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginAndRegister.js" />
       <jump line="14" column="8" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginAndRegister.js" />
       <jump line="51" column="16" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginAndRegister.js" />
+      <jump line="47" column="4" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/game_center/assets/API/account.js" />
+      <jump line="76" column="12" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
+      <jump line="50" column="7" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
+      <jump line="1" column="53" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
+      <jump line="51" column="6" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SGVsbG8gd29ybGQgbmV3IHByb2plY3QgdGVtcGxhdGUuCg==</text>
+      <register name="&quot;" type="4">
+        <text>balance</text>
       </register>
       <register name="-" type="4">
-        <text>hello-world</text>
+        <text>balance</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text encoding="base64">XDx1c2VyRGF0YU1nclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0cmFuc0RhdGEgPSBKU09OLnBhcnNlKHR4dCkuZGF0YTsKICAgICAgICAgICAgICAgIHVzZXJEYXRhTWdyLnNhdmVVc2VyRGF0YUV2ZW50KHRyYW5zRGF0YSk7CiAgICAgICAgICAgICAgICAvL+i/m+WFpeWkp+WOhQogICAgICAgICAgICAgICAgc2VsZi5ub2RlLnJ1bkFjdGlvbihjYy5mYWRlT3V0KDEuMCkpOwogICAgICAgICAgICAgICAgY2MuZGlyZWN0b3IubG9hZFNjZW5lKCdIYWxsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhPSBjYy5zeXMubG9jYWxTdG9yYWdlLmdldEl0ZW0obmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SGVsbG8gd29ybGQgbmV3IHByb2plY3QgdGVtcGxhdGUuCg==</text>
+        <text encoding="base64">dmFyIHpsQWpheCA9IHJlcXVpcmUoJy4uLy4uL0hvbWUvU2NyaXB0L05ldFdvcmsvemxBamF4Jyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciB1cmwgPSBBUElVUkwgKyAnYXBpL2dldF91c2VyX2luZm8vJyArIHVzZXJEYXRhTWdyLnJlYWREYXRhKCd1c2VyX2lkJyk7CiAgICB6bEFqYXgoewogICAgICBtZXRob2Q6ICdnZXQnLAogICAgICB1cmw6IHVybCwKICAgICAgYXN5bmM6IHRydWUsCiAgICAgIHRva2VuOiAndG9rZW4nLAogICAgICBzZW5kQmVmb3JlOiBmdW5jdGlvbiAoeGhyKSB7CiAgICAgIH0sCiAgICAgIHNlbmRDb21wbGV0ZTogZnVuY3Rpb24gKHhocikgewogICAgICB9LAogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAodHh0KSB7CiAgICAgICAgdmFyIHN0eHQgPSBKU09OLnBhcnNlKHR4dCk7CiAgICAgICAgaWYgKHR4dC5zdGF0dXMgPT0gMCkgewogICAgICAgICAgdmFyIHRyYW5zRGF0YSA9IEpTT04ucGFyc2UodHh0KS5kYXRhOwogICAgICAgICAgdXNlckRhdGFNZ3Iuc2F2ZVVzZXJEYXRhRXZlbnQodHJhbnNEYXRhKTsKICAgICAgICAgIHZhciB1QXZhdGFyID0gdHJhbnNEYXRhLmdlbmRlciA9PSAxID8gJ3Jlc291cmNlcy9uaXVuaXUvdXNlci90dW94aWFuZzYucG5nJyA6ICdyZXNvdXJjZXMvbml1bml1L3VzZXIvdHVveGlhbmc1LnBuZyc7CiAgICAgICAgICB2YXIgc2ZyYW1lID0gbmV3IGNjLlNwcml0ZUZyYW1lKGNjLnVybC5yYXcodUF2YXRhcikpOwogICAgICAgICAgc2VsZi51c2VyQXZhdGFyLmdldENvbXBvbmVudChjYy5TcHJpdGUpLnNwcml0ZUZyYW1lID0gc2ZyYW1lOwoKICAgICAgICAgIHZhciB1R29sZCA9IHVzZXJEYXRhTWdyLnJlYWREYXRhKCdnb2xkJyk7CiAgICAgICAgICB2YXIgdUJhbGFuY2UgPSB1c2VyRGF0YU1nci5yZWFkRGF0YSgnYmFsYW5jZScpOwogICAgICAgICAgc2VsZi51c2VyR29sZC5zdHJpbmcgPSBzZWxmLmNoYW5nZU51bSh1R29sZCk7CiAgICAgICAgICBzZWxmLnVzZXJCYWxhbmNlLnN0cmluZyA9IHNlbGYuY2hhbmdlTnVtKHVCYWxhbmNlKTsKICAgICAgICB9CgogICAgICAgIGlmIChzdHh0LnN0YXR1cyA9PSA0MDMpIHsKICAgICAgICAgIHNlbGYuZ2FtZVRpY2suYWN0aXZlID0gdHJ1ZTsKICAgICAgICB9CgogICAgICB9LAogICAgICBlcnJvcjogZnVuY3Rpb24gKHN0YXR1cykgewoKICAgICAgfQogICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhbm9ueW1vdXMgbG9naW4gYnV0dG9uIGNsaWNrZWQnKQo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHN0eHQgPSBKU09OLnBhcnNlKHR4dCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy/ov5vlhaXlpKfljoUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNhbGxlZCBldmVyeSBmcmFtZSwgdW5jb21tZW50IHRoaXMgZnVuY3Rpb24gdG8gYWN0aXZhdGUgdXBkYXRlIGNhbGxiYWNrCiAgICAvLyB1cGRhdGU6IGZ1bmN0aW9uIChkdCkgewoKICAgIC8vIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search encoding="base64">XDx1c2VyRGF0YU1nclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyRGF0YU1nclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGbGF0cGlja3JcPg==</entry>
-        <entry encoding="base64">XDx1aWZlYXR1cmVzXD4=</entry>
-        <entry encoding="base64">XDxpc0V4cGFuZGVkXD4=</entry>
-        <entry encoding="base64">XDxpc0RlbGV0ZU1vZGFsVmlzaWJsZVw+</entry>
         <entry encoding="base64">XDxkYXRlXD4=</entry>
         <entry encoding="base64">XDxkYXRlcGlja2VyXD4=</entry>
         <entry encoding="base64">XDxjbG9zZVBpY2tlclw+</entry>
@@ -487,6 +493,10 @@
         <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry encoding="base64">XDxtc2dWY29kZUVycm9yXD4=</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxsb2FkRnVuXD4=</entry>
+        <entry encoding="base64">XDxzdHh0XD4=</entry>
+        <entry encoding="base64">XDx6bEFqYXhcPg==</entry>
+        <entry encoding="base64">XDx1c2VyRGF0YU1nclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
