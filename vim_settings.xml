@@ -48,12 +48,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" timestamp="1492678721187">
-        <mark key="'" line="51" column="6" />
-        <mark key="[" line="57" column="45" />
-        <mark key="]" line="57" column="46" />
-        <mark key="." line="57" column="46" />
-        <mark key="^" line="57" column="49" />
+      <file name="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" timestamp="1492683593576">
+        <mark key="'" line="52" column="20" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="47" column="17" />
+        <mark key="^" line="47" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/Home/Script/zlUtils/userDataMgr.js" timestamp="1492678512160">
         <mark key="[" line="4" column="0" />
@@ -125,6 +125,13 @@
         <mark key="]" line="13" column="10" />
         <mark key="^" line="20" column="13" />
         <mark key="." line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUserCenter.js" timestamp="1492683582474">
+        <mark key="'" line="77" column="10" />
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="17" />
+        <mark key="^" line="77" column="17" />
+        <mark key="." line="77" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1482143604802">
         <mark key="'" line="42" column="0" />
@@ -323,12 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="16" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
-      <jump line="151" column="16" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
-      <jump line="161" column="16" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/constants/Config.js" />
-      <jump line="238" column="38" filename="$USER_HOME$/workspace/LuckyShopWeb/src/css/icons.css" />
-      <jump line="127" column="0" filename="$USER_HOME$/workspace/LuckyShopWeb/src/scss/dailyattendance.scss" />
       <jump line="10" column="8" filename="$USER_HOME$/workspace/LuckyShopWeb/src/scss/dailyattendance.scss" />
       <jump line="11" column="9" filename="$USER_HOME$/workspace/LuckyShopWeb/src/scss/dailyattendance.scss" />
       <jump line="13" column="27" filename="$USER_HOME$/workspace/LuckyShopWeb/src/scss/dailyattendance.scss" />
@@ -420,66 +421,69 @@
       <jump line="47" column="4" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/game_center/assets/API/account.js" />
       <jump line="76" column="12" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
-      <jump line="50" column="7" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
       <jump line="1" column="53" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
-      <jump line="51" column="6" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
+      <jump line="76" column="8" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUserCenter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUserCenter.js" />
+      <jump line="50" column="10" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
+      <jump line="51" column="36" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
+      <jump line="52" column="20" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
+      <jump line="79" column="11" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUserCenter.js" />
+      <jump line="23" column="4" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUserCenter.js" />
+      <jump line="77" column="10" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUserCenter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_id</text>
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyRGF0YU1nclw+</text>
+        <text encoding="base64">XDx1c2VySURcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>user_id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciBzZWxmID0gdGhpczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIHpsQWpheCA9IHJlcXVpcmUoJy4uLy4uL0hvbWUvU2NyaXB0L05ldFdvcmsvemxBamF4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHJhbnNEYXRhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Jlc3BvbnNlIGlzICcgKyByZXNwb25zZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciB1cmwgPSBBUElVUkwgKyAnYXBpL2dldF91c2VyX2luZm8vJyArIHVzZXJEYXRhTWdyLnJlYWREYXRhKCd1c2VyX2lkJyk7CiAgICB6bEFqYXgoewogICAgICBtZXRob2Q6ICdnZXQnLAogICAgICB1cmw6IHVybCwKICAgICAgYXN5bmM6IHRydWUsCiAgICAgIHRva2VuOiAndG9rZW4nLAogICAgICBzZW5kQmVmb3JlOiBmdW5jdGlvbiAoeGhyKSB7CiAgICAgIH0sCiAgICAgIHNlbmRDb21wbGV0ZTogZnVuY3Rpb24gKHhocikgewogICAgICB9LAogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAodHh0KSB7CiAgICAgICAgdmFyIHN0eHQgPSBKU09OLnBhcnNlKHR4dCk7CiAgICAgICAgaWYgKHR4dC5zdGF0dXMgPT0gMCkgewogICAgICAgICAgdmFyIHRyYW5zRGF0YSA9IEpTT04ucGFyc2UodHh0KS5kYXRhOwogICAgICAgICAgdXNlckRhdGFNZ3Iuc2F2ZVVzZXJEYXRhRXZlbnQodHJhbnNEYXRhKTsKICAgICAgICAgIHZhciB1QXZhdGFyID0gdHJhbnNEYXRhLmdlbmRlciA9PSAxID8gJ3Jlc291cmNlcy9uaXVuaXUvdXNlci90dW94aWFuZzYucG5nJyA6ICdyZXNvdXJjZXMvbml1bml1L3VzZXIvdHVveGlhbmc1LnBuZyc7CiAgICAgICAgICB2YXIgc2ZyYW1lID0gbmV3IGNjLlNwcml0ZUZyYW1lKGNjLnVybC5yYXcodUF2YXRhcikpOwogICAgICAgICAgc2VsZi51c2VyQXZhdGFyLmdldENvbXBvbmVudChjYy5TcHJpdGUpLnNwcml0ZUZyYW1lID0gc2ZyYW1lOwoKICAgICAgICAgIHZhciB1R29sZCA9IHVzZXJEYXRhTWdyLnJlYWREYXRhKCdnb2xkJyk7CiAgICAgICAgICB2YXIgdUJhbGFuY2UgPSB1c2VyRGF0YU1nci5yZWFkRGF0YSgnYmFsYW5jZScpOwogICAgICAgICAgc2VsZi51c2VyR29sZC5zdHJpbmcgPSBzZWxmLmNoYW5nZU51bSh1R29sZCk7CiAgICAgICAgICBzZWxmLnVzZXJCYWxhbmNlLnN0cmluZyA9IHNlbGYuY2hhbmdlTnVtKHVCYWxhbmNlKTsKICAgICAgICB9CgogICAgICAgIGlmIChzdHh0LnN0YXR1cyA9PSA0MDMpIHsKICAgICAgICAgIHNlbGYuZ2FtZVRpY2suYWN0aXZlID0gdHJ1ZTsKICAgICAgICB9CgogICAgICB9LAogICAgICBlcnJvcjogZnVuY3Rpb24gKHN0YXR1cykgewoKICAgICAgfQogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHN0eHQgPSBKU09OLnBhcnNlKHR4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtnZXRQcm9maWxlfSBmcm9tICcuLi8uLi8uLi9saWJyYXJ5L2ltcG9ydHMvMzkvMzk4ZTE3NmEtZTBkYi00MTg1LWE2ZTItZTg2ZDc5MzE4ZDAwJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICAgICAgdmFyIHVybCAgPSBBUElVUkwrICdhcGkvZ2V0X3VzZXJfaW5mby8nK3VzZXJEYXRhTWdyLnJlYWREYXRhKCd1c2VyX2lkJyk7CiAgICAgICAgemxBamF4KHsKICAgICAgICAgICAgbWV0aG9kOiAnZ2V0JywKICAgICAgICAgICAgdXJsOiB1cmwsCiAgICAgICAgICAgIGFzeW5jOiB0cnVlLAogICAgICAgICAgICB0b2tlbjondG9rZW4nLAogICAgICAgICAgICBzZW5kQmVmb3JlOiBmdW5jdGlvbih4aHIpe30sCiAgICAgICAgICAgIHNlbmRDb21wbGV0ZTogZnVuY3Rpb24oeGhyKXt9LAogICAgICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbih0eHQpewoKICAgICAgICAgICAgfSwKICAgICAgICAgICAgZXJyb3I6IGZ1bmN0aW9uKHN0YXR1cyl7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygi6K+35rGC5aSx6LSl54q25oCB56CB5Li6OiIrc3RhdHVzKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbGxlZCBldmVyeSBmcmFtZSwgdW5jb21tZW50IHRoaXMgZnVuY3Rpb24gdG8gYWN0aXZhdGUgdXBkYXRlIGNhbGxiYWNrCiAgICAvLyB1cGRhdGU6IGZ1bmN0aW9uIChkdCkgewoKICAgIC8vIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>120</text>
+        <text>80</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyRGF0YU1nclw+</last-search>
+      <last-search encoding="base64">XDx1c2VySURcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyRGF0YU1nclw+</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VySURcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlXD4=</entry>
-        <entry encoding="base64">XDxkYXRlcGlja2VyXD4=</entry>
-        <entry encoding="base64">XDxjbG9zZVBpY2tlclw+</entry>
         <entry encoding="base64">XDx1cGRhdGVTdGFydFw+</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
@@ -497,11 +501,18 @@
         <entry encoding="base64">XDxzdHh0XD4=</entry>
         <entry encoding="base64">XDx6bEFqYXhcPg==</entry>
         <entry encoding="base64">XDx1c2VyRGF0YU1nclw+</entry>
+        <entry encoding="base64">XDxnZXRQcm9maWxlXD4=</entry>
+        <entry encoding="base64">XDx0cmFuc0RhdGFcPg==</entry>
+        <entry encoding="base64">XDx1c2VySURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
         <entry>w</entry>
         <entry>120</entry>
+        <entry>57</entry>
+        <entry>53</entry>
+        <entry>88</entry>
+        <entry>80</entry>
       </history-cmd>
       <history-expr />
       <history-input />
