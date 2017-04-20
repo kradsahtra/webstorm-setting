@@ -66,12 +66,12 @@
         <mark key="." line="595" column="0" />
         <mark key="^" line="139" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/API/account.js" timestamp="1492678540489">
+      <file name="$USER_HOME$/workspace/game_center/assets/API/account.js" timestamp="1492680945674">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="62" />
-        <mark key="^" line="23" column="62" />
-        <mark key="." line="23" column="62" />
+        <mark key="[" line="22" column="65" />
+        <mark key="]" line="22" column="72" />
+        <mark key="^" line="22" column="64" />
+        <mark key="." line="22" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" timestamp="1489646276468">
         <mark key="'" line="158" column="56" />
@@ -426,16 +426,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>balance</text>
+        <text>user_id</text>
       </register>
       <register name="-" type="4">
-        <text>balance</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyRGF0YU1nclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhPSBjYy5zeXMubG9jYWxTdG9yYWdlLmdldEl0ZW0obmFtZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>user_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dmFyIHpsQWpheCA9IHJlcXVpcmUoJy4uLy4uL0hvbWUvU2NyaXB0L05ldFdvcmsvemxBamF4Jyk7Cg==</text>
