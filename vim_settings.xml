@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" timestamp="1493025189932">
+        <mark key="[" line="830" column="83" />
+        <mark key="]" line="830" column="91" />
+        <mark key="." line="830" column="91" />
+        <mark key="^" line="830" column="91" />
+      </file>
       <file name="$USER_HOME$/fun/vue-admin/src/views/Home.vue" timestamp="1480579979177">
         <mark key="'" line="45" column="10" />
         <mark key="[" line="23" column="34" />
@@ -281,7 +287,7 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492686404714">
+      <file name="/Dummy.txt" timestamp="1493025232533">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/LuckyShopWeb/src/components/user/MyDailyAttendance.jsx" timestamp="1489737959250">
@@ -446,11 +452,11 @@
       <jump line="3" column="4" filename="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIEFQSSA9IHJlcXVpcmUoJy4uLy4uL0hvbWUvU2NyaXB0L05ldFdvcmsvemxBUEknKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Isi ulang sekarang</text>
       </register>
       <register name="-" type="4">
-        <text>nickname</text>
+        <text>Isi ulang sekarang</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
