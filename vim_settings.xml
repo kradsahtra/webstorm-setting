@@ -62,8 +62,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" timestamp="1494388060289">
-        <mark key="'" line="248" column="6" />
+      <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" timestamp="1494396939711">
+        <mark key="'" line="223" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -192,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="27" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="23" column="42" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="25" column="26" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
       <jump line="125" column="56" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerNew.vue" />
@@ -292,6 +291,7 @@
       <jump line="202" column="9" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="231" column="69" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="248" column="6" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
+      <jump line="223" column="4" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
