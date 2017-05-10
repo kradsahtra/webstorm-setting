@@ -99,11 +99,11 @@
         <mark key="^" line="10" column="75" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/API/apiConfig.js" timestamp="1493890357730">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="42" />
-        <mark key="^" line="17" column="26" />
-        <mark key="." line="17" column="27" />
+      <file name="$USER_HOME$/workspace/game_center/assets/API/apiConfig.js" timestamp="1494383506042">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="43" />
+        <mark key="^" line="21" column="43" />
+        <mark key="." line="21" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/Common/Script/AnonymousLoginCtl.js" timestamp="1492587657114">
         <mark key="[" line="16" column="28" />
@@ -177,11 +177,11 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/game_center/assets/API/roulette.js" timestamp="1494382349497">
+      <file name="$USER_HOME$/workspace/game_center/assets/API/roulette.js" timestamp="1494383404283">
         <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="17" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -288,16 +288,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>slot</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>slot</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZXRTbG90XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ2JldF9pbmRleCc6IFN0cmluZyhiZXRfaW5kZXgpLAo=</text>
+        <text encoding="base64">ICBnZXRTbG90SW5mb1VybDogcHJlZml4X2hvc3QoIi9hcGkvc2xvdC9pbmZvIiksCiAgYmV0U2xvdFVybDogcHJlZml4X2hvc3QoIi9hcGkvc2xvdC9iZXQiKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJycK</text>
