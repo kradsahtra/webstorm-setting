@@ -9,7 +9,8 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" timestamp="1493025189932">
+      <file name="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" timestamp="1495697762455">
+        <mark key="'" line="872" column="0" />
         <mark key="[" line="830" column="83" />
         <mark key="]" line="830" column="91" />
         <mark key="." line="830" column="91" />
@@ -107,7 +108,7 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495697667335">
+      <file name="/Dummy.txt" timestamp="1495697770285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/payUtil.js" timestamp="1493889825132">
@@ -121,6 +122,9 @@
         <mark key="]" line="10" column="16" />
         <mark key="^" line="10" column="75" />
         <mark key="." line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/flucky/src/discovery.jsx" timestamp="1495697904761">
+        <mark key="'" line="30" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/apiConfig.js" timestamp="1494408137403">
         <mark key="[" line="27" column="62" />
@@ -234,9 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="18" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
-      <jump line="154" column="18" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
-      <jump line="181" column="12" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="200" column="12" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="6" column="8" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/NetWork/zlAjax.js" />
       <jump line="4" column="6" filename="$USER_HOME$/workspace/game_center/assets/GameHall/Script/HomeUI.js" />
@@ -334,6 +335,9 @@
       <jump line="32" column="41" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryLast.js" />
       <jump line="25" column="24" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryLast.js" />
       <jump line="20" column="26" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryRecordList.js" />
+      <jump line="315" column="0" filename="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" />
+      <jump line="872" column="0" filename="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" />
+      <jump line="30" column="48" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -343,7 +347,7 @@
         <text>Records</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVdGlsc1w+</text>
+        <text encoding="base64">XDxTbG90TWFjaGluZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LmNvbnRlbnQucmVtb3ZlQWxsQ2hpbGRyZW4oKTsKICAgICAgdmFyIGpzb25EYXRhID0gSlNPTi5wYXJzZShkYXRhKTsKICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBqc29uRGF0YS5kYXRhLmxpc3QubGVuZ3RoOyBpKyspIHsKICAgICAgICB2YXIgaW5kZXggPSBqc29uRGF0YS5kYXRhLmxpc3RbaV07CiAgICAgICAgdmFyIGl0ZW0gPSBjYy5pbnN0YW50aWF0ZSh0aGlzT2JqZWN0LnByZWZhYkhpc3RvcnlJdGVtKTsKICAgICAgICBpdGVtLmdldENvbXBvbmVudCgnTG90dGVyeUhpc3RvcnlJdGVtJykuaW5pdChpbmRleCwgaSA9PSAwKTsKICAgICAgICB0aGlzT2JqZWN0LnNjcm9sbFZpZXcuY29udGVudC5hZGRDaGlsZChpdGVtKTsKICAgICAgfQogICAgICB0aGlzT2JqZWN0LnNjcm9sbFZpZXcuc2Nyb2xsVG9MZWZ0KCk7Cg==</text>
@@ -380,15 +384,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVdGlsc1w+</last-search>
+      <last-search encoding="base64">XDxTbG90TWFjaGluZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVdGlsc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxTbG90TWFjaGluZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkRnVuXD4=</entry>
         <entry encoding="base64">XDxzdHh0XD4=</entry>
         <entry encoding="base64">XDx6bEFqYXhcPg==</entry>
         <entry encoding="base64">XDx1c2VyRGF0YU1nclw+</entry>
@@ -408,6 +411,7 @@
         <entry encoding="base64">XDxiZXRBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VOdW1cPg==</entry>
         <entry encoding="base64">XDxVdGlsc1w+</entry>
+        <entry encoding="base64">XDxTbG90TWFjaGluZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
