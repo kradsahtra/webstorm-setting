@@ -16,6 +16,9 @@
         <mark key="." line="830" column="91" />
         <mark key="^" line="830" column="91" />
       </file>
+      <file name="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurnTable.jsx" timestamp="1495703096665">
+        <mark key="'" line="176" column="21" />
+      </file>
       <file name="/a.dummy" timestamp="1490842620054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -27,6 +30,13 @@
         <mark key="]" line="50" column="12" />
         <mark key="^" line="50" column="12" />
         <mark key="." line="50" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/flucky/src/scss/ssc.scss" timestamp="1495703370230">
+        <mark key="'" line="1057" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1057" column="1" />
+        <mark key="^" line="1057" column="1" />
+        <mark key="." line="1057" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/README.md" timestamp="1492598916273">
         <mark key="[" line="0" column="23" />
@@ -52,7 +62,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/flucky/src/components/discovery/GameCity.jsx" timestamp="1495700204093" />
+      <file name="$USER_HOME$/workspace/flucky/src/components/discovery/GameCity.jsx" timestamp="1495703640017">
+        <mark key="'" line="41" column="23" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryRecordList.js" timestamp="1494409843602">
         <mark key="'" line="20" column="26" />
         <mark key="[" line="20" column="22" />
@@ -83,10 +98,11 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/flucky/src/all.jsx" timestamp="1495701577313">
-        <mark key="'" line="266" column="55" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="71" />
+      <file name="$USER_HOME$/workspace/flucky/src/all.jsx" timestamp="1495703255113">
+        <mark key="'" line="142" column="56" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="83" />
+        <mark key="." line="268" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1489655853534">
         <mark key="[" line="16" column="0" />
@@ -114,7 +130,7 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495701305131">
+      <file name="/Dummy.txt" timestamp="1495704215539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/payUtil.js" timestamp="1493889825132">
@@ -129,11 +145,18 @@
         <mark key="^" line="10" column="75" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/flucky/src/discovery.jsx" timestamp="1495700965718">
-        <mark key="'" line="3" column="57" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/workspace/flucky/src/discovery.jsx" timestamp="1495703245961">
+        <mark key="'" line="64" column="61" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="83" />
+        <mark key="." line="65" column="78" />
+        <mark key="^" line="65" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" timestamp="1495703882366">
+        <mark key="'" line="1507" column="15" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/apiConfig.js" timestamp="1494408137403">
         <mark key="[" line="27" column="62" />
@@ -247,16 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/NetWork/zlAjax.js" />
-      <jump line="747" column="5" filename="$USER_HOME$/workspace/game_center/creator.d.ts" />
-      <jump line="2" column="16" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/NetWork/zlAjax.js" />
-      <jump line="3" column="6" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/NetWork/zlAjax.js" />
-      <jump line="9" column="31" filename="$USER_HOME$/workspace/game_center/assets/API/account.js" />
-      <jump line="147" column="17" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
-      <jump line="148" column="17" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
-      <jump line="170" column="17" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="0" column="4" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="94" column="8" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="96" column="17" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
@@ -345,63 +358,72 @@
       <jump line="272" column="55" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
       <jump line="131" column="49" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
       <jump line="266" column="55" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
-      <jump line="64" column="57" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
       <jump line="3" column="57" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
+      <jump line="1504" column="108" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurnTable.jsx" />
+      <jump line="10" column="36" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurnTable.jsx" />
+      <jump line="176" column="21" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurnTable.jsx" />
+      <jump line="65" column="61" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
+      <jump line="33" column="22" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
+      <jump line="64" column="61" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
+      <jump line="141" column="56" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
+      <jump line="1522" column="15" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
+      <jump line="1057" column="1" filename="$USER_HOME$/workspace/flucky/src/scss/ssc.scss" />
+      <jump line="41" column="23" filename="$USER_HOME$/workspace/flucky/src/components/discovery/GameCity.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IioiIGNvbXBvbmVudD17Tm9Gb3VuZH0vPgo=</text>
+        <text encoding="base64">ICAgIGlmKCh3aW5kb3cuRyAmJiB3aW5kb3cuRy53a3dlYnZpZXcpIHx8IHdpbmRvdy55eWcpewogICAgICBpZiAoIUF1dGguaXNMb2dnZWRJbigpKSB7CiAgICAgICAgaWYgKHdpbmRvdy5HICYmIHdpbmRvdy5HLndrd2VidmlldykgewogICAgICAgICAgd2luZG93LndlYmtpdC5tZXNzYWdlSGFuZGxlcnMueXlnLnBvc3RNZXNzYWdlKHsibmFtZSI6ICJleGVjdXRlQ29tbWFuZCIsICJjb21tYW5kIjogJzYjJ30pOwogICAgICAgIH0gZWxzZSBpZiAod2luZG93Lnl5ZyAmJiAod2luZG93Lnl5Zy5leGVjdXRlQ29tbWFuZCB8fCB3aW5kb3cueXlnLmV4ZWN1dGVDb21tYW5kRGF0YSkpIHsKICAgICAgICAgIHdpbmRvdy55eWcuZXhlY3V0ZUNvbW1hbmQgJiYgd2luZG93Lnl5Zy5leGVjdXRlQ29tbWFuZCgnNiMnLCAnJyk7CiAgICAgICAgICBpZiAod2luZG93Lnl5Zy5leGVjdXRlQ29tbWFuZERhdGEpIHdpbmRvdy55eWcuZXhlY3V0ZUNvbW1hbmREYXRhKCc2IycsICcnKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnL2xvZ2luP2Zyb209JyArIHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZTsKICAgICAgICB9CiAgICAgIH0KCiAgICB9ZWxzZXsKICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnLyc7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Records</text>
+        <text>FruitMachine</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGcnVpdE1hY2hpbmVcPg==</text>
+        <text encoding="base64">XDxDb3VudGRvd25UdXJudGFibGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9ImRpc2NvdmVyeS9mcnVpdF9tYWNoaW5lIiBjb21wb25lbnQ9e0ZydWl0TWFjaGluZX0gLz4K</text>
+      <register name="0" type="4">
+        <text>!Auth.isLoggedIn()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IioiIGNvbXBvbmVudD17Tm9Gb3VuZH0vPgo=</text>
+        <text encoding="base64">ICAgIGlmKCh3aW5kb3cuRyAmJiB3aW5kb3cuRy53a3dlYnZpZXcpIHx8IHdpbmRvdy55eWcpewogICAgICBpZiAoIUF1dGguaXNMb2dnZWRJbigpKSB7CiAgICAgICAgaWYgKHdpbmRvdy5HICYmIHdpbmRvdy5HLndrd2VidmlldykgewogICAgICAgICAgd2luZG93LndlYmtpdC5tZXNzYWdlSGFuZGxlcnMueXlnLnBvc3RNZXNzYWdlKHsibmFtZSI6ICJleGVjdXRlQ29tbWFuZCIsICJjb21tYW5kIjogJzYjJ30pOwogICAgICAgIH0gZWxzZSBpZiAod2luZG93Lnl5ZyAmJiAod2luZG93Lnl5Zy5leGVjdXRlQ29tbWFuZCB8fCB3aW5kb3cueXlnLmV4ZWN1dGVDb21tYW5kRGF0YSkpIHsKICAgICAgICAgIHdpbmRvdy55eWcuZXhlY3V0ZUNvbW1hbmQgJiYgd2luZG93Lnl5Zy5leGVjdXRlQ29tbWFuZCgnNiMnLCAnJyk7CiAgICAgICAgICBpZiAod2luZG93Lnl5Zy5leGVjdXRlQ29tbWFuZERhdGEpIHdpbmRvdy55eWcuZXhlY3V0ZUNvbW1hbmREYXRhKCc2IycsICcnKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnL2xvZ2luP2Zyb209JyArIHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZTsKICAgICAgICB9CiAgICAgIH0KCiAgICB9ZWxzZXsKICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnLyc7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIHBpbmdwcCA9IHJlcXVpcmUoJ3BpbmdwcC1qcycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCFBdXRoLmlzTG9nZ2VkSW4oKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIFV0aWxzID0gcmVxdWlyZSgnTG90dGVyeVV0aWxzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IioiIGNvbXBvbmVudD17Tm9Gb3VuZH0vPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgSGlzdG9yeVVybCA9ICcvYXBpL3YxL2xvdHRlcnkvaGlzdG9yeS9yZXZlYWwvJzsK</text>
+        <text encoding="base64">dmFyIHBpbmdwcCA9IHJlcXVpcmUoJ3BpbmdwcC1qcycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFV0aWxzLmdldERhdGFGcm9tU2VydmVyKEhpc3RvcnlVcmwsIGZ1bmN0aW9uIChkYXRhKSB7CiAgICAgIHRoaXNPYmplY3Quc2Nyb2xsVmlldy5jb250ZW50LnJlbW92ZUFsbENoaWxkcmVuKCk7CiAgICAgIHZhciBqc29uRGF0YSA9IEpTT04ucGFyc2UoZGF0YSk7CiAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwganNvbkRhdGEuZGF0YS5saXN0Lmxlbmd0aDsgaSsrKSB7CiAgICAgICAgdmFyIGluZGV4ID0ganNvbkRhdGEuZGF0YS5saXN0W2ldOwogICAgICAgIHZhciBpdGVtID0gY2MuaW5zdGFudGlhdGUodGhpc09iamVjdC5wcmVmYWJIaXN0b3J5SXRlbSk7CiAgICAgICAgaXRlbS5nZXRDb21wb25lbnQoJ0xvdHRlcnlIaXN0b3J5SXRlbScpLmluaXQoaW5kZXgsIGkgPT0gMCk7CiAgICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LmNvbnRlbnQuYWRkQ2hpbGQoaXRlbSk7CiAgICAgIH0KICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LnNjcm9sbFRvTGVmdCgpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">dmFyIFV0aWxzID0gcmVxdWlyZSgnTG90dGVyeVV0aWxzJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGpzb25EYXRhID0gSlNPTi5wYXJzZShkYXRhKTsK</text>
+        <text encoding="base64">Y29uc3QgSGlzdG9yeVVybCA9ICcvYXBpL3YxL2xvdHRlcnkvaGlzdG9yeS9yZXZlYWwvJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFV0aWxzLmdldERhdGFGcm9tU2VydmVyKEhpc3RvcnlVcmwsIGZ1bmN0aW9uIChkYXRhKSB7CiAgICAgIHRoaXNPYmplY3Quc2Nyb2xsVmlldy5jb250ZW50LnJlbW92ZUFsbENoaWxkcmVuKCk7CiAgICAgIHZhciBqc29uRGF0YSA9IEpTT04ucGFyc2UoZGF0YSk7CiAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwganNvbkRhdGEuZGF0YS5saXN0Lmxlbmd0aDsgaSsrKSB7CiAgICAgICAgdmFyIGluZGV4ID0ganNvbkRhdGEuZGF0YS5saXN0W2ldOwogICAgICAgIHZhciBpdGVtID0gY2MuaW5zdGFudGlhdGUodGhpc09iamVjdC5wcmVmYWJIaXN0b3J5SXRlbSk7CiAgICAgICAgaXRlbS5nZXRDb21wb25lbnQoJ0xvdHRlcnlIaXN0b3J5SXRlbScpLmluaXQoaW5kZXgsIGkgPT0gMCk7CiAgICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LmNvbnRlbnQuYWRkQ2hpbGQoaXRlbSk7CiAgICAgIH0KICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LnNjcm9sbFRvTGVmdCgpOwogICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiaGFuZGxlQ2xpY2siKTsK</text>
+        <text encoding="base64">ICAgICAgdmFyIGpzb25EYXRhID0gSlNPTi5wYXJzZShkYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIFV0aWxzID0gcmVxdWlyZSgnTG90dGVyeVV0aWxzJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGcnVpdE1hY2hpbmVcPg==</last-search>
+      <last-search encoding="base64">XDxDb3VudGRvd25UdXJudGFibGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGcnVpdE1hY2hpbmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDb3VudGRvd25UdXJudGFibGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyRGF0YU1nclw+</entry>
         <entry encoding="base64">XDxnZXRQcm9maWxlXD4=</entry>
         <entry encoding="base64">XDx0cmFuc0RhdGFcPg==</entry>
         <entry encoding="base64">XDx1c2VySURcPg==</entry>
@@ -421,6 +443,7 @@
         <entry encoding="base64">XDxTbG90TWFjaGluZVw+</entry>
         <entry>count</entry>
         <entry encoding="base64">XDxGcnVpdE1hY2hpbmVcPg==</entry>
+        <entry encoding="base64">XDxDb3VudGRvd25UdXJudGFibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
