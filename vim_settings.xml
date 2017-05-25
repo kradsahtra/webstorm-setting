@@ -52,6 +52,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/flucky/src/components/discovery/GameCity.jsx" timestamp="1495700204093" />
       <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryRecordList.js" timestamp="1494409843602">
         <mark key="'" line="20" column="26" />
         <mark key="[" line="20" column="22" />
@@ -82,6 +83,11 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/flucky/src/all.jsx" timestamp="1495701577313">
+        <mark key="'" line="266" column="55" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="71" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1489655853534">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="39" />
@@ -108,7 +114,7 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495697770285">
+      <file name="/Dummy.txt" timestamp="1495701305131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/payUtil.js" timestamp="1493889825132">
@@ -123,8 +129,11 @@
         <mark key="^" line="10" column="75" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/flucky/src/discovery.jsx" timestamp="1495697904761">
-        <mark key="'" line="30" column="48" />
+      <file name="$USER_HOME$/workspace/flucky/src/discovery.jsx" timestamp="1495700965718">
+        <mark key="'" line="3" column="57" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/apiConfig.js" timestamp="1494408137403">
         <mark key="[" line="27" column="62" />
@@ -238,11 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="12" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
-      <jump line="6" column="8" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/NetWork/zlAjax.js" />
-      <jump line="4" column="6" filename="$USER_HOME$/workspace/game_center/assets/GameHall/Script/HomeUI.js" />
-      <jump line="105" column="27" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
-      <jump line="1" column="4" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="121" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/LoginView.js" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/game_center/assets/Common/Script/NetWork/zlAjax.js" />
@@ -338,62 +342,65 @@
       <jump line="315" column="0" filename="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" />
       <jump line="872" column="0" filename="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" />
       <jump line="30" column="48" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
+      <jump line="272" column="55" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
+      <jump line="131" column="49" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
+      <jump line="266" column="55" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
+      <jump line="64" column="57" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
+      <jump line="3" column="57" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIHBpbmdwcCA9IHJlcXVpcmUoJ3BpbmdwcC1qcycpOwo=</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IioiIGNvbXBvbmVudD17Tm9Gb3VuZH0vPgo=</text>
       </register>
       <register name="-" type="4">
         <text>Records</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTbG90TWFjaGluZVw+</text>
+        <text encoding="base64">XDxGcnVpdE1hY2hpbmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LmNvbnRlbnQucmVtb3ZlQWxsQ2hpbGRyZW4oKTsKICAgICAgdmFyIGpzb25EYXRhID0gSlNPTi5wYXJzZShkYXRhKTsKICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBqc29uRGF0YS5kYXRhLmxpc3QubGVuZ3RoOyBpKyspIHsKICAgICAgICB2YXIgaW5kZXggPSBqc29uRGF0YS5kYXRhLmxpc3RbaV07CiAgICAgICAgdmFyIGl0ZW0gPSBjYy5pbnN0YW50aWF0ZSh0aGlzT2JqZWN0LnByZWZhYkhpc3RvcnlJdGVtKTsKICAgICAgICBpdGVtLmdldENvbXBvbmVudCgnTG90dGVyeUhpc3RvcnlJdGVtJykuaW5pdChpbmRleCwgaSA9PSAwKTsKICAgICAgICB0aGlzT2JqZWN0LnNjcm9sbFZpZXcuY29udGVudC5hZGRDaGlsZChpdGVtKTsKICAgICAgfQogICAgICB0aGlzT2JqZWN0LnNjcm9sbFZpZXcuc2Nyb2xsVG9MZWZ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9ImRpc2NvdmVyeS9mcnVpdF9tYWNoaW5lIiBjb21wb25lbnQ9e0ZydWl0TWFjaGluZX0gLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIHBpbmdwcCA9IHJlcXVpcmUoJ3BpbmdwcC1qcycpOwo=</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IioiIGNvbXBvbmVudD17Tm9Gb3VuZH0vPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIFV0aWxzID0gcmVxdWlyZSgnTG90dGVyeVV0aWxzJyk7Cg==</text>
+        <text encoding="base64">dmFyIHBpbmdwcCA9IHJlcXVpcmUoJ3BpbmdwcC1qcycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgSGlzdG9yeVVybCA9ICcvYXBpL3YxL2xvdHRlcnkvaGlzdG9yeS9yZXZlYWwvJzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFV0aWxzLmdldERhdGFGcm9tU2VydmVyKEhpc3RvcnlVcmwsIGZ1bmN0aW9uIChkYXRhKSB7CiAgICAgIHRoaXNPYmplY3Quc2Nyb2xsVmlldy5jb250ZW50LnJlbW92ZUFsbENoaWxkcmVuKCk7CiAgICAgIHZhciBqc29uRGF0YSA9IEpTT04ucGFyc2UoZGF0YSk7CiAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwganNvbkRhdGEuZGF0YS5saXN0Lmxlbmd0aDsgaSsrKSB7CiAgICAgICAgdmFyIGluZGV4ID0ganNvbkRhdGEuZGF0YS5saXN0W2ldOwogICAgICAgIHZhciBpdGVtID0gY2MuaW5zdGFudGlhdGUodGhpc09iamVjdC5wcmVmYWJIaXN0b3J5SXRlbSk7CiAgICAgICAgaXRlbS5nZXRDb21wb25lbnQoJ0xvdHRlcnlIaXN0b3J5SXRlbScpLmluaXQoaW5kZXgsIGkgPT0gMCk7CiAgICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LmNvbnRlbnQuYWRkQ2hpbGQoaXRlbSk7CiAgICAgIH0KICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LnNjcm9sbFRvTGVmdCgpOwogICAgfSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGpzb25EYXRhID0gSlNPTi5wYXJzZShkYXRhKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiaGFuZGxlQ2xpY2siKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">dmFyIFV0aWxzID0gcmVxdWlyZSgnTG90dGVyeVV0aWxzJyk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgSGlzdG9yeVVybCA9ICcvYXBpL3YxL2xvdHRlcnkvaGlzdG9yeS9yZXZlYWwvJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFV0aWxzLmdldERhdGFGcm9tU2VydmVyKEhpc3RvcnlVcmwsIGZ1bmN0aW9uIChkYXRhKSB7CiAgICAgIHRoaXNPYmplY3Quc2Nyb2xsVmlldy5jb250ZW50LnJlbW92ZUFsbENoaWxkcmVuKCk7CiAgICAgIHZhciBqc29uRGF0YSA9IEpTT04ucGFyc2UoZGF0YSk7CiAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwganNvbkRhdGEuZGF0YS5saXN0Lmxlbmd0aDsgaSsrKSB7CiAgICAgICAgdmFyIGluZGV4ID0ganNvbkRhdGEuZGF0YS5saXN0W2ldOwogICAgICAgIHZhciBpdGVtID0gY2MuaW5zdGFudGlhdGUodGhpc09iamVjdC5wcmVmYWJIaXN0b3J5SXRlbSk7CiAgICAgICAgaXRlbS5nZXRDb21wb25lbnQoJ0xvdHRlcnlIaXN0b3J5SXRlbScpLmluaXQoaW5kZXgsIGkgPT0gMCk7CiAgICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LmNvbnRlbnQuYWRkQ2hpbGQoaXRlbSk7CiAgICAgIH0KICAgICAgdGhpc09iamVjdC5zY3JvbGxWaWV3LnNjcm9sbFRvTGVmdCgpOwogICAgfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGpzb25EYXRhID0gSlNPTi5wYXJzZShkYXRhKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiaGFuZGxlQ2xpY2siKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgTGFzdFVybCA9ICcvYXBpL3YxL2xvdHRlcnkvaGlzdG9yeS93aW5uZXIvJzsK</text>
+        <text encoding="base64">dmFyIFV0aWxzID0gcmVxdWlyZSgnTG90dGVyeVV0aWxzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTbG90TWFjaGluZVw+</last-search>
+      <last-search encoding="base64">XDxGcnVpdE1hY2hpbmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTbG90TWFjaGluZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxGcnVpdE1hY2hpbmVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHh0XD4=</entry>
-        <entry encoding="base64">XDx6bEFqYXhcPg==</entry>
         <entry encoding="base64">XDx1c2VyRGF0YU1nclw+</entry>
         <entry encoding="base64">XDxnZXRQcm9maWxlXD4=</entry>
         <entry encoding="base64">XDx0cmFuc0RhdGFcPg==</entry>
@@ -412,6 +419,8 @@
         <entry encoding="base64">XDxjaGFuZ2VOdW1cPg==</entry>
         <entry encoding="base64">XDxVdGlsc1w+</entry>
         <entry encoding="base64">XDxTbG90TWFjaGluZVw+</entry>
+        <entry>count</entry>
+        <entry encoding="base64">XDxGcnVpdE1hY2hpbmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
