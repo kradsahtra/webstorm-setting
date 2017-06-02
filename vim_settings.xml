@@ -98,11 +98,11 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/flucky/src/all.jsx" timestamp="1496300051398">
-        <mark key="'" line="268" column="61" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="74" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/workspace/flucky/src/all.jsx" timestamp="1496401571798">
+        <mark key="'" line="132" column="61" />
+        <mark key="[" line="268" column="83" />
+        <mark key="]" line="268" column="83" />
+        <mark key="." line="268" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerDetails.vue" timestamp="1489655853534">
         <mark key="[" line="16" column="0" />
@@ -145,11 +145,11 @@
         <mark key="^" line="10" column="75" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/flucky/src/discovery.jsx" timestamp="1496300044906">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="74" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/workspace/flucky/src/discovery.jsx" timestamp="1496401576625">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="65" column="83" />
+        <mark key="]" line="65" column="83" />
+        <mark key="." line="65" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" timestamp="1495703882366">
         <mark key="'" line="1484" column="15" />
@@ -350,7 +350,6 @@
       <jump line="1504" column="108" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurnTable.jsx" />
       <jump line="10" column="36" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurnTable.jsx" />
       <jump line="176" column="21" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurnTable.jsx" />
-      <jump line="33" column="22" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
       <jump line="64" column="61" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
       <jump line="141" column="56" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
@@ -366,10 +365,11 @@
       <jump line="32" column="0" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
       <jump line="135" column="6" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
       <jump line="267" column="61" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IENvdW50ZG93blR1cm50YWJsZSBmcm9tICcuL2NvbXBvbmVudHMvZGlzY292ZXJ5L0NvdW50ZG93blR1cm50YWJsZScK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
