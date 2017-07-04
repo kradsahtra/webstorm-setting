@@ -36,6 +36,7 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
@@ -48,7 +49,7 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -57,13 +58,14 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoLine" />
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceParameter" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -71,6 +73,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>

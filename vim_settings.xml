@@ -110,7 +110,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="67" column="110" />
       </file>
-      <file name="$USER_HOME$/tmp/vue-admin/src/api/content.js" timestamp="1499137513546" />
       <file name="$USER_HOME$/workspace/game_center/assets/Hall/Script/HomeUI.js" timestamp="1493892202135">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="50" column="27" />
@@ -131,7 +130,7 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496289238172">
+      <file name="/Dummy.txt" timestamp="1499139932443">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/payUtil.js" timestamp="1493889825132">
@@ -178,6 +177,13 @@
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1499139872956">
+        <mark key="'" line="74" column="25" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+        <mark key="^" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" timestamp="1494382032772">
         <mark key="'" line="250" column="10" />
@@ -267,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="4" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
       <jump line="206" column="4" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
       <jump line="283" column="14" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
       <jump line="389" column="10" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
@@ -367,13 +372,14 @@
       <jump line="494" column="27" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="1009" column="19" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="1108" column="11" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
+      <jump line="74" column="25" filename="$USER_HOME$/workspace/mlucky/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I3VzZSAic3RyaWN0IjsK</text>
+      <register name="&quot;" type="4">
+        <text>git@192.168.0.250:changli/mlucky.git</text>
       </register>
       <register name="-" type="4">
-        <text>strict</text>
+        <text>git@192.168.0.250:changli/mlucky.git</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpMVw+</text>
