@@ -137,7 +137,6 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1499149642895" />
       <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/RouletteGame.js" timestamp="1494398897935">
         <mark key="'" line="216" column="4" />
       </file>
@@ -244,7 +243,8 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1489567344562">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1499156446735">
+        <mark key="'" line="15" column="44" />
         <mark key="[" line="24" column="39" />
         <mark key="]" line="24" column="40" />
         <mark key="^" line="24" column="38" />
@@ -280,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="4" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
       <jump line="283" column="14" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
       <jump line="389" column="10" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
       <jump line="486" column="10" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
@@ -380,6 +379,7 @@
       <jump line="1009" column="19" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="1108" column="11" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="74" column="25" filename="$USER_HOME$/workspace/mlucky/package.json" />
+      <jump line="15" column="44" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
