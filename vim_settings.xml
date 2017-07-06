@@ -76,7 +76,6 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/.editorconfig" timestamp="1499306507581" />
       <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryLast.js" timestamp="1494409796311">
         <mark key="'" line="25" column="24" />
         <mark key="[" line="2" column="8" />
@@ -107,8 +106,18 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499158257971">
+      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1499309089565">
+        <mark key="'" line="54" column="13" />
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="53" />
+        <mark key="." line="20" column="53" />
+        <mark key="^" line="20" column="53" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1499309625132">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/payUtil.js" timestamp="1493889825132">
         <mark key="[" line="11" column="0" />
@@ -156,12 +165,19 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1499221214844">
-        <mark key="'" line="15" column="44" />
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="40" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="24" column="40" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1499309836065">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="42" column="2" />
+        <mark key="." line="42" column="2" />
+        <mark key="^" line="42" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1499308842699">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/RouletteGame.js" timestamp="1494398897935">
         <mark key="'" line="216" column="4" />
@@ -185,6 +201,12 @@
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1499308200248">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/roulette.js" timestamp="1494409380500">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="16" column="2" />
@@ -192,29 +214,15 @@
         <mark key="." line="21" column="53" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/api/auth.js" timestamp="1499306636948">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-        <mark key="^" line="4" column="42" />
+      <file name="$USER_HOME$/workspace/mlucky/src/api/auth.js" timestamp="1499309721932">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="4" filename="$USER_HOME$/workspace/game_center/assets/API/apiUtil.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/game_center/assets/API/apiUtil.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/game_center/assets/API/apiUtil.js" />
-      <jump line="38" column="3" filename="$USER_HOME$/workspace/game_center/assets/API/apiUtil.js" />
-      <jump line="274" column="15" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
-      <jump line="297" column="13" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
-      <jump line="145" column="0" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
-      <jump line="252" column="12" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
-      <jump line="275" column="8" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
-      <jump line="8" column="8" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
-      <jump line="250" column="10" filename="$USER_HOME$/workspace/game_center/assets/Slot/Scripts/SlotGame.js" />
-      <jump line="34" column="46" filename="$USER_HOME$/workspace/game_center/assets/API/apiUtil.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/game_center/assets/API/slot.js" />
-      <jump line="118" column="24" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
-      <jump line="104" column="29" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="78" column="41" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="85" column="46" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="8" column="46" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
@@ -300,62 +308,75 @@
       <jump line="24" column="6" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
       <jump line="156" column="15" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
+      <jump line="19" column="23" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
+      <jump line="39" column="32" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
+      <jump line="40" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
+      <jump line="3" column="11" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
+      <jump line="36" column="32" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
+      <jump line="41" column="34" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
+      <jump line="23" column="4" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
+      <jump line="54" column="13" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user/login</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>user/login</text>
+        <text>login_by_password</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhQ29uZmlnXD4=</text>
+        <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgYmFzaApucG0gcnVuIGRldgpgYGAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgIGNvbW1pdCh0eXBlcy5BVVRIRU5USUNBVEVfUkVRVUVTVCkKICAgICAgYXV0aC5sb2dpbkFQSShwYXJhbXMsCiAgICAgICAgKGRhdGEpID0+IHsKICAgICAgICAgIGNvbW1pdCh0eXBlcy5BVVRIRU5USUNBVEVfU1VDQ0VTUywgZGF0YSkKICAgICAgICAgIHJlc29sdmUoKQogICAgICAgIH0sCiAgICAgICAgKGVycm9yKSA9PiB7CiAgICAgICAgICBjb21taXQodHlwZXMuQVVUSEVOVElDQVRFX0ZBSUxVUkUsIGVycm9yKQogICAgICAgICAgcmVqZWN0KG5ldyBFcnJvcignQXV0aCBmYWlsZWQnKSkKICAgICAgICB9CiAgICAgICkKICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHByb2R1Y3QgZnJvbSAnLi9wcm9kdWN0JwovLyBpbXBvcnQgYXdhcmQgZnJvbSAnLi9hd2FyZCcKLy8gaW1wb3J0IHVzZXIgZnJvbSAnLi91c2VyJwovLyBpbXBvcnQgYW5hbHlzaXMgZnJvbSAnLi9hbmFseXNpcycKCi8vIHNob3c6IG1ldGEubGFiZWwgLT4gbmFtZQovLyBuYW1lOiBjb21wb25lbnQgbmFtZQovLyBtZXRhLmxhYmVsOiBkaXNwbGF5IGxhYmVsCgpjb25zdCBzdGF0ZSA9IHsKICBpdGVtczogWwogICAgewogICAgICBuYW1lOiAnRGFzaGJvYXJkJywKICAgICAgcGF0aDogJy9kYXNoYm9hcmQnLAogICAgICBtZXRhOiB7CiAgICAgICAgaWNvbjogJ2ZhLXRhY2hvbWV0ZXInCiAgICAgIH0sCiAgICAgIGNvbXBvbmVudDogbGF6eUxvYWRpbmcoJ0hvbWUnLCBmYWxzZSkKICAgIH0sCiAgICBkYXRhQ29uZmlnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ+ezu+e7n+mAmuefpScsCiAgICAgIHBhdGg6ICcvbm90aWZpY2F0aW9uJywKICAgICAgbWV0YTogewogICAgICAgIGljb246ICdmYS10YWNob21ldGVyJwogICAgICB9LAogICAgICBjb21wb25lbnQ6IGxhenlMb2FkaW5nKCdIb21lJywgZmFsc2UpCiAgICB9LAo=</text>
+        <text encoding="base64">Zml4IChiYW5uZXIpOiBhZGQgZ2l0IG1pc3NpbmcgZmlsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ+eUqOaIt+WPjemmiCcsCiAgICAgIHBhdGg6ICcvZmVlZGJhY2snLAogICAgICBtZXRhOiB7CiAgICAgICAgaWNvbjogJ2ZhLXRhY2hvbWV0ZXInCiAgICAgIH0sCiAgICAgIGNvbXBvbmVudDogbGF6eUxvYWRpbmcoJ0hvbWUnLCBmYWxzZSkKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ+e6ouWMheaooeeJiCcsCiAgICAgIHBhdGg6ICcvY291cG9uJywKICAgICAgbWV0YTogewogICAgICAgIGljb246ICdmYS10YWNob21ldGVyJwogICAgICB9LAogICAgICBjb21wb25lbnQ6IGxhenlMb2FkaW5nKCdIb21lJywgZmFsc2UpCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3VzZSAic3RyaWN0IjsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9ImRpc2NvdmVyeS9jb3VudGRvd25fdHVybnRhYmxlIiBjb21wb25lbnQ9e0NvdW50ZG93blR1cm50YWJsZX0gLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IENvdW50ZG93blR1cm50YWJsZSBmcm9tICcuL2NvbXBvbmVudHMvZGlzY292ZXJ5L0NvdW50ZG93blR1cm50YWJsZScK</text>
+        <text encoding="base64">ZnVuY3Rpb24gc3luY0F1dGggKCkgewoKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhQ29uZmlnXD4=</last-search>
+      <last-search encoding="base64">XDxzdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhQ29uZmlnXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0ZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBUElVUkxcPg==</entry>
-        <entry encoding="base64">XDxBUElcPg==</entry>
         <entry encoding="base64">XDxnZXRTbG90SW5mb1w+</entry>
         <entry encoding="base64">XDxodHRwVXRpbFw+</entry>
         <entry encoding="base64">XDxwb3N0QmV0XD4=</entry>
@@ -374,6 +395,8 @@
         <entry encoding="base64">XDxhXD4=</entry>
         <entry encoding="base64">XDxpMVw+</entry>
         <entry encoding="base64">XDxkYXRhQ29uZmlnXD4=</entry>
+        <entry encoding="base64">XDxBVVRIRU5USUNBVEVfU1VDQ0VTU1w+</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
