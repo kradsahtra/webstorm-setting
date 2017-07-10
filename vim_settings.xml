@@ -146,6 +146,12 @@
         <mark key="]" line="3" column="35" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/src/views/Register.vue" timestamp="1499655541436">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1499139872956">
         <mark key="'" line="74" column="25" />
         <mark key="[" line="4" column="17" />
@@ -201,7 +207,7 @@
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1499308200248">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1499655581093">
         <mark key="[" line="12" column="32" />
         <mark key="]" line="12" column="31" />
         <mark key="." line="12" column="31" />
@@ -325,11 +331,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>login_by_password</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
