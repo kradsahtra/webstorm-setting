@@ -146,7 +146,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499744285125">
+      <file name="/Dummy.txt" timestamp="1499745453484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -240,7 +240,8 @@
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1499677496602">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1499745395384">
+        <mark key="'" line="150" column="8" />
         <mark key="^" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/.gitignore" timestamp="1499738222894" />
@@ -260,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="10" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="59" column="9" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="202" column="9" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="231" column="69" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
@@ -360,6 +360,7 @@
       <jump line="16" column="11" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
       <jump line="23" column="4" filename="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" />
+      <jump line="150" column="8" filename="$USER_HOME$/workspace/mlucky/src/views/Login.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
