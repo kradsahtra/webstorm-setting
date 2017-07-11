@@ -28,12 +28,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" timestamp="1499158367203">
-        <mark key="'" line="24" column="6" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="26" column="12" />
-        <mark key="." line="22" column="14" />
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" timestamp="1499767957684">
+        <mark key="'" line="25" column="6" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="17" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/App.vue" timestamp="1499221069910">
         <mark key="'" line="65" column="0" />
@@ -160,7 +160,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499762338425">
+      <file name="/Dummy.txt" timestamp="1499768212941">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
