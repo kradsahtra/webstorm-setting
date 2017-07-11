@@ -202,12 +202,12 @@
         <mark key="]" line="268" column="83" />
         <mark key="." line="268" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1499760678304">
+      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1499762535550">
         <mark key="'" line="30" column="13" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="30" column="24" />
+        <mark key="[" line="88" column="31" />
+        <mark key="]" line="88" column="39" />
+        <mark key="." line="88" column="39" />
+        <mark key="^" line="88" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/.gitignore" timestamp="1499760339944">
         <mark key="'" line="18" column="0" />
@@ -215,7 +215,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499760167981">
+      <file name="/Dummy.txt" timestamp="1499762338425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -227,12 +227,12 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1499760007522">
+      <file name="$USER_HOME$/workspace/mlucky/package.json" timestamp="1499762615290">
         <mark key="'" line="75" column="25" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" timestamp="1499309836065">
         <mark key="'" line="56" column="34" />
@@ -351,16 +351,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>URL_PREFIX +</text>
+        <text>cross-env NODE_ENV=production node build/build.js</text>
       </register>
       <register name="-" type="4">
-        <text>-backup</text>
+        <text encoding="base64">VVJMX1BSRUZJWCArIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxLRVlQQVRIXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>URL_PREFIX +</text>
+        <text>cross-env NODE_ENV=production node build/build.js</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJzaW1wbGUtc3NoIjogIl4wLjkuMCIsCg==</text>
