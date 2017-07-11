@@ -51,6 +51,15 @@
         <mark key="]" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
+        <mark key="'" line="23" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/build/webpack.prod.conf.js" timestamp="1499744330811">
+        <mark key="[" line="25" column="66" />
+        <mark key="]" line="25" column="66" />
+        <mark key="." line="25" column="66" />
+        <mark key="^" line="25" column="66" />
+      </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/slot.js" timestamp="1494382116189">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="0" column="0" />
@@ -76,11 +85,17 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/config/index.js" timestamp="1499741125123">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
+      <file name="/index.js" timestamp="1499742595356" />
+      <file name="$USER_HOME$/workspace/mlucky/build/build.js" timestamp="1499743294814">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mlucky/config/index.js" timestamp="1499743676069">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryLast.js" timestamp="1494409796311">
         <mark key="'" line="25" column="24" />
@@ -107,6 +122,12 @@
         <mark key="]" line="268" column="83" />
         <mark key="." line="268" column="83" />
       </file>
+      <file name="$USER_HOME$/workspace/mlucky/build/utils.js" timestamp="1499743871138">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1499220993053">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -125,7 +146,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499676983296">
+      <file name="/Dummy.txt" timestamp="1499744285125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -239,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="56" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="199" column="10" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="59" column="9" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="202" column="9" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
@@ -339,61 +359,61 @@
       <jump line="78" column="17" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
       <jump line="16" column="11" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
+      <jump line="23" column="4" filename="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+      <register name="&quot;" type="4">
+        <text>loader</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>loader</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0ZVw+</text>
+        <text encoding="base64">XDxwdWJsaWNQYXRoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgIGNvbW1pdCh0eXBlcy5BVVRIRU5USUNBVEVfUkVRVUVTVCkKICAgICAgYXV0aC5sb2dpbkFQSShwYXJhbXMsCiAgICAgICAgKGRhdGEpID0+IHsKICAgICAgICAgIGNvbW1pdCh0eXBlcy5BVVRIRU5USUNBVEVfU1VDQ0VTUywgZGF0YSkKICAgICAgICAgIHJlc29sdmUoKQogICAgICAgIH0sCiAgICAgICAgKGVycm9yKSA9PiB7CiAgICAgICAgICBjb21taXQodHlwZXMuQVVUSEVOVElDQVRFX0ZBSUxVUkUsIGVycm9yKQogICAgICAgICAgcmVqZWN0KG5ldyBFcnJvcignQXV0aCBmYWlsZWQnKSkKICAgICAgICB9CiAgICAgICkKICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9naXRodWIuY29tL3NoZWxsanMvc2hlbGxqcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vdW50ZWQ6IHsKICAgIH0sCg==</text>
+        <text encoding="base64">Y3AoJy1SJywgJ2Fzc2V0cy8nLCBhc3NldHNQYXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vdW50ZWQ6IHsKICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zml4IChiYW5uZXIpOiBhZGQgZ2l0IG1pc3NpbmcgZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
+        <text encoding="base64">Zml4IChiYW5uZXIpOiBhZGQgZ2l0IG1pc3NpbmcgZmlsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0ZVw+</last-search>
+      <last-search encoding="base64">XDxwdWJsaWNQYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwdWJsaWNQYXRoXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTbG90SW5mb1w+</entry>
         <entry encoding="base64">XDxodHRwVXRpbFw+</entry>
         <entry encoding="base64">XDxwb3N0QmV0XD4=</entry>
         <entry encoding="base64">XDx3aW5MYWJsZVw+</entry>
@@ -413,6 +433,7 @@
         <entry encoding="base64">XDxkYXRhQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxBVVRIRU5USUNBVEVfU1VDQ0VTU1w+</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
+        <entry encoding="base64">XDxwdWJsaWNQYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
