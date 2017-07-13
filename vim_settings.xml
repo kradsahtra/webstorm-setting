@@ -148,10 +148,10 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1499767052393">
+      <file name="$USER_HOME$/workspace/mlucky/src/router/index.js" timestamp="1499911001668">
         <mark key="'" line="30" column="13" />
         <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="24" />
+        <mark key="]" line="30" column="23" />
         <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/.gitignore" timestamp="1499760339944">
@@ -230,9 +230,12 @@
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1499745395384">
-        <mark key="'" line="150" column="8" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/Login.vue" timestamp="1499911004882">
+        <mark key="'" line="92" column="6" />
+        <mark key="[" line="93" column="33" />
+        <mark key="]" line="93" column="45" />
         <mark key="^" line="12" column="31" />
+        <mark key="." line="93" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/roulette.js" timestamp="1494409380500">
         <mark key="'" line="4" column="0" />
@@ -250,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="28" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
-      <jump line="216" column="4" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/RouletteGame.js" />
       <jump line="166" column="55" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="256" column="57" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
       <jump line="297" column="2" filename="$USER_HOME$/workspace/game_center/assets/Roulette/Script/LotteryGame.js" />
@@ -350,19 +351,21 @@
       <jump line="18" column="0" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
       <jump line="29" column="13" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="34" column="7" filename="$USER_HOME$/workspace/mlucky/src/app.js" />
+      <jump line="27" column="54" filename="$USER_HOME$/workspace/mlucky/src/views/Login.vue" />
+      <jump line="91" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/Login.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VVJMX1BSRUZJWCArIA==</text>
+        <text>URL_PREFIX +</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">VVJMX1BSRUZJWCArIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxLRVlQQVRIXD4=</text>
+        <text encoding="base64">XDxyZWdpc3Rlclw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">VVJMX1BSRUZJWCArIA==</text>
+        <text>URL_PREFIX +</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgaXRlbS5wYXRoID0gaXRlbS5wYXRoCg==</text>
@@ -396,15 +399,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxLRVlQQVRIXD4=</last-search>
+      <last-search encoding="base64">XDxyZWdpc3Rlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxLRVlQQVRIXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3Rlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3N0QmV0XD4=</entry>
         <entry encoding="base64">XDx3aW5MYWJsZVw+</entry>
         <entry encoding="base64">XDxiZXRTbG90XD4=</entry>
         <entry encoding="base64">XDxnYW1lU3RhdGVcPg==</entry>
@@ -424,6 +426,7 @@
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry encoding="base64">XDxwdWJsaWNQYXRoXD4=</entry>
         <entry encoding="base64">XDxLRVlQQVRIXD4=</entry>
+        <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
