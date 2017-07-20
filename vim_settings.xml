@@ -60,12 +60,12 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1500521125020">
-        <mark key="'" line="71" column="8" />
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="23" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1500522399492">
+        <mark key="'" line="82" column="8" />
+        <mark key="[" line="40" column="58" />
+        <mark key="]" line="40" column="63" />
+        <mark key="." line="40" column="63" />
+        <mark key="^" line="40" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
@@ -116,10 +116,10 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/ui/Form.vue" timestamp="1500519503845">
+      <file name="$USER_HOME$/workspace/mlucky/src/views/ui/Form.vue" timestamp="1500522300911">
         <mark key="'" line="245" column="47" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="48" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryLast.js" timestamp="1494409796311">
         <mark key="'" line="25" column="24" />
@@ -398,43 +398,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>启</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>启</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3Rlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgdi1pZj0ic2Vuc29yLnNlbnNvcl9zdGF0dXMiPuW8gOWQrzwvcD4K</text>
+      <register name="0" type="4">
+        <text>v-on:click=&quot;cancelButtonClicked&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnV0dG9uIGlzLWxpbmsiPkNhbmNlbDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wiPgogICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB2LWlmPSJlZGl0X3BsYXRmb3JtID09PSBzZW5zb3IucGxhdGZvcm0iIGNsYXNzPSJidXR0b24gaXMtc3VjY2VzcyI+U3VibWl0PC9idXR0b24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJudW1iZXIiIDpwbGFjZWhvbGRlcj0ic2Vuc29yLmJ1aWxkX251bWJlciI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnV0dG9uIGlzLWRhbmdlciIgdi1vbjpjbGljaz0iZWRpdEJ1dHRvbkNsaWNrZWQoc2Vuc29yLnBsYXRmb3JtKSIgdi1lbHNlPkVkaXQ8L2J1dHRvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZiLXN3aXRjaCA6Y2hlY2tlZD0ic2Vuc29yLnNlbnNvcl9zdGF0dXMiIHR5cGU9InN1Y2Nlc3MiPjwvdmItc3dpdGNoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnV0dG9uIGlzLWxpbmsiPkNhbmNlbDwvYnV0dG9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZiLXN3aXRjaCBjaGVja2VkIHR5cGU9InByaW1hcnkiPjwvdmItc3dpdGNoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wiPgogICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRleHRhcmVhIGNsYXNzPSJ0ZXh0YXJlYSIgcGxhY2Vob2xkZXI9IkV4cGxhaW4gaG93IHdlIGNhbiBoZWxwIHlvdSI+PC90ZXh0YXJlYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJudW1iZXIiIDpwbGFjZWhvbGRlcj0ic2Vuc29yLmJ1aWxkX251bWJlciI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sIGlzLWhvcml6b250YWwiPgogICAgICAgICAgPGRpdiBjbGFzcz0iY29udHJvbC1sYWJlbCI+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPlN1YmplY3Q8L2xhYmVsPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ic2VsZWN0IGlzLWZ1bGx3aWR0aCI+CiAgICAgICAgICAgICAgPHNlbGVjdD4KICAgICAgICAgICAgICAgIDxvcHRpb24+R2VuZXJhbCBlbnF1aXJ5PC9vcHRpb24+CiAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZiLXN3aXRjaCA6Y2hlY2tlZD0ic2Vuc29yLnNlbnNvcl9zdGF0dXMiIHR5cGU9InN1Y2Nlc3MiPjwvdmItc3dpdGNoPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgdi1lbHNlPnt7c2Vuc29yLmJ1aWxkX251bWJlcn19PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZiLXN3aXRjaCBjaGVja2VkIHR5cGU9InByaW1hcnkiPjwvdmItc3dpdGNoPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aW5wdXQgdi1pZj0iZWRpdF9wbGF0Zm9ybSA9PT0gc2Vuc29yLnBsYXRmb3JtIiBjbGFzcz0iaW5wdXQiIHR5cGU9Im51bWJlciIgOnBsYWNlaG9sZGVyPSJzZW5zb3IuYnVpbGRfbnVtYmVyIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRleHRhcmVhIGNsYXNzPSJ0ZXh0YXJlYSIgcGxhY2Vob2xkZXI9IkV4cGxhaW4gaG93IHdlIGNhbiBoZWxwIHlvdSI+PC90ZXh0YXJlYT4K</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
