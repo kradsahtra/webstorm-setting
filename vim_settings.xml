@@ -131,10 +131,10 @@
         <mark key="." line="67" column="23" />
         <mark key="^" line="67" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1500539817575">
+      <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1500545220948">
         <mark key="'" line="86" column="29" />
-        <mark key="[" line="183" column="15" />
-        <mark key="]" line="183" column="48" />
+        <mark key="[" line="85" column="4" />
+        <mark key="]" line="85" column="26" />
         <mark key="." line="183" column="48" />
         <mark key="^" line="183" column="48" />
       </file>
@@ -189,12 +189,11 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1500540960213">
-        <mark key="'" line="41" column="60" />
-        <mark key="[" line="80" column="26" />
-        <mark key="]" line="80" column="26" />
-        <mark key="." line="80" column="26" />
-        <mark key="^" line="80" column="26" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1500545550844">
+        <mark key="'" line="91" column="6" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
@@ -301,10 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="0" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
-      <jump line="105" column="22" filename="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" />
-      <jump line="49" column="26" filename="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" />
-      <jump line="0" column="15" filename="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" />
       <jump line="129" column="54" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
       <jump line="65" column="61" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
@@ -401,55 +396,63 @@
       <jump line="86" column="29" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="79" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
       <jump line="41" column="60" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
+      <jump line="81" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
+      <jump line="40" column="90" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
+      <jump line="85" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
+      <jump line="86" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnc2V0U2Vuc29yJywge2F1dGhIZWFkZXJzOiBnZXRBdXRoSGVhZGVycygpLCBkYXRhOiBkYXRhfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9ncmVzc0J1dHRvbkNsYXNzXD4=</text>
+        <text encoding="base64">XDxpc0VkaXREb25lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>progressButtonClass</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmVkaXRfcGxhdGZvcm0gPSBudWxsCiAgICAgICAgdGhpcy5idWlsZF9udW1iZXIgPSBudWxsCiAgICAgICAgdGhpcy5zZW5zb3Jfc3RhdHVzID0gbnVsbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnc2V0U2Vuc29yJywge2F1dGhIZWFkZXJzOiBnZXRBdXRoSGVhZGVycygpLCBkYXRhOiBkYXRhfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0X3N0YXR1czogJ3N0b3BwZWQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuZWRpdF9wbGF0Zm9ybSA9IG51bGwKICAgICAgICAgIHRoaXMuYnVpbGRfbnVtYmVyID0gbnVsbAogICAgICAgICAgdGhpcy5zZW5zb3Jfc3RhdHVzID0gbnVsbAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBuZXdTZW5zb3JMaXN0ID0gc3RhdGUuc2Vuc29yLnNlbnNvckxpc3QKICAgIG5ld1NlbnNvckxpc3QuZmlsdGVyKGl0ZW0gPT4gaXRlbS5pZCAhPT0gZGF0YS5pZCkKICAgIG5ld1NlbnNvckxpc3QucHVzaChkYXRhKQogICAgY29uc29sZS5sb2cobmV3U2Vuc29yTGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>{
+            platform: this.edit_platform,
+            build_number: this.build_number,
+            sensor_status: this.sensor_status
+          }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLnNlbnNvci5zZW5zb3JMaXN0LmZvckVhY2goZnVuY3Rpb24gKHNlbnNvcikgewogICAgICBpZiAoZGF0YS5pZCA9PT0gc2Vuc29yLmlkKSB7CiAgICAgIH0KICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRTZW5zb3JBUEkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfc2Vuc29yX2xpc3QuZmlsdGVyKCkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgICAgICAgdGhpcy5lZGl0X3BsYXRmb3JtID0gbnVsbAogICAgICAgICAgdGhpcy5idWlsZF9udW1iZXIgPSBudWxsCiAgICAgICAgICB0aGlzLnNlbnNvcl9zdGF0dXMgPSBudWxsCiAgICAgICAgfSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLnNlbnNvci5zZW5zb3JfbGlzdCA9IGRhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBlYWNoICh2YXIgc2Vuc29yIGluIHN0YXRlLnNlbnNvci5zZW5zb3JfbGlzdCkgewoKICAgIH0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">LnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCiAgICAgICAgfSwgZXJyb3IgPT4ge30=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9ncmVzc0J1dHRvbkNsYXNzXD4=</last-search>
+      <last-search encoding="base64">XDxpc0VkaXREb25lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9ncmVzc0J1dHRvbkNsYXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc0VkaXREb25lXD4=</last-pattern>
       <last-replace>SET</last-replace>
       <last-substitute>GET_ALL</last-substitute>
       <last-dir>1</last-dir>
@@ -457,8 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxST1VMRVRURV9BTk5PVU5DSU5HXD4=</entry>
-        <entry encoding="base64">XDxiZXRBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VOdW1cPg==</entry>
         <entry encoding="base64">XDxVdGlsc1w+</entry>
         <entry encoding="base64">XDxTbG90TWFjaGluZVw+</entry>
@@ -477,6 +478,8 @@
         <entry>GET_ALL</entry>
         <entry encoding="base64">XDxTRVRfU0VOU09SX1NVQ0NFU1NcPg==</entry>
         <entry encoding="base64">XDxwcm9ncmVzc0J1dHRvbkNsYXNzXD4=</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0aW5nXD4=</entry>
+        <entry encoding="base64">XDxpc0VkaXREb25lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
