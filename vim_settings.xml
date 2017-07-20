@@ -189,12 +189,12 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1500525254723">
-        <mark key="'" line="71" column="16" />
-        <mark key="[" line="85" column="15" />
-        <mark key="]" line="85" column="18" />
-        <mark key="." line="85" column="18" />
-        <mark key="^" line="85" column="18" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1500536285876">
+        <mark key="'" line="45" column="81" />
+        <mark key="[" line="90" column="39" />
+        <mark key="]" line="90" column="39" />
+        <mark key="." line="90" column="39" />
+        <mark key="^" line="95" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
@@ -301,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="56" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
       <jump line="1522" column="15" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="1057" column="1" filename="$USER_HOME$/workspace/flucky/src/scss/ssc.scss" />
       <jump line="41" column="23" filename="$USER_HOME$/workspace/flucky/src/components/discovery/GameCity.jsx" />
@@ -401,19 +400,20 @@
       <jump line="71" column="16" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
       <jump line="85" column="2" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="87" column="23" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
+      <jump line="44" column="81" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.$route.params.id</text>
+        <text>API</text>
       </register>
       <register name="-" type="4">
-        <text>this.$route.params.id</text>
+        <text>API</text>
       </register>
       <register name="/" type="4">
         <text>GET_ALL</text>
       </register>
-      <register name="0" type="4">
-        <text>setSensorAPI</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmJ1aWxkX251bWJlciA9IHNlbnNvci5idWlsZF9udW1iZXIKICAgICAgICB0aGlzLnNlbnNvcl9zdGF0dXMgPSBzZW5zb3Iuc2Vuc29yX3N0YXR1cwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
