@@ -124,12 +124,12 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1500525209813">
+      <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1500536973854">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="65" column="2" />
-        <mark key="]" line="65" column="13" />
-        <mark key="." line="67" column="42" />
-        <mark key="^" line="67" column="42" />
+        <mark key="[" line="67" column="20" />
+        <mark key="]" line="67" column="23" />
+        <mark key="." line="67" column="23" />
+        <mark key="^" line="67" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" timestamp="1500525161679">
         <mark key="'" line="87" column="23" />
@@ -404,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>API</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>API</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>GET_ALL</text>
