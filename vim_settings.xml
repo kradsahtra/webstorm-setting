@@ -189,11 +189,11 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1500545550844">
-        <mark key="'" line="91" column="6" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" timestamp="1500601720895">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
@@ -265,7 +265,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499768212941">
+      <file name="/Dummy.txt" timestamp="1500601733961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -300,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="54" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
-      <jump line="65" column="61" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
       <jump line="135" column="6" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
       <jump line="267" column="61" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
@@ -400,10 +398,12 @@
       <jump line="40" column="90" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
       <jump line="85" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
       <jump line="86" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
+      <jump line="65" column="12" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnc2V0U2Vuc29yJywge2F1dGhIZWFkZXJzOiBnZXRBdXRoSGVhZGVycygpLCBkYXRhOiBkYXRhfSkK</text>
+        <text encoding="base64">ICBpbXBvcnQgZGF0YUNvbmZpZyBmcm9tICcuLi8uLi9hcGkvZGF0YS1jb25maWcnCg==</text>
       </register>
       <register name="-" type="4">
         <text>response</text>
@@ -415,35 +415,35 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmVkaXRfcGxhdGZvcm0gPSBudWxsCiAgICAgICAgdGhpcy5idWlsZF9udW1iZXIgPSBudWxsCiAgICAgICAgdGhpcy5zZW5zb3Jfc3RhdHVzID0gbnVsbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnc2V0U2Vuc29yJywge2F1dGhIZWFkZXJzOiBnZXRBdXRoSGVhZGVycygpLCBkYXRhOiBkYXRhfSkK</text>
+        <text encoding="base64">ICBpbXBvcnQgZGF0YUNvbmZpZyBmcm9tICcuLi8uLi9hcGkvZGF0YS1jb25maWcnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuZWRpdF9wbGF0Zm9ybSA9IG51bGwKICAgICAgICAgIHRoaXMuYnVpbGRfbnVtYmVyID0gbnVsbAogICAgICAgICAgdGhpcy5zZW5zb3Jfc3RhdHVzID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhQ29uZmlnLnNldFNlbnNvckFQSShnZXRBdXRoSGVhZGVycygpLCBkYXRhLCAocmVzcG9uc2UpID0+IHsKICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQogICAgICAgIH0sIChlcnJvcikgPT4gewogICAgICAgICAgCiAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnc2V0U2Vuc29yJywge2F1dGhIZWFkZXJzOiBnZXRBdXRoSGVhZGVycygpLCBkYXRhOiBkYXRhfSkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuZWRpdF9wbGF0Zm9ybSA9IG51bGwKICAgICAgICAgIHRoaXMuYnVpbGRfbnVtYmVyID0gbnVsbAogICAgICAgICAgdGhpcy5zZW5zb3Jfc3RhdHVzID0gbnVsbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
             platform: this.edit_platform,
             build_number: this.build_number,
             sensor_status: this.sensor_status
           }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZXRTZW5zb3JBUEkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgICAgICAgdGhpcy5lZGl0X3BsYXRmb3JtID0gbnVsbAogICAgICAgICAgdGhpcy5idWlsZF9udW1iZXIgPSBudWxsCiAgICAgICAgICB0aGlzLnNlbnNvcl9zdGF0dXMgPSBudWxsCiAgICAgICAgfSk=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">LnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCiAgICAgICAgfSwgZXJyb3IgPT4ge30=</text>
+        <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgICAgICAgdGhpcy5lZGl0X3BsYXRmb3JtID0gbnVsbAogICAgICAgICAgdGhpcy5idWlsZF9udW1iZXIgPSBudWxsCiAgICAgICAgICB0aGlzLnNlbnNvcl9zdGF0dXMgPSBudWxsCiAgICAgICAgfSk=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
