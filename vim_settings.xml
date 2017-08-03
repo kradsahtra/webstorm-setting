@@ -88,7 +88,9 @@
         <mark key="." line="110" column="23" />
         <mark key="^" line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/startbootstrap-business-frontpage/index.html" timestamp="1501728118554" />
+      <file name="$USER_HOME$/workspace/startbootstrap-business-frontpage/index.html" timestamp="1501728465195">
+        <mark key="'" line="137" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/README.md" timestamp="1499221917305">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="8" column="18" />
@@ -304,7 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="6" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
       <jump line="267" column="61" filename="$USER_HOME$/workspace/flucky/src/all.jsx" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/flucky/src/discovery.jsx" />
       <jump line="16" column="14" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
@@ -404,6 +405,7 @@
       <jump line="65" column="12" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/mlucky/src/views/data_config/sensor.vue" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/luckyaf/src/app.js" />
+      <jump line="137" column="0" filename="$USER_HOME$/workspace/startbootstrap-business-frontpage/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
