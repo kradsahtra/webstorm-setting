@@ -9,11 +9,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/css/n_base.css" timestamp="1501749983619">
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="54" column="12" />
-        <mark key="." line="54" column="12" />
-        <mark key="^" line="54" column="12" />
+      <file name="$USER_HOME$/workspace/GameCityPages/css/n_base.css" timestamp="1501843817340">
+        <mark key="[" line="202" column="20" />
+        <mark key="]" line="202" column="41" />
+        <mark key="^" line="202" column="41" />
+        <mark key="." line="202" column="41" />
       </file>
       <file name="/a.dummy" timestamp="1499759360765">
         <mark key="[" line="0" column="3" />
@@ -33,6 +33,11 @@
         <mark key="]" line="10" column="16" />
         <mark key="^" line="10" column="75" />
         <mark key="." line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/GameCityPages/GameBack.html" timestamp="1501844213515">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="52" column="6" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/components/layout/AppMain.vue" timestamp="1500515704111">
         <mark key="'" line="20" column="0" />
@@ -79,17 +84,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/data_config/bannerList.vue" timestamp="1500518709826">
-        <mark key="'" line="26" column="20" />
-        <mark key="[" line="71" column="25" />
-        <mark key="]" line="71" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/GameCenterPure.html" timestamp="1501831940380">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="96" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="20" column="54" />
+      <file name="$USER_HOME$/workspace/GameCityPages/GameCenterPure.html" timestamp="1501844264039">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="26" column="6" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1500536973854">
         <mark key="'" line="101" column="0" />
@@ -136,11 +136,6 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="131" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/mlucky/src/views/ui/Form.vue" timestamp="1500522300911">
-        <mark key="'" line="245" column="47" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="62" />
-      </file>
       <file name="$USER_HOME$/workspace/mlucky/build/build.js" timestamp="1499758277959">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="33" column="0" />
@@ -162,6 +157,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/GameCityPages/YingHuang.html" timestamp="1501844196925">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/app.js" timestamp="1500515709768">
         <mark key="'" line="30" column="45" />
         <mark key="[" line="14" column="47" />
@@ -182,6 +182,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/GameCityPages/360sz.html" timestamp="1501844207594">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/tutorial-part-two/gatsby-config.js" timestamp="1501738863216">
         <mark key="'" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -195,10 +200,11 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/GameCenterLite.html" timestamp="1501749947658">
+      <file name="$USER_HOME$/workspace/GameCityPages/GameCenterLite.html" timestamp="1501844227333">
         <mark key="'" line="15" column="53" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="57" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="48" column="6" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryLast.js" timestamp="1494409796311">
         <mark key="'" line="25" column="24" />
@@ -216,10 +222,17 @@
       <file name="$USER_HOME$/workspace/frontpage/.gitignore" timestamp="1501752104308">
         <mark key="'" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/GameCityPages/js/n_channel_game.js" timestamp="1501844070957">
+        <mark key="'" line="57" column="11" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="69" column="11" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501836502157">
+      <file name="/Dummy.txt" timestamp="1501844177959">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -229,6 +242,11 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/GameCityPages/GameCenterEasy.html" timestamp="1501844222981">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="50" column="6" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/deploy.sh" timestamp="1499759901173">
         <mark key="'" line="10" column="48" />
@@ -289,9 +307,10 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/GameCenter.html" timestamp="1501831882918">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="98" />
+      <file name="$USER_HOME$/workspace/GameCityPages/GameCenter.html" timestamp="1501844218083">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="52" column="6" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/App.vue" timestamp="1500515695095">
         <mark key="'" line="23" column="0" />
@@ -302,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="110" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
-      <jump line="153" column="14" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="154" column="110" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="156" column="14" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="157" column="110" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
@@ -402,55 +419,57 @@
       <jump line="15" column="53" filename="$USER_HOME$/workspace/GameCityPages/GameCenterLite.html" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/frontpage/.gitignore" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/frontpage/.gitignore" />
+      <jump line="0" column="9" filename="$USER_HOME$/workspace/GameCityPages/js/n_channel_game.js" />
+      <jump line="57" column="11" filename="$USER_HOME$/workspace/GameCityPages/js/n_channel_game.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImZvb3RlciIgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyOyBjb2xvcjogd2hpdGU7IHBhZGRpbmctYm90dG9tOiAxMCU7IGRpc3BsYXk6IG5vbmU7Ij4K</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0id3h0aXAiIGlkPSJKd2VpeGluVGlwIj4KICAgIDxzcGFuIGNsYXNzPSJ3eHRpcC1pY29uIj48L3NwYW4+CiAgICA8cCBjbGFzcz0id3h0aXAtdHh0Ij7ngrnlh7vlj7PkuIrop5I8YnIvPumAieaLqeWcqOa1j+iniOWZqOS4reaJk+W8gDwvcD4KPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>ele</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0VkaXREb25lXD4=</text>
+        <text encoding="base64">XDxpc1dlY2hhdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImZvb3RlciIgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyOyBjb2xvcjogd2hpdGU7IHBhZGRpbmctYm90dG9tOiAxMCU7IGRpc3BsYXk6IG5vbmU7Ij4K</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0id3h0aXAiIGlkPSJKd2VpeGluVGlwIj4KICAgIDxzcGFuIGNsYXNzPSJ3eHRpcC1pY29uIj48L3NwYW4+CiAgICA8cCBjbGFzcz0id3h0aXAtdHh0Ij7ngrnlh7vlj7PkuIrop5I8YnIvPumAieaLqeWcqOa1j+iniOWZqOS4reaJk+W8gDwvcD4KPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGVsZS5vbmNsaWNrPWZ1bmN0aW9uKGUpewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wiPgo=</text>
+        <text encoding="base64">ICB2YXIgaXNXZWl4aW4gPSAhIS9NaWNyb01lc3Nlbmdlci9pLnRlc3QodWEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICB2YXIgdWEgPSBuYXZpZ2F0b3IudXNlckFnZW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMiI+Cg==</text>
+        <text encoding="base64">dmFyIHVhID0gbmF2aWdhdG9yLnVzZXJBZ2VudC50b0xvd2VyQ2FzZSgpOwp2YXIgaXNXZWl4aW4gPSAgISEvbWljcm9tZXNzZW5nZXIvaS50ZXN0KHVhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icm93Ij4K</text>
+        <text encoding="base64">6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CCCuWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadgyzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK6ZO+5o6lOmh0dHA6Ly9jYWliYW9qaWFuLmNvbS93ZWl4aW4tdGlwMy5odG1sCiAgICAgICAgICAgICAgICAgICAgICAgICDmnaXmupA6aHR0cDovL2NhaWJhb2ppYW4uY29tCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iY29sLTMiIHN0eWxlPSJmb250LXNpemU6IDMwcHg7IHRleHQtYWxpZ246IGNlbnRlciI+Mjg3ODgwMzk3NDwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CCCuWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadgyzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK6ZO+5o6lOmh0dHA6Ly9jYWliYW9qaWFuLmNvbS93ZWl4aW4tdGlwMy5odG1sCuadpea6kDpodHRwOi8vY2FpYmFvamlhbi5jb20K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0VkaXREb25lXD4=</last-search>
+      <last-search encoding="base64">XDxpc1dlY2hhdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0VkaXREb25lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc1dlY2hhdFw+</last-pattern>
       <last-replace>SET</last-replace>
       <last-substitute>GET_ALL</last-substitute>
       <last-dir>1</last-dir>
@@ -458,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFuZ2VOdW1cPg==</entry>
         <entry encoding="base64">XDxVdGlsc1w+</entry>
         <entry encoding="base64">XDxTbG90TWFjaGluZVw+</entry>
         <entry>count</entry>
@@ -478,6 +496,7 @@
         <entry encoding="base64">XDxwcm9ncmVzc0J1dHRvbkNsYXNzXD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0aW5nXD4=</entry>
         <entry encoding="base64">XDxpc0VkaXREb25lXD4=</entry>
+        <entry encoding="base64">XDxpc1dlY2hhdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
