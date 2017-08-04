@@ -84,12 +84,12 @@
         <mark key="[" line="71" column="25" />
         <mark key="]" line="71" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/GameCenterPure.html" timestamp="1501750605454">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="45" />
-        <mark key="." line="12" column="45" />
-        <mark key="^" line="19" column="54" />
+      <file name="$USER_HOME$/workspace/GameCityPages/GameCenterPure.html" timestamp="1501831940380">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="96" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="20" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1500536973854">
         <mark key="'" line="101" column="0" />
@@ -188,7 +188,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/frontpage/css/bootstrap.min.css" timestamp="1501809737307" />
       <file name="$USER_HOME$/workspace/mlucky/src/api/auth.js" timestamp="1499309721932">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="12" column="26" />
@@ -217,16 +216,16 @@
       <file name="$USER_HOME$/workspace/frontpage/.gitignore" timestamp="1501752104308">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/js/n_channel_game.js" timestamp="1501755900409">
-        <mark key="[" line="79" column="82" />
-        <mark key="]" line="79" column="82" />
-        <mark key="." line="79" column="82" />
-        <mark key="^" line="79" column="82" />
+      <file name="$USER_HOME$/workspace/GameCityPages/js/n_channel_game.js" timestamp="1501831616293">
+        <mark key="[" line="79" column="89" />
+        <mark key="]" line="79" column="98" />
+        <mark key="." line="79" column="98" />
+        <mark key="^" line="79" column="98" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501752230202">
+      <file name="/Dummy.txt" timestamp="1501832016741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -296,7 +295,10 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/GameCenter.html" timestamp="1501756584919" />
+      <file name="$USER_HOME$/workspace/GameCityPages/GameCenter.html" timestamp="1501831882918">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="98" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/App.vue" timestamp="1500515695095">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="54" column="18" />
@@ -408,8 +410,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/workspace/frontpage/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>center</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImZvb3RlciIgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyOyBjb2xvcjogd2hpdGU7IHBhZGRpbmctYm90dG9tOiAxMCU7IGRpc3BsYXk6IG5vbmU7Ij4K</text>
       </register>
       <register name="-" type="4">
         <text>center</text>
@@ -418,7 +420,7 @@
         <text encoding="base64">XDxpc0VkaXREb25lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImZvb3RlciIgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyOyBjb2xvcjogd2hpdGU7IHBhZGRpbmctYm90dG9tOiAxMCU7IGRpc3BsYXk6IG5vbmU7Ij4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
