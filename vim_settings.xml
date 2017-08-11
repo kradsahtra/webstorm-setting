@@ -236,17 +236,17 @@
       <file name="$USER_HOME$/workspace/frontpage/.gitignore" timestamp="1501752104308">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/js/n_channel_game.js" timestamp="1502101529638">
-        <mark key="'" line="57" column="11" />
-        <mark key="[" line="88" column="58" />
-        <mark key="]" line="88" column="61" />
-        <mark key="." line="88" column="61" />
-        <mark key="^" line="88" column="61" />
+      <file name="$USER_HOME$/workspace/GameCityPages/js/n_channel_game.js" timestamp="1502426324280">
+        <mark key="'" line="88" column="108" />
+        <mark key="[" line="88" column="105" />
+        <mark key="]" line="88" column="113" />
+        <mark key="." line="88" column="113" />
+        <mark key="^" line="88" column="113" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502109593768">
+      <file name="/Dummy.txt" timestamp="1502272078933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -341,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="110" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="179" column="15" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="318" column="13" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="323" column="11" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
@@ -441,19 +440,20 @@
       <jump line="95" column="36" filename="$USER_HOME$/workspace/GameCityB/assets/Common/Script/Common/CommonApiMgr.js" />
       <jump line="41" column="6" filename="$USER_HOME$/workspace/GameCityPages/index.html" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/GameCityPages/index.html" />
+      <jump line="88" column="108" filename="$USER_HOME$/workspace/GameCityPages/js/n_channel_game.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>none</text>
+        <text>, 'UC1'</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwU2VydmVyTWdyXD4=</text>
+        <text encoding="base64">XDxsZW5vdm9cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJmb290ZXIiIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsgY29sb3I6IHdoaXRlOyBwYWRkaW5nLWJvdHRvbTogMTAlOyBkaXNwbGF5OiBub25lOyI+Cg==</text>
+      <register name="0" type="4">
+        <text>, 'UC1'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -487,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodHRwU2VydmVyTWdyXD4=</last-search>
+      <last-search encoding="base64">XDxsZW5vdm9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwU2VydmVyTWdyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsZW5vdm9cPg==</last-pattern>
       <last-replace>SET</last-replace>
       <last-substitute>GET_ALL</last-substitute>
       <last-dir>1</last-dir>
@@ -497,7 +497,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTbG90TWFjaGluZVw+</entry>
         <entry>count</entry>
         <entry encoding="base64">XDxGcnVpdE1hY2hpbmVcPg==</entry>
         <entry encoding="base64">XDxDb21wb25lbnRcPg==</entry>
@@ -517,6 +516,7 @@
         <entry encoding="base64">XDxpc0VkaXREb25lXD4=</entry>
         <entry encoding="base64">XDxpc1dlY2hhdFw+</entry>
         <entry encoding="base64">XDxodHRwU2VydmVyTWdyXD4=</entry>
+        <entry encoding="base64">XDxsZW5vdm9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
