@@ -332,10 +332,11 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/Common/CommonVariable.js" timestamp="1502527643526">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
+      <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/Common/CommonVariable.js" timestamp="1502556746366">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+        <mark key="^" line="4" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -442,16 +443,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8v5q2j5byP5pyN</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIC8v5q2j5byP5pyN</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZW5vdm9cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>, 'UC1'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvLyBob3N0Oid0ZXN0Lmt1YW5neGlhbmdzaGlkLmNvbScsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
