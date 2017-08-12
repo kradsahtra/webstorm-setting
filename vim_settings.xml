@@ -239,7 +239,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502272078933">
+      <file name="/Dummy.txt" timestamp="1502527578031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -331,6 +331,11 @@
         <mark key="]" line="54" column="34" />
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/Common/CommonVariable.js" timestamp="1502527643526">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -437,10 +442,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'UC1'</text>
+        <text encoding="base64">ICAgIC8v5q2j5byP5pyN</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgIC8v5q2j5byP5pyN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZW5vdm9cPg==</text>
