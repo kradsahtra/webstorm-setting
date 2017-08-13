@@ -77,6 +77,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/Common/CommonApiMgr.js" timestamp="1502638869223">
+        <mark key="'" line="61" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1500524093924">
         <mark key="'" line="44" column="13" />
         <mark key="[" line="40" column="62" />
@@ -248,7 +251,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502610818614">
+      <file name="/Dummy.txt" timestamp="1502638780240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -349,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="27" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="1009" column="19" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="1108" column="11" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="74" column="25" filename="$USER_HOME$/workspace/mlucky/package.json" />
@@ -449,6 +451,7 @@
       <jump line="351" column="25" filename="$USER_HOME$/workspace/GameCity/assets/Lottery/Script/LotteryGame.js" />
       <jump line="112" column="13" filename="$USER_HOME$/workspace/GameCity/assets/Lottery/Script/LotteryGame.js" />
       <jump line="244" column="4" filename="$USER_HOME$/workspace/GameCity/assets/Lottery/Script/LotteryGame.js" />
+      <jump line="61" column="4" filename="$USER_HOME$/workspace/GameCity/assets/Common/Script/Common/CommonApiMgr.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -458,7 +461,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3B1bGF0ZUxvdHRlcnlJbmZvXD4=</text>
+        <text encoding="base64">XDxsb3R0ZXJ5U2VydmVyTGlzdEluZm9cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBob3N0Oid0ZXN0Lmt1YW5neGlhbmdzaGlkLmNvbScsCg==</text>
@@ -495,9 +498,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3B1bGF0ZUxvdHRlcnlJbmZvXD4=</last-search>
+      <last-search encoding="base64">XDxsb3R0ZXJ5U2VydmVyTGlzdEluZm9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3B1bGF0ZUxvdHRlcnlJbmZvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb3R0ZXJ5U2VydmVyTGlzdEluZm9cPg==</last-pattern>
       <last-replace>SET</last-replace>
       <last-substitute>GET_ALL</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +508,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21wb25lbnRcPg==</entry>
         <entry encoding="base64">XDxDb3VudGRvd25UdXJudGFibGVcPg==</entry>
         <entry encoding="base64">XDxhXD4=</entry>
         <entry encoding="base64">XDxpMVw+</entry>
@@ -525,6 +527,7 @@
         <entry encoding="base64">XDxsZW5vdm9cPg==</entry>
         <entry encoding="base64">XDxwb3B1bGF0ZUJldERhdGFcPg==</entry>
         <entry encoding="base64">XDxwb3B1bGF0ZUxvdHRlcnlJbmZvXD4=</entry>
+        <entry encoding="base64">XDxsb3R0ZXJ5U2VydmVyTGlzdEluZm9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
