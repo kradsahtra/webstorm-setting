@@ -116,7 +116,6 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="126" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCity/assets/Lottery/Script/LotteryApiMgr.js" timestamp="1502610849361" />
       <file name="$USER_HOME$/workspace/mlucky/README.md" timestamp="1499221917305">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="8" column="18" />
@@ -205,6 +204,9 @@
         <mark key="]" line="46" column="5" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" timestamp="1502719517345">
+        <mark key="'" line="55" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/GameCityB/assets/Common/Script/Common/CommonApiMgr.js" timestamp="1502008889335">
         <mark key="'" line="95" column="36" />
         <mark key="[" line="25" column="28" />
@@ -251,7 +253,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502638780240">
+      <file name="/Dummy.txt" timestamp="1502719327773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -352,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1009" column="19" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
-      <jump line="1108" column="11" filename="$USER_HOME$/workspace/flucky/src/components/discovery/CountdownTurntable.jsx" />
       <jump line="74" column="25" filename="$USER_HOME$/workspace/mlucky/package.json" />
       <jump line="15" column="44" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
       <jump line="68" column="28" filename="$USER_HOME$/workspace/mlucky/src/App.vue" />
@@ -452,6 +452,8 @@
       <jump line="112" column="13" filename="$USER_HOME$/workspace/GameCity/assets/Lottery/Script/LotteryGame.js" />
       <jump line="244" column="4" filename="$USER_HOME$/workspace/GameCity/assets/Lottery/Script/LotteryGame.js" />
       <jump line="61" column="4" filename="$USER_HOME$/workspace/GameCity/assets/Common/Script/Common/CommonApiMgr.js" />
+      <jump line="37" column="8" filename="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" />
+      <jump line="55" column="33" filename="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -461,7 +463,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb3R0ZXJ5U2VydmVyTGlzdEluZm9cPg==</text>
+        <text encoding="base64">XDxsb3ROb2RlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBob3N0Oid0ZXN0Lmt1YW5neGlhbmdzaGlkLmNvbScsCg==</text>
@@ -498,9 +500,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb3R0ZXJ5U2VydmVyTGlzdEluZm9cPg==</last-search>
+      <last-search encoding="base64">XDxsb3ROb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb3R0ZXJ5U2VydmVyTGlzdEluZm9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb3ROb2RlXD4=</last-pattern>
       <last-replace>SET</last-replace>
       <last-substitute>GET_ALL</last-substitute>
       <last-dir>1</last-dir>
@@ -508,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3VudGRvd25UdXJudGFibGVcPg==</entry>
         <entry encoding="base64">XDxhXD4=</entry>
         <entry encoding="base64">XDxpMVw+</entry>
         <entry encoding="base64">XDxkYXRhQ29uZmlnXD4=</entry>
@@ -528,6 +529,7 @@
         <entry encoding="base64">XDxwb3B1bGF0ZUJldERhdGFcPg==</entry>
         <entry encoding="base64">XDxwb3B1bGF0ZUxvdHRlcnlJbmZvXD4=</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5U2VydmVyTGlzdEluZm9cPg==</entry>
+        <entry encoding="base64">XDxsb3ROb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
