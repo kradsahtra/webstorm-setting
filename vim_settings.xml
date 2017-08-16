@@ -276,11 +276,11 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/js/n_utils_game.js" timestamp="1502101203561">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="53" column="41" />
+      <file name="$USER_HOME$/workspace/GameCityPages/js/n_utils_game.js" timestamp="1502872342621">
+        <mark key="[" line="48" column="51" />
+        <mark key="]" line="48" column="74" />
+        <mark key="." line="48" column="74" />
+        <mark key="^" line="48" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/utils.js" timestamp="1499743871138">
         <mark key="[" line="30" column="8" />
@@ -456,11 +456,11 @@
       <jump line="55" column="33" filename="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1bGxBbGw6ICdhcGkvdjEvYnVsbC9iZXRfaW5mbycsCiAgICBidWxsTXk6ICdhcGkvdjEvYnVsbC9pbmZvJywKICAgIGJ1bGxCZXQ6ICdhcGkvdjEvYnVsbC9iZXQnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>地址：广州市天河区黄埔大道西平云路163号广电平云广场B塔13层</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>地址：广州市天河区黄埔大道西平云路163号广电平云广场B塔13层</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb3ROb2RlXD4=</text>
