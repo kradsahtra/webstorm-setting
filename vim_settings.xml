@@ -352,11 +352,11 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/Common/CommonVariable.js" timestamp="1502556746366">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-        <mark key="^" line="4" column="25" />
+      <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/Common/CommonVariable.js" timestamp="1502940221207">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -463,43 +463,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>地址：广州市天河区黄埔大道西平云路163号广电平云广场B塔13层</text>
+        <text>测试服</text>
       </register>
       <register name="-" type="4">
-        <text>地址：广州市天河区黄埔大道西平云路163号广电平云广场B塔13层</text>
+        <text>测试服</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb3ROb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBob3N0Oid0ZXN0Lmt1YW5neGlhbmdzaGlkLmNvbScsCg==</text>
+        <text encoding="base64">ICAgIGhvc3Q6J3Rlc3Qua3Vhbmd4aWFuZ3NoaWQuY29tJywgICAgIC8v5rWL6K+V5pyNCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1bGxBbGw6ICdhcGkvdjEvYnVsbC9iZXRfaW5mbycsCiAgICBidWxsTXk6ICdhcGkvdjEvYnVsbC9pbmZvJywKICAgIGJ1bGxCZXQ6ICdhcGkvdjEvYnVsbC9iZXQnLAo=</text>
+      <register name="1" type="4">
+        <text>测试服
+  // host</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1bGxBbGw6ICdhcGkvdjEvYnVsbC9iZXRfaW5mbycsCiAgICBidWxsTXk6ICdhcGkvdjEvYnVsbC9pbmZvJywKICAgIGJ1bGxCZXQ6ICdhcGkvdjEvYnVsbC9iZXQnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1bGxCZXQ6ICdhcGkvdjEvYnVsbC9iZXQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1bGxNeTogJ2FwaS92MS9idWxsL2luZm8nLAo=</text>
+        <text encoding="base64">ICAgIGJ1bGxCZXQ6ICdhcGkvdjEvYnVsbC9iZXQnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1bGxBbGw6ICdhcGkvdjEvYnVsbC9iZXRfaW5mbycsCg==</text>
+        <text encoding="base64">ICAgIGJ1bGxNeTogJ2FwaS92MS9idWxsL2luZm8nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1bGxBbGw6ICdhcGkvdjEvYnVsbC9iZXRfaW5mbycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwPjwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIDxwPjwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
