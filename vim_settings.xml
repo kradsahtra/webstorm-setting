@@ -15,6 +15,9 @@
         <mark key="^" line="202" column="41" />
         <mark key="." line="202" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/FrontEndManage/core/utils/util.js" timestamp="1503809317311">
+        <mark key="'" line="99" column="28" />
+      </file>
       <file name="/a.dummy" timestamp="1499759360765">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="3" />
@@ -65,7 +68,6 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/FrontEndManage/business/onlineService/package.json" timestamp="1503808363195" />
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" timestamp="1500619794163">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -361,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="25" filename="$USER_HOME$/workspace/mlucky/package.json" />
       <jump line="15" column="44" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
       <jump line="68" column="28" filename="$USER_HOME$/workspace/mlucky/src/App.vue" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/mlucky/src/App.vue" />
@@ -461,6 +462,7 @@
       <jump line="61" column="4" filename="$USER_HOME$/workspace/GameCity/assets/Common/Script/Common/CommonApiMgr.js" />
       <jump line="37" column="8" filename="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" />
       <jump line="55" column="33" filename="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" />
+      <jump line="99" column="28" filename="$USER_HOME$/workspace/FrontEndManage/core/utils/util.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
