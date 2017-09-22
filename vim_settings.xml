@@ -101,11 +101,10 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/package.json" timestamp="1506074824493">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="14" />
+      <file name="$USER_HOME$/workspace/casino-web/package.json" timestamp="1506076966795">
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1500536973854">
         <mark key="'" line="101" column="0" />
@@ -488,44 +487,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SK</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>SK</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGxvYWRfZmlsZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c3NoIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9ICJzdWRvIG1rZGlyIC1wICR7UkVNT1RFX0RJUn0iCg==</text>
+      <register name="0" type="4">
+        <text>react-ui-components</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiBsaWIvdXBsb2FkLnB5Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC10YXAtZXZlbnQtcGx1Z2luIjogIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC10YXAtZXZlbnQtcGx1Z2luIjogIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJFTU9URV9IT1NUPTE2Mi4yMjIuMTY1LjI1MAo=</text>
+        <text encoding="base64">ICAgIHB5dGhvbiBsaWIvdXBsb2FkLnB5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJkZXBsb3lfeXgiOiAid2VicGFjayAmJiAuL2xpYi9kZXBsb3kuc2ggcHJvZHVjdGlvbl95eCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2NwIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7VEFSX0ZJTEV9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9OiR7UkVNT1RFX0RJUn0vCg==</text>
+        <text encoding="base64">ICAgIFJFTU9URV9IT1NUPTE2Mi4yMjIuMTY1LjI1MAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWxpZiBbICIkMSIgPT0gInAyIiBdOyB0aGVuCiAgICBSRU1PVEVfSE9TVD14eHgueHh4Lnh4eC54eHgKICAgIHB5dGhvbiBsaWIvdXBsb2FkLnB5Cg==</text>
+        <text encoding="base64">ICAgICJkZXBsb3lfeXgiOiAid2VicGFjayAmJiAuL2xpYi9kZXBsb3kuc2ggcHJvZHVjdGlvbl95eCIsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>测试服
-  // host</text>
+      <register name="7" type="2">
+        <text encoding="base64">c2NwIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7VEFSX0ZJTEV9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9OiR7UkVNT1RFX0RJUn0vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ1bGxBbGw6ICdhcGkvdjEvYnVsbC9iZXRfaW5mbycsCiAgICBidWxsTXk6ICdhcGkvdjEvYnVsbC9pbmZvJywKICAgIGJ1bGxCZXQ6ICdhcGkvdjEvYnVsbC9iZXQnLAo=</text>
+        <text encoding="base64">ZWxpZiBbICIkMSIgPT0gInAyIiBdOyB0aGVuCiAgICBSRU1PVEVfSE9TVD14eHgueHh4Lnh4eC54eHgKICAgIHB5dGhvbiBsaWIvdXBsb2FkLnB5Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>测试服
+  // host</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
