@@ -58,6 +58,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/casino-web/build/temporary.html" timestamp="1506074791405" />
       <file name="$USER_HOME$/workspace/luckyaf/src/app.js" timestamp="1501152999249">
         <mark key="'" line="40" column="0" />
       </file>
@@ -100,11 +101,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/package.json" timestamp="1506072391544">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="9" column="50" />
-        <mark key="." line="9" column="50" />
-        <mark key="^" line="9" column="50" />
+      <file name="$USER_HOME$/workspace/casino-web/package.json" timestamp="1506074824493">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1500536973854">
         <mark key="'" line="101" column="0" />
@@ -131,6 +132,7 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/casino-web/build/index.html" timestamp="1506074425691" />
       <file name="$USER_HOME$/workspace/mlucky/config/index.js" timestamp="1499743676069">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="23" />
@@ -183,7 +185,8 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/lib/upload.py" timestamp="1506073802854">
+      <file name="$USER_HOME$/workspace/casino-web/lib/upload.py" timestamp="1506074335444">
+        <mark key="'" line="41" column="4" />
         <mark key="[" line="18" column="54" />
         <mark key="]" line="18" column="93" />
         <mark key="." line="18" column="93" />
@@ -274,7 +277,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502964697511">
+      <file name="/Dummy.txt" timestamp="1506074794630">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -382,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="28" filename="$USER_HOME$/workspace/mlucky/src/App.vue" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/mlucky/src/App.vue" />
       <jump line="24" column="6" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
       <jump line="156" column="15" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
@@ -482,6 +484,7 @@
       <jump line="55" column="33" filename="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" />
       <jump line="99" column="28" filename="$USER_HOME$/workspace/FrontEndManage/core/utils/util.js" />
       <jump line="29" column="1" filename="$USER_HOME$/workspace/casino-web/lib/deploy.sh" />
+      <jump line="41" column="4" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -491,7 +494,7 @@
         <text>SK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb3ROb2RlXD4=</text>
+        <text encoding="base64">XDx1cGxvYWRfZmlsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3NoIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9ICJzdWRvIG1rZGlyIC1wICR7UkVNT1RFX0RJUn0iCg==</text>
@@ -529,9 +532,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb3ROb2RlXD4=</last-search>
+      <last-search encoding="base64">XDx1cGxvYWRfZmlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb3ROb2RlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cGxvYWRfZmlsZVw+</last-pattern>
       <last-replace>SET</last-replace>
       <last-substitute>GET_ALL</last-substitute>
       <last-dir>1</last-dir>
@@ -539,7 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhXD4=</entry>
         <entry encoding="base64">XDxpMVw+</entry>
         <entry encoding="base64">XDxkYXRhQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxBVVRIRU5USUNBVEVfU1VDQ0VTU1w+</entry>
@@ -559,6 +561,7 @@
         <entry encoding="base64">XDxwb3B1bGF0ZUxvdHRlcnlJbmZvXD4=</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5U2VydmVyTGlzdEluZm9cPg==</entry>
         <entry encoding="base64">XDxsb3ROb2RlXD4=</entry>
+        <entry encoding="base64">XDx1cGxvYWRfZmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
