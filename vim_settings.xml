@@ -192,6 +192,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/casino-web/webpack.config.js" timestamp="1506079280596" />
       <file name="$USER_HOME$/workspace/GameCityPages/YingHuang.html" timestamp="1501844196925">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="42" column="5" />
@@ -246,12 +247,6 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/GameCityPages/GameCenterLite.html" timestamp="1501844227333">
-        <mark key="'" line="15" column="53" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/game_center/assets/Roulette/Script/UI/LotteryLast.js" timestamp="1494409796311">
         <mark key="'" line="25" column="24" />
         <mark key="[" line="2" column="8" />
@@ -277,7 +272,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506074794630">
+      <file name="/Dummy.txt" timestamp="1506079256008">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
