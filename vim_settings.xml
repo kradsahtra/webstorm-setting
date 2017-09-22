@@ -100,6 +100,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/casino-web/package.json" timestamp="1506072391544">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="50" />
+        <mark key="." line="9" column="50" />
+        <mark key="^" line="9" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1500536973854">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="110" column="20" />
@@ -176,6 +182,12 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/casino-web/lib/upload.py" timestamp="1506073802854">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="18" column="93" />
+        <mark key="." line="18" column="93" />
+        <mark key="^" line="18" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/GameCityPages/YingHuang.html" timestamp="1501844196925">
         <mark key="[" line="39" column="0" />
@@ -311,6 +323,13 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/casino-web/lib/deploy.sh" timestamp="1506073347249">
+        <mark key="'" line="29" column="1" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="25" column="79" />
+      </file>
       <file name="$USER_HOME$/workspace/flucky/src/scss/ssc.scss" timestamp="1495703370230">
         <mark key="'" line="1057" column="1" />
         <mark key="[" line="0" column="0" />
@@ -363,7 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="44" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
       <jump line="68" column="28" filename="$USER_HOME$/workspace/mlucky/src/App.vue" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/mlucky/src/App.vue" />
       <jump line="24" column="6" filename="$USER_HOME$/workspace/mlucky/src/store/modules/menu/index.js" />
@@ -463,47 +481,48 @@
       <jump line="37" column="8" filename="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" />
       <jump line="55" column="33" filename="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" />
       <jump line="99" column="28" filename="$USER_HOME$/workspace/FrontEndManage/core/utils/util.js" />
+      <jump line="29" column="1" filename="$USER_HOME$/workspace/casino-web/lib/deploy.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>测试服</text>
+        <text>SK</text>
       </register>
       <register name="-" type="4">
-        <text>测试服</text>
+        <text>SK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb3ROb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6J3Rlc3Qua3Vhbmd4aWFuZ3NoaWQuY29tJywgICAgIC8v5rWL6K+V5pyNCg==</text>
+        <text encoding="base64">c3NoIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9ICJzdWRvIG1rZGlyIC1wICR7UkVNT1RFX0RJUn0iCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB5dGhvbiBsaWIvdXBsb2FkLnB5Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFJFTU9URV9IT1NUPTE2Mi4yMjIuMTY1LjI1MAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJkZXBsb3lfeXgiOiAid2VicGFjayAmJiAuL2xpYi9kZXBsb3kuc2ggcHJvZHVjdGlvbl95eCIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2NwIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7VEFSX0ZJTEV9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9OiR7UkVNT1RFX0RJUn0vCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZWxpZiBbICIkMSIgPT0gInAyIiBdOyB0aGVuCiAgICBSRU1PVEVfSE9TVD14eHgueHh4Lnh4eC54eHgKICAgIHB5dGhvbiBsaWIvdXBsb2FkLnB5Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>测试服
   // host</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGJ1bGxBbGw6ICdhcGkvdjEvYnVsbC9iZXRfaW5mbycsCiAgICBidWxsTXk6ICdhcGkvdjEvYnVsbC9pbmZvJywKICAgIGJ1bGxCZXQ6ICdhcGkvdjEvYnVsbC9iZXQnLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1bGxCZXQ6ICdhcGkvdjEvYnVsbC9iZXQnLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1bGxNeTogJ2FwaS92MS9idWxsL2luZm8nLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1bGxBbGw6ICdhcGkvdjEvYnVsbC9iZXRfaW5mbycsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwPjwvcD4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
