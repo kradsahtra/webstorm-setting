@@ -351,10 +351,10 @@
         <mark key="." line="21" column="53" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/src/constants/Config.js" timestamp="1506247990956">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/workspace/casino-web/src/constants/Config.js" timestamp="1506249702783">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/src/views/Register.vue" timestamp="1499655541436">
         <mark key="[" line="15" column="25" />
@@ -485,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>http://</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCVUNLRVRfTkFNRVw+</text>
