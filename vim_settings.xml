@@ -177,8 +177,8 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/lib/upload.py" timestamp="1506077955159">
-        <mark key="'" line="21" column="0" />
+      <file name="$USER_HOME$/workspace/casino-web/lib/upload.py" timestamp="1506480593723">
+        <mark key="'" line="23" column="54" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -468,7 +468,6 @@
       <jump line="55" column="33" filename="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" />
       <jump line="99" column="28" filename="$USER_HOME$/workspace/FrontEndManage/core/utils/util.js" />
       <jump line="29" column="1" filename="$USER_HOME$/workspace/casino-web/lib/deploy.sh" />
-      <jump line="23" column="15" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
       <jump line="11" column="2" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
       <jump line="42" column="12" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
       <jump line="26" column="4" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
@@ -477,6 +476,7 @@
       <jump line="19" column="0" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
       <jump line="76" column="46" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
+      <jump line="23" column="54" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
