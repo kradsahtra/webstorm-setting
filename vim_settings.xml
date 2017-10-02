@@ -312,11 +312,11 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/lib/deploy.sh" timestamp="1506078398842">
+      <file name="$USER_HOME$/workspace/casino-web/lib/deploy.sh" timestamp="1506929118645">
         <mark key="'" line="32" column="1" />
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="35" column="72" />
-        <mark key="." line="35" column="54" />
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
         <mark key="^" line="29" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/flucky/src/scss/ssc.scss" timestamp="1495703370230">
