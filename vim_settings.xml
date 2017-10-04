@@ -312,12 +312,12 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/lib/deploy.sh" timestamp="1507089061634">
+      <file name="$USER_HOME$/workspace/casino-web/lib/deploy.sh" timestamp="1507094485834">
         <mark key="'" line="34" column="1" />
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="31" />
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/flucky/src/scss/ssc.scss" timestamp="1495703370230">
         <mark key="'" line="1057" column="1" />
@@ -480,10 +480,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.pub</text>
+        <text>43</text>
       </register>
       <register name="-" type="4">
-        <text>.pub</text>
+        <text>43</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCVUNLRVRfTkFNRVw+</text>
