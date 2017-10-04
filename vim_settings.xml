@@ -68,7 +68,6 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/src/components/info/Help.jsx" timestamp="1507024210147" />
       <file name="$USER_HOME$/workspace/mlucky/src/store/modules/menu/data-config.js" timestamp="1500619794163">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -264,7 +263,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506930177091">
+      <file name="/Dummy.txt" timestamp="1507089028198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -313,12 +312,12 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/lib/deploy.sh" timestamp="1506929118645">
-        <mark key="'" line="32" column="1" />
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="31" />
-        <mark key="^" line="29" column="81" />
+      <file name="$USER_HOME$/workspace/casino-web/lib/deploy.sh" timestamp="1507089061634">
+        <mark key="'" line="34" column="1" />
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/flucky/src/scss/ssc.scss" timestamp="1495703370230">
         <mark key="'" line="1057" column="1" />
@@ -481,16 +480,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9011</text>
+        <text>.pub</text>
       </register>
       <register name="-" type="4">
-        <text>9011</text>
+        <text>.pub</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCVUNLRVRfTkFNRVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IC1wICR7UkVNT1RFX1BPUlR9</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3NoIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9IC1wICR7UkVNT1RFX1BPUlR9ICJzdWRvIG1rZGlyIC1wICR7UkVNT1RFX0RJUn0iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
