@@ -106,6 +106,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/casino-web/package.json" timestamp="1509178071826" />
       <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1500536973854">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="110" column="20" />
@@ -183,13 +184,14 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/lib/upload.py" timestamp="1506480593723">
+      <file name="$USER_HOME$/workspace/casino-web/lib/upload.py" timestamp="1509178195068">
         <mark key="'" line="23" column="54" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/casino-web/webpack.config.js" timestamp="1509178724470" />
       <file name="$USER_HOME$/workspace/GameCityPages/YingHuang.html" timestamp="1501844196925">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="42" column="5" />
@@ -269,7 +271,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507093712433">
+      <file name="/Dummy.txt" timestamp="1509178594588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -351,7 +353,7 @@
         <mark key="." line="21" column="53" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/casino-web/src/constants/Config.js" timestamp="1506347540554">
+      <file name="$USER_HOME$/workspace/casino-web/src/constants/Config.js" timestamp="1509178640573">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
