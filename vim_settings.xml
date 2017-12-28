@@ -143,12 +143,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514449282684">
-        <mark key="'" line="67" column="9" />
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="31" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="32" column="31" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514451821361">
+        <mark key="'" line="73" column="9" />
+        <mark key="[" line="67" column="20" />
+        <mark key="]" line="67" column="20" />
+        <mark key="." line="67" column="20" />
+        <mark key="^" line="67" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/NetWork/zlAPI.js" timestamp="1502720788664">
         <mark key="[" line="11" column="0" />
@@ -162,11 +162,12 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" timestamp="1514449217605">
-        <mark key="'" line="13" column="11" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" timestamp="1514450511815">
+        <mark key="'" line="12" column="11" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" timestamp="1496289185934">
         <mark key="'" line="0" column="15" />
@@ -175,8 +176,8 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="131" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" timestamp="1514445202025">
-        <mark key="'" line="159" column="21" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" timestamp="1514450267175">
+        <mark key="'" line="20" column="96" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
@@ -223,16 +224,23 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" timestamp="1514446650314">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="23" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" timestamp="1514451672601">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+        <mark key="^" line="15" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/getters.js" timestamp="1514446838171">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/getters.js" timestamp="1514452014324">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/views/dashboard/index.vue" timestamp="1514452032082">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/GameCityPages/YingHuang.html" timestamp="1501844196925">
         <mark key="[" line="39" column="0" />
@@ -313,7 +321,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514445274118">
+      <file name="/Dummy.txt" timestamp="1514451935960">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -354,6 +362,12 @@
         <mark key="]" line="11" column="1" />
         <mark key="^" line="9" column="59" />
         <mark key="." line="9" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/auth.js" timestamp="1514451803457">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bagent-admin-web/src/api/login.js" timestamp="1514428789805">
         <mark key="[" line="7" column="6" />
@@ -438,8 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
-      <jump line="78" column="17" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
       <jump line="16" column="11" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
       <jump line="23" column="4" filename="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" />
@@ -538,55 +550,57 @@
       <jump line="14" column="4" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
       <jump line="67" column="9" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
       <jump line="13" column="11" filename="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" />
+      <jump line="15" column="71" filename="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" />
+      <jump line="20" column="96" filename="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICd1dGlscy9hdXRoJyAvLyDpqozmnYMK</text>
+      <register name="&quot;" type="4">
+        <text>nickname</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>nickname</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTRVRfTkFNRVw+</text>
+        <text encoding="base64">XDxoYW5kbGVMb2dpblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>status_code</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImRhc2hib2FyZC10ZXh0Ij5uaWNrbmFtZTp7e25pY2tuYW1lfX08L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICd1dGlscy9hdXRoJyAvLyDpqozmnYMK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImRhc2hib2FyZC10ZXh0Ij5yb2xlOjxzcGFuIHYtZm9yPSdyb2xlIGluIHJvbGVzJyA6a2V5PSdyb2xlJz57e3JvbGV9fTwvc3Bhbj48L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4sIHNldFRva2VuLCByZW1vdmVUb2tlbiB9IGZyb20gJ3V0aWxzL2F1dGgnCg==</text>
+        <text encoding="base64">ICAgICAgJ3JvbGVzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9naW4sIGxvZ291dCwgZ2V0SW5mbyB9IGZyb20gJ2FwaS9sb2dpbicK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICdAL3V0aWxzL2F1dGgnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgbmV4dCgpCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHNldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlLmRpc3BhdGNoKCdGZWRMb2dPdXQnKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgTWVzc2FnZS5lcnJvcign6aqM6K+B5aSx6LSlLOivt+mHjeaWsOeZu+W9lScpCiAgICAgICAgICAgIG5leHQoeyBwYXRoOiAnL2xvZ2luJyB9KQogICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIFNFVF9BVkFUQVI6IChzdGF0ZSwgYXZhdGFyKSA9PiB7CiAgICAgIHN0YXRlLmF2YXRhciA9IGF2YXRhcgogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIC8vIOiOt+WPlueUqOaIt+S/oeaBrwogICAgR2V0SW5mbyh7IGNvbW1pdCwgc3RhdGUgfSkgewogICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgIGdldEluZm8oc3RhdGUudG9rZW4pLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgY29uc3QgZGF0YSA9IHJlc3BvbnNlLmRhdGEKICAgICAgICAgIGNvbW1pdCgnU0VUX05BTUUnLCBkYXRhLm5hbWUpCiAgICAgICAgICBjb21taXQoJ1NFVF9BVkFUQVInLCBkYXRhLmF2YXRhcikKICAgICAgICAgIHJlc29sdmUocmVzcG9uc2UpCiAgICAgICAgfSkuY2F0Y2goZXJyb3IgPT4gewogICAgICAgICAgcmVqZWN0KGVycm9yKQogICAgICAgIH0pCiAgICAgIH0pCiAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByb2xlczogc3RhdGUgPT4gc3RhdGUudXNlci5yb2xlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbW1pdCgnU0VUX1JPTEVTJywgZGF0YS5yb2xlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5kYXRhKQo=</text>
+        <text encoding="base64">ICAgIFNFVF9ST0xFUzogKHN0YXRlLCByb2xlcykgPT4gewogICAgICBzdGF0ZS5yb2xlcyA9IHJvbGVzCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTRVRfTkFNRVw+</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVMb2dpblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTRVRfTkFNRVw+</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVMb2dpblw+</last-pattern>
       <last-replace>SET</last-replace>
       <last-substitute>GET_ALL</last-substitute>
       <last-dir>1</last-dir>
@@ -594,7 +608,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
         <entry>GET_ALL</entry>
         <entry encoding="base64">XDxTRVRfU0VOU09SX1NVQ0NFU1NcPg==</entry>
         <entry encoding="base64">XDxwcm9ncmVzc0J1dHRvbkNsYXNzXD4=</entry>
@@ -614,6 +627,7 @@
         <entry encoding="base64">XDxCVUNLRVRfTkFNRVw+</entry>
         <entry encoding="base64">XDxTRVRfVE9LRU5cPg==</entry>
         <entry encoding="base64">XDxTRVRfTkFNRVw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVMb2dpblw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
