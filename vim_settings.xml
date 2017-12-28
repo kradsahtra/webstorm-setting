@@ -143,12 +143,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514446595217">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="28" column="16" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514449282684">
+        <mark key="'" line="67" column="9" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/NetWork/zlAPI.js" timestamp="1502720788664">
         <mark key="[" line="11" column="0" />
@@ -162,10 +162,11 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" timestamp="1514446954167">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" timestamp="1514449217605">
+        <mark key="'" line="13" column="11" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" timestamp="1496289185934">
         <mark key="'" line="0" column="15" />
@@ -437,8 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
-      <jump line="54" column="13" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
       <jump line="78" column="17" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
       <jump line="16" column="11" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
@@ -537,13 +536,15 @@
       <jump line="29" column="43" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
       <jump line="11" column="4" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
       <jump line="14" column="4" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
+      <jump line="67" column="9" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgbmV4dCgpCiAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICd1dGlscy9hdXRoJyAvLyDpqozmnYMK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRfTkFNRVw+</text>
@@ -552,31 +553,31 @@
         <text>status_code</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgbmV4dCgpCiAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICd1dGlscy9hdXRoJyAvLyDpqozmnYMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlLmRpc3BhdGNoKCdGZWRMb2dPdXQnKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgTWVzc2FnZS5lcnJvcign6aqM6K+B5aSx6LSlLOivt+mHjeaWsOeZu+W9lScpCiAgICAgICAgICAgIG5leHQoeyBwYXRoOiAnL2xvZ2luJyB9KQogICAgICAgICAgfSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4sIHNldFRva2VuLCByZW1vdmVUb2tlbiB9IGZyb20gJ3V0aWxzL2F1dGgnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9naW4sIGxvZ291dCwgZ2V0SW5mbyB9IGZyb20gJ2FwaS9sb2dpbicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgbmV4dCgpCiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByb2xlczogc3RhdGUgPT4gc3RhdGUudXNlci5yb2xlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0b3JlLmRpc3BhdGNoKCdGZWRMb2dPdXQnKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgTWVzc2FnZS5lcnJvcign6aqM6K+B5aSx6LSlLOivt+mHjeaWsOeZu+W9lScpCiAgICAgICAgICAgIG5leHQoeyBwYXRoOiAnL2xvZ2luJyB9KQogICAgICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmVzcG9uc2UuZGF0YQogICAgfQogIH0sCiAgZXJyb3IgPT4gew==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICByb2xlczogc3RhdGUgPT4gc3RhdGUudXNlci5yb2xlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5kYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
