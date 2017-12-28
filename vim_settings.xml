@@ -143,12 +143,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514451821361">
-        <mark key="'" line="73" column="9" />
-        <mark key="[" line="67" column="20" />
-        <mark key="]" line="67" column="20" />
-        <mark key="." line="67" column="20" />
-        <mark key="^" line="67" column="20" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514453416268">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="1" column="52" />
+        <mark key="]" line="1" column="52" />
+        <mark key="." line="1" column="52" />
+        <mark key="^" line="58" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/NetWork/zlAPI.js" timestamp="1502720788664">
         <mark key="[" line="11" column="0" />
@@ -162,12 +162,11 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" timestamp="1514450511815">
-        <mark key="'" line="12" column="11" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="13" column="10" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" timestamp="1514453106010">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" timestamp="1496289185934">
         <mark key="'" line="0" column="15" />
@@ -224,17 +223,18 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" timestamp="1514451672601">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="46" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" timestamp="1514453471879">
+        <mark key="'" line="15" column="48" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
         <mark key="^" line="15" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/getters.js" timestamp="1514452014324">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-        <mark key="^" line="5" column="33" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/getters.js" timestamp="1514453163849">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/bagent-admin-web/src/views/dashboard/index.vue" timestamp="1514452032082">
         <mark key="[" line="3" column="40" />
@@ -274,6 +274,11 @@
       </file>
       <file name="$USER_HOME$/workspace/GameCity/assets/GameHall/Script/HomeUI.js" timestamp="1502720335155">
         <mark key="'" line="55" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/views/layout/components/Navbar.vue" timestamp="1514453265468">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/GameCityB/assets/Common/Script/Common/CommonApiMgr.js" timestamp="1502008889335">
         <mark key="'" line="95" column="36" />
@@ -321,7 +326,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514451935960">
+      <file name="/Dummy.txt" timestamp="1514453502814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -363,11 +368,11 @@
         <mark key="^" line="9" column="59" />
         <mark key="." line="9" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/auth.js" timestamp="1514451803457">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/auth.js" timestamp="1514453480332">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bagent-admin-web/src/api/login.js" timestamp="1514428789805">
         <mark key="[" line="7" column="6" />
@@ -452,10 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="11" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
-      <jump line="23" column="4" filename="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" />
-      <jump line="150" column="8" filename="$USER_HOME$/workspace/mlucky/src/views/Login.vue" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/mlucky/build/build.js" />
       <jump line="34" column="30" filename="$USER_HOME$/workspace/mlucky/build/build.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mlucky/build/deploy.js" />
@@ -552,46 +553,50 @@
       <jump line="13" column="11" filename="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" />
       <jump line="15" column="71" filename="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" />
       <jump line="20" column="96" filename="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" />
+      <jump line="11" column="29" filename="$USER_HOME$/workspace/bagent-admin-web/src/utils/auth.js" />
+      <jump line="18" column="26" filename="$USER_HOME$/workspace/bagent-admin-web/src/utils/auth.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
+      <jump line="15" column="48" filename="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nickname</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>nickname</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVMb2dpblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImRhc2hib2FyZC10ZXh0Ij5uaWNrbmFtZTp7e25pY2tuYW1lfX08L2Rpdj4K</text>
+      <register name="0" type="4">
+        <text>TokenKey</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImRhc2hib2FyZC10ZXh0Ij5yb2xlOjxzcGFuIHYtZm9yPSdyb2xlIGluIHJvbGVzJyA6a2V5PSdyb2xlJz57e3JvbGV9fTwvc3Bhbj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBjb21taXQoJ1NFVF9UT0tFTicsICcnKQogICAgICAgIHJlbW92ZUNvb2tpZXMoVUlES2V5KQogICAgICAgIHJlbW92ZUNvb2tpZXMoVG9rZW5LZXkpCiAgICAgICAgcmVtb3ZlQ29va2llcyhOSUNLTkFNRUtleSkKICAgICAgICByZW1vdmVDb29raWVzKEVNQUlMS2V5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ3JvbGVzJwo=</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVUb2tlbigpCiAgICAgICAgcmVtb3ZlVXNlcklEKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICdAL3V0aWxzL2F1dGgnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbW92ZVRva2VuKCkKICAgICAgICAgIHJlbW92ZVVzZXJJRCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEudG9rZW4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNFVF9BVkFUQVI6IChzdGF0ZSwgYXZhdGFyKSA9PiB7CiAgICAgIHN0YXRlLmF2YXRhciA9IGF2YXRhcgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgJ2F2YXRhcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdmF0YXI6IHN0YXRlID0+IHN0YXRlLnVzZXIuYXZhdGFyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIOiOt+WPlueUqOaIt+S/oeaBrwogICAgR2V0SW5mbyh7IGNvbW1pdCwgc3RhdGUgfSkgewogICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgIGdldEluZm8oc3RhdGUudG9rZW4pLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgY29uc3QgZGF0YSA9IHJlc3BvbnNlLmRhdGEKICAgICAgICAgIGNvbW1pdCgnU0VUX05BTUUnLCBkYXRhLm5hbWUpCiAgICAgICAgICBjb21taXQoJ1NFVF9BVkFUQVInLCBkYXRhLmF2YXRhcikKICAgICAgICAgIHJlc29sdmUocmVzcG9uc2UpCiAgICAgICAgfSkuY2F0Y2goZXJyb3IgPT4gewogICAgICAgICAgcmVqZWN0KGVycm9yKQogICAgICAgIH0pCiAgICAgIH0pCiAgICB9LAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZ2V0IHRva2VuICcgKyBnZXRDb29raWVzKFVJREtleSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbW1pdCgnU0VUX1JPTEVTJywgZGF0YS5yb2xlKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICcuL3V0aWxzL2F1dGgnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNFVF9ST0xFUzogKHN0YXRlLCByb2xlcykgPT4gewogICAgICBzdGF0ZS5yb2xlcyA9IHJvbGVzCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNldENvb2tpZXMoZGF0YS5pZCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
