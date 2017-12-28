@@ -40,9 +40,6 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
-  <action id="EslintImportCodeStyle">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-  </action>
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
@@ -114,6 +111,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Tool_External Tools_ESLint Fix">
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="meta enter" />

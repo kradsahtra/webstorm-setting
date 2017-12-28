@@ -143,12 +143,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514443342702">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="32" column="38" />
-        <mark key="^" line="32" column="38" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514446595217">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="28" column="16" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/NetWork/zlAPI.js" timestamp="1502720788664">
         <mark key="[" line="11" column="0" />
@@ -162,6 +162,11 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" timestamp="1514446954167">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/flucky/src/components/discovery/SlotMachine.jsx" timestamp="1496289185934">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="104" column="0" />
@@ -169,12 +174,12 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="131" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" timestamp="1514444869279">
-        <mark key="'" line="10" column="20" />
-        <mark key="[" line="90" column="34" />
-        <mark key="]" line="91" column="35" />
-        <mark key="." line="91" column="35" />
-        <mark key="^" line="91" column="35" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" timestamp="1514445202025">
+        <mark key="'" line="159" column="21" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="90" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/casino-web/src/utils/common.js" timestamp="1511491857805">
         <mark key="'" line="13" column="0" />
@@ -216,6 +221,17 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" timestamp="1514446650314">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/getters.js" timestamp="1514446838171">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/GameCityPages/YingHuang.html" timestamp="1501844196925">
         <mark key="[" line="39" column="0" />
@@ -296,7 +312,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514444758635">
+      <file name="/Dummy.txt" timestamp="1514445274118">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -421,10 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="34" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
-      <jump line="23" column="4" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
-      <jump line="38" column="4" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
       <jump line="54" column="13" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/auth.js" />
@@ -521,55 +533,59 @@
       <jump line="132" column="11" filename="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
       <jump line="10" column="20" filename="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" />
+      <jump line="159" column="21" filename="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" />
+      <jump line="29" column="43" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
+      <jump line="11" column="4" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>src</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgbmV4dCgpCiAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCVUNLRVRfTkFNRVw+</text>
+        <text encoding="base64">XDxTRVRfTkFNRVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c3NoIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9IC1wICR7UkVNT1RFX1BPUlR9ICJzdWRvIG1rZGlyIC1wICR7UkVNT1RFX0RJUn0iCg==</text>
+      <register name="0" type="4">
+        <text>status_code</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHN0eWxlIHJlbD0ic3R5bGVzaGVldC9zY3NzIiBsYW5nPSJzY3NzIj4K</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgbmV4dCgpCiAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlckluZm8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0b3JlLmRpc3BhdGNoKCdGZWRMb2dPdXQnKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgTWVzc2FnZS5lcnJvcign6aqM6K+B5aSx6LSlLOivt+mHjeaWsOeZu+W9lScpCiAgICAgICAgICAgIG5leHQoeyBwYXRoOiAnL2xvZ2luJyB9KQogICAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJvbGVzOiBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF2YXRhcjogJycsCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnMucm9sZXMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgc3RvcmUuZGlzcGF0Y2goJ0dldEluZm8nKS50aGVuKHJlcyA9PiB7IC8vIOaLieWPlueUqOaIt+S/oeaBrwogICAgICAgICAgbmV4dCgpCiAgICAgICAgfSkuY2F0Y2goKCkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idGlwcyI+CiAgICAgICAgPHNwYW4gc3R5bGU9Im1hcmdpbi1yaWdodDoyMHB4OyI+dXNlcm5hbWU6IGFkbWluPC9zcGFuPgogICAgICAgIDwvc3Bhbj4gcGFzc3dvcmQ6IGFkbWluPC9zcGFuPgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICByb2xlczogc3RhdGUgPT4gc3RhdGUudXNlci5yb2xlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCB2YWxpZF9tYXAgPSBbJ2FkbWluJywgJ2VkaXRvciddCiAgcmV0dXJuIHZhbGlkX21hcC5pbmRleE9mKHN0ci50cmltKCkpID49IDAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCBkYXRhKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">cmVzcG9uc2UuZGF0YQogICAgfQogIH0sCiAgZXJyb3IgPT4gew==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCVUNLRVRfTkFNRVw+</last-search>
+      <last-search encoding="base64">XDxTRVRfTkFNRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCVUNLRVRfTkFNRVw+</last-pattern>
+      <last-pattern encoding="base64">XDxTRVRfTkFNRVw+</last-pattern>
       <last-replace>SET</last-replace>
       <last-substitute>GET_ALL</last-substitute>
       <last-dir>1</last-dir>
@@ -577,8 +593,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdWJsaWNQYXRoXD4=</entry>
-        <entry encoding="base64">XDxLRVlQQVRIXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
         <entry>GET_ALL</entry>
         <entry encoding="base64">XDxTRVRfU0VOU09SX1NVQ0NFU1NcPg==</entry>
@@ -597,6 +611,8 @@
         <entry encoding="base64">XDxkZWxldGVfZGF0YVw+</entry>
         <entry encoding="base64">XDx1cGxvYWRfZmlsZVw+</entry>
         <entry encoding="base64">XDxCVUNLRVRfTkFNRVw+</entry>
+        <entry encoding="base64">XDxTRVRfVE9LRU5cPg==</entry>
+        <entry encoding="base64">XDxTRVRfTkFNRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
