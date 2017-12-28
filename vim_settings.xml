@@ -64,6 +64,12 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/config/dev.env.js" timestamp="1514428452310">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyaf/src/app.js" timestamp="1501152999249">
         <mark key="'" line="40" column="0" />
       </file>
@@ -276,7 +282,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514426467132">
+      <file name="/Dummy.txt" timestamp="1514429055262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -317,6 +323,11 @@
         <mark key="]" line="11" column="1" />
         <mark key="^" line="9" column="59" />
         <mark key="." line="9" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/api/login.js" timestamp="1514428789805">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/deploy.js" timestamp="1499759528436">
         <mark key="'" line="32" column="14" />
@@ -387,6 +398,12 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/validate.js" timestamp="1514429033857">
+        <mark key="[" line="5" column="164" />
+        <mark key="]" line="5" column="164" />
+        <mark key="." line="5" column="164" />
+        <mark key="^" line="4" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -493,10 +510,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>162.222.165.250</text>
+        <text>Username</text>
       </register>
       <register name="-" type="4">
-        <text>162.222.165.250</text>
+        <text>Username</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCVUNLRVRfTkFNRVw+</text>
@@ -505,31 +522,31 @@
         <text encoding="base64">c3NoIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9IC1wICR7UkVNT1RFX1BPUlR9ICJzdWRvIG1rZGlyIC1wICR7UkVNT1RFX0RJUn0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdCB2YWxpZF9tYXAgPSBbJ2FkbWluJywgJ2VkaXRvciddCiAgcmV0dXJuIHZhbGlkX21hcC5pbmRleE9mKHN0ci50cmltKCkpID49IDAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2lkb3dzOjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2lkb3dzOjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC10YXAtZXZlbnQtcGx1Z2luIjogIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC10YXAtZXZlbnQtcGx1Z2luIjogIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiBsaWIvdXBsb2FkLnB5Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC10YXAtZXZlbnQtcGx1Z2luIjogIiIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
