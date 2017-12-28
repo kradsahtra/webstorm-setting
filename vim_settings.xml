@@ -143,6 +143,13 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514443342702">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+        <mark key="^" line="32" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/NetWork/zlAPI.js" timestamp="1502720788664">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -161,6 +168,13 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
         <mark key="^" line="131" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" timestamp="1514444869279">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="90" column="34" />
+        <mark key="]" line="91" column="35" />
+        <mark key="." line="91" column="35" />
+        <mark key="^" line="91" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/casino-web/src/utils/common.js" timestamp="1511491857805">
         <mark key="'" line="13" column="0" />
@@ -282,7 +296,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514429055262">
+      <file name="/Dummy.txt" timestamp="1514444758635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -407,9 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="6" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
-      <jump line="36" column="32" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
-      <jump line="35" column="4" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
       <jump line="41" column="34" filename="$USER_HOME$/workspace/mlucky/src/store/modules/auth.js" />
       <jump line="23" column="4" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
@@ -507,13 +518,16 @@
       <jump line="21" column="0" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
       <jump line="23" column="54" filename="$USER_HOME$/workspace/casino-web/lib/upload.py" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/casino-web/src/utils/common.js" />
+      <jump line="132" column="11" filename="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" />
+      <jump line="10" column="20" filename="$USER_HOME$/workspace/bagent-admin-web/src/views/login/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Username</text>
+        <text>src</text>
       </register>
       <register name="-" type="4">
-        <text>Username</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCVUNLRVRfTkFNRVw+</text>
@@ -522,31 +536,31 @@
         <text encoding="base64">c3NoIC1pICR7UkVNT1RFX1NTSF9LRVl9ICR7UkVNT1RFX1VTRVJ9QCR7UkVNT1RFX0hPU1R9IC1wICR7UkVNT1RFX1BPUlR9ICJzdWRvIG1rZGlyIC1wICR7UkVNT1RFX0RJUn0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHN0eWxlIHJlbD0ic3R5bGVzaGVldC9zY3NzIiBsYW5nPSJzY3NzIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB2YWxpZF9tYXAgPSBbJ2FkbWluJywgJ2VkaXRvciddCiAgcmV0dXJuIHZhbGlkX21hcC5pbmRleE9mKHN0ci50cmltKCkpID49IDAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlckluZm8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJvbGVzOiBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGF2YXRhcjogJycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idGlwcyI+CiAgICAgICAgPHNwYW4gc3R5bGU9Im1hcmdpbi1yaWdodDoyMHB4OyI+dXNlcm5hbWU6IGFkbWluPC9zcGFuPgogICAgICAgIDwvc3Bhbj4gcGFzc3dvcmQ6IGFkbWluPC9zcGFuPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2lkb3dzOjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB2YWxpZF9tYXAgPSBbJ2FkbWluJywgJ2VkaXRvciddCiAgcmV0dXJuIHZhbGlkX21hcC5pbmRleE9mKHN0ci50cmltKCkpID49IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC10YXAtZXZlbnQtcGx1Z2luIjogIiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>

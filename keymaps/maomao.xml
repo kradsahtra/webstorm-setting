@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="EslintImportCodeStyle">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
@@ -83,6 +86,7 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="ReformatCode" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
@@ -118,5 +122,6 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="ViewSource" />
 </keymap>
