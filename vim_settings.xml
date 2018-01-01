@@ -223,12 +223,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" timestamp="1514774499980">
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" timestamp="1514775622002">
         <mark key="'" line="15" column="48" />
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="41" column="31" />
-        <mark key="." line="41" column="31" />
-        <mark key="^" line="41" column="31" />
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="33" />
+        <mark key="^" line="43" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/getters.js" timestamp="1514453163849">
         <mark key="[" line="4" column="34" />
@@ -560,16 +560,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>response</text>
+        <text>.response</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>.statusText</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVMb2dpblw+</text>
       </register>
       <register name="0" type="4">
-        <text>response.status</text>
+        <text>.response</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IHJlc3BvbnNlLmRhdGEK</text>
