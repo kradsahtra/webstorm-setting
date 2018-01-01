@@ -143,12 +143,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514453416268">
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/modules/user.js" timestamp="1514789331195">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="1" column="52" />
-        <mark key="]" line="1" column="52" />
-        <mark key="." line="1" column="52" />
-        <mark key="^" line="58" column="29" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/GameCity/assets/Common/Script/NetWork/zlAPI.js" timestamp="1502720788664">
         <mark key="[" line="11" column="0" />
@@ -162,7 +162,7 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" timestamp="1514453106010">
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/permission.js" timestamp="1514789417545">
         <mark key="'" line="11" column="11" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
