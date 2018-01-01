@@ -223,12 +223,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" timestamp="1514775622002">
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/utils/request.js" timestamp="1514776325546">
         <mark key="'" line="15" column="48" />
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="33" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="33" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/bagent-admin-web/src/store/getters.js" timestamp="1514453163849">
         <mark key="[" line="4" column="34" />
@@ -326,7 +326,7 @@
       <file name="$USER_HOME$/workspace/mlucky/build/webpack.base.conf.js" timestamp="1499744257342">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514774026402">
+      <file name="/Dummy.txt" timestamp="1514776353797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -374,10 +374,10 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/src/api/login.js" timestamp="1514773794052">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/src/api/login.js" timestamp="1514776400449">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/deploy.js" timestamp="1499759528436">
         <mark key="'" line="32" column="14" />
@@ -560,10 +560,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.response</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>.statusText</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVMb2dpblw+</text>
@@ -572,31 +572,31 @@
         <text>.response</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IHJlc3BvbnNlLmRhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlcy5jb2RlID09PSA1MDAwOCB8fCByZXMuY29kZSA9PT0gNTAwMTIgfHwgcmVzLmNvZGUgPT09IDUwMDE0KSB7CiAgICAgICAgTWVzc2FnZUJveC5jb25maXJtKCfkvaDlt7Looqvnmbvlh7rvvIzlj6/ku6Xlj5bmtojnu6fnu63nlZnlnKjor6XpobXpnaLvvIzmiJbogIXph43mlrDnmbvlvZUnLCAn56Gu5a6a55m75Ye6JywgewogICAgICAgICAgY29uZmlybUJ1dHRvblRleHQ6ICfph43mlrDnmbvlvZUnLAogICAgICAgICAgY2FuY2VsQnV0dG9uVGV4dDogJ+WPlua2iCcsCiAgICAgICAgICB0eXBlOiAnd2FybmluZycKICAgICAgICB9KS50aGVuKCgpID0+IHsKICAgICAgICAgIHN0b3JlLmRpc3BhdGNoKCdGZWRMb2dPdXQnKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgbG9jYXRpb24ucmVsb2FkKCkvLyDkuLrkuobph43mlrDlrp7kvovljJZ2dWUtcm91dGVy5a+56LGhIOmBv+WFjWJ1ZwogICAgICAgICAgfSkKICAgICAgICB9KQogICAgICB9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldEluZm8odG9rZW4pIHsKICByZXR1cm4gcmVxdWVzdCh7CiAgICB1cmw6ICcvdXNlci9pbmZvJywKICAgIG1ldGhvZDogJ2dldCcsCiAgICBwYXJhbXM6IHsgdG9rZW4gfQogIH0pCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAnQC91dGlscy9yZXF1ZXN0Jwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb21taXQoJ1NFVF9UT0tFTicsICcnKQogICAgICAgIHJlbW92ZUNvb2tpZXMoVUlES2V5KQogICAgICAgIHJlbW92ZUNvb2tpZXMoVG9rZW5LZXkpCiAgICAgICAgcmVtb3ZlQ29va2llcyhOSUNLTkFNRUtleSkKICAgICAgICByZW1vdmVDb29raWVzKEVNQUlMS2V5KQo=</text>
+        <text encoding="base64">ICAgIGlmIChyZXNwb25zZS5zdGF0dXMgIT09IDIwMCkgewogICAgICBNZXNzYWdlKHsKICAgICAgICBtZXNzYWdlOiByZXNwb25zZS5kYXRhLAogICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgZHVyYXRpb246IDUgKiAxMDAwCiAgICAgIH0pCgogICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ2Vycm9yJykKICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVUb2tlbigpCiAgICAgICAgcmVtb3ZlVXNlcklEKCkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IHJlc3BvbnNlLmRhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbW92ZVRva2VuKCkKICAgICAgICAgIHJlbW92ZVVzZXJJRCgpCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlcy5jb2RlID09PSA1MDAwOCB8fCByZXMuY29kZSA9PT0gNTAwMTIgfHwgcmVzLmNvZGUgPT09IDUwMDE0KSB7CiAgICAgICAgTWVzc2FnZUJveC5jb25maXJtKCfkvaDlt7Looqvnmbvlh7rvvIzlj6/ku6Xlj5bmtojnu6fnu63nlZnlnKjor6XpobXpnaLvvIzmiJbogIXph43mlrDnmbvlvZUnLCAn56Gu5a6a55m75Ye6JywgewogICAgICAgICAgY29uZmlybUJ1dHRvblRleHQ6ICfph43mlrDnmbvlvZUnLAogICAgICAgICAgY2FuY2VsQnV0dG9uVGV4dDogJ+WPlua2iCcsCiAgICAgICAgICB0eXBlOiAnd2FybmluZycKICAgICAgICB9KS50aGVuKCgpID0+IHsKICAgICAgICAgIHN0b3JlLmRpc3BhdGNoKCdGZWRMb2dPdXQnKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgbG9jYXRpb24ucmVsb2FkKCkvLyDkuLrkuobph43mlrDlrp7kvovljJZ2dWUtcm91dGVy5a+56LGhIOmBv+WFjWJ1ZwogICAgICAgICAgfSkKICAgICAgICB9KQogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEudG9rZW4pCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAnQC91dGlscy9yZXF1ZXN0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ2F2YXRhcicK</text>
+        <text encoding="base64">ICAgICAgICBjb21taXQoJ1NFVF9UT0tFTicsICcnKQogICAgICAgIHJlbW92ZUNvb2tpZXMoVUlES2V5KQogICAgICAgIHJlbW92ZUNvb2tpZXMoVG9rZW5LZXkpCiAgICAgICAgcmVtb3ZlQ29va2llcyhOSUNLTkFNRUtleSkKICAgICAgICByZW1vdmVDb29raWVzKEVNQUlMS2V5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhdmF0YXI6IHN0YXRlID0+IHN0YXRlLnVzZXIuYXZhdGFyLAo=</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVUb2tlbigpCiAgICAgICAgcmVtb3ZlVXNlcklEKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
