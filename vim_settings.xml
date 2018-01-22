@@ -315,11 +315,11 @@
         <mark key="^" line="89" column="43" />
         <mark key="." line="89" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent-admin-web/deploy.sh" timestamp="1516007318216">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="41" />
-        <mark key="." line="22" column="41" />
-        <mark key="^" line="22" column="41" />
+      <file name="$USER_HOME$/workspace/bagent-admin-web/deploy.sh" timestamp="1516590793770">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1516589916336">
         <mark key="[" line="0" column="0" />
@@ -566,7 +566,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGV2IA==</text>
+        <text encoding="base64">IC1wIDk0Nzg=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZGV2IA==</text>
@@ -575,7 +575,7 @@
         <text encoding="base64">XDx3ZWJwYWNrQ29uZmlnXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>development</text>
+        <text encoding="base64">IC1wIDk0Nzg=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aWYgKHByb2Nlc3MuYXJndlsyXSA9PT0gJ3Byb2QnKXsKICBjb25zb2xlLmxvZygnZGVwbG95IHByb2QnKQogIHByb2Nlc3MuZW52Lk5PREVfRU5WID0gJ2RldmVsb3BtZW50JwogIGNvbnN0IHdlYnBhY2tDb25maWcgPSByZXF1aXJlKCcuL3dlYnBhY2suZGV2LmNvbmYnKQp9IGVsc2UgewogIGNvbnNvbGUubG9nKCdkZXBsb3kgZGV2JykKICBwcm9jZXNzLmVudi5OT0RFX0VOViA9ICdwcm9kdWN0aW9uJwogIGNvbnN0IHdlYnBhY2tDb25maWcgPSByZXF1aXJlKCcuL3dlYnBhY2sucHJvZC5jb25mJykKfQoK</text>
