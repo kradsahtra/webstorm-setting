@@ -381,6 +381,12 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/LotteryWap/lib/deploy.sh" timestamp="1518514116387">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/casino-web/lib/deploy.sh" timestamp="1507094485834">
         <mark key="'" line="34" column="1" />
         <mark key="[" line="13" column="29" />
@@ -567,16 +573,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>45.121.48.151</text>
+        <text>http://</text>
       </register>
       <register name="-" type="4">
-        <text>45.121.48.151</text>
+        <text>http://</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWJwYWNrQ29uZmlnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>-p ${PORT}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFJFTU9URV9IT1NUPTE2Mi4yMjIuMTY1LjI1Mgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aWYgKHByb2Nlc3MuYXJndlsyXSA9PT0gJ3Byb2QnKXsKICBjb25zb2xlLmxvZygnZGVwbG95IHByb2QnKQogIHByb2Nlc3MuZW52Lk5PREVfRU5WID0gJ2RldmVsb3BtZW50JwogIGNvbnN0IHdlYnBhY2tDb25maWcgPSByZXF1aXJlKCcuL3dlYnBhY2suZGV2LmNvbmYnKQp9IGVsc2UgewogIGNvbnNvbGUubG9nKCdkZXBsb3kgZGV2JykKICBwcm9jZXNzLmVudi5OT0RFX0VOViA9ICdwcm9kdWN0aW9uJwogIGNvbnN0IHdlYnBhY2tDb25maWcgPSByZXF1aXJlKCcuL3dlYnBhY2sucHJvZC5jb25mJykKfQoK</text>
