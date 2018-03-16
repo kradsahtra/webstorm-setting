@@ -83,6 +83,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-wap/webpack.config.js" timestamp="1521170860602">
+        <mark key="'" line="152" column="31" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/mlucky/src/store/mutation-types.js" timestamp="1500524093924">
         <mark key="'" line="44" column="13" />
         <mark key="[" line="40" column="62" />
@@ -290,6 +296,13 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-wap/src/utils/common.js" timestamp="1521170277034">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/bagent-admin-web/package.json" timestamp="1516009189129">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="39" />
@@ -321,7 +334,7 @@
         <mark key="." line="28" column="44" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521166045993">
+      <file name="/Dummy.txt" timestamp="1521170821276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -344,6 +357,9 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="13" column="69" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-wap/src/constants/Config.js" timestamp="1521170820609">
+        <mark key="'" line="981" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/GameCityPages/js/n_utils_game.js" timestamp="1502872342621">
         <mark key="[" line="48" column="51" />
         <mark key="]" line="48" column="74" />
@@ -355,6 +371,12 @@
         <mark key="]" line="30" column="10" />
         <mark key="." line="30" column="10" />
         <mark key="^" line="30" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-wap/.eslintrc.js" timestamp="1521169875178">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/slot.js" timestamp="1494382116189">
         <mark key="'" line="12" column="0" />
@@ -373,6 +395,10 @@
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="11" />
         <mark key="." line="15" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/loki-wap/src/constants/Config.js" timestamp="1521169228927">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/mlucky/build/deploy.js" timestamp="1499759528436">
         <mark key="'" line="32" column="14" />
@@ -419,10 +445,11 @@
         <mark key="^" line="89" column="52" />
         <mark key="." line="89" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-wap/package.json" timestamp="1521166165968">
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
+      <file name="$USER_HOME$/workspace/witch-wap/package.json" timestamp="1521169363496">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="0" />
         <mark key="^" line="8" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/game_center/assets/API/roulette.js" timestamp="1494409380500">
@@ -482,17 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="7" filename="$USER_HOME$/workspace/mlucky/build/deploy.sh" />
-      <jump line="10" column="48" filename="$USER_HOME$/workspace/mlucky/build/deploy.sh" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/mlucky/.gitignore" />
-      <jump line="29" column="13" filename="$USER_HOME$/workspace/mlucky/src/router/index.js" />
-      <jump line="34" column="7" filename="$USER_HOME$/workspace/mlucky/src/app.js" />
-      <jump line="27" column="54" filename="$USER_HOME$/workspace/mlucky/src/views/Login.vue" />
-      <jump line="91" column="6" filename="$USER_HOME$/workspace/mlucky/src/views/Login.vue" />
-      <jump line="13" column="2" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/mlucky/src/api/data-config.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/mlucky/src/App.vue" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/mlucky/src/components/layout/AppMain.vue" />
       <jump line="30" column="45" filename="$USER_HOME$/workspace/mlucky/src/app.js" />
       <jump line="36" column="24" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
       <jump line="69" column="20" filename="$USER_HOME$/workspace/mlucky/src/store/modules/data-config.js" />
@@ -582,46 +598,57 @@
       <jump line="25" column="10" filename="$USER_HOME$/workspace/bagent-admin-web/build/build.js" />
       <jump line="6" column="8" filename="$USER_HOME$/workspace/bagent-admin-web/build/build.js" />
       <jump line="10" column="8" filename="$USER_HOME$/workspace/bagent-admin-web/build/build.js" />
+      <jump line="44" column="4" filename="$USER_HOME$/workspace/witch-wap/package.json" />
+      <jump line="95" column="52" filename="$USER_HOME$/workspace/witch-wap/src/constants/Config.js" />
+      <jump line="23" column="12" filename="$USER_HOME$/workspace/witch-wap/.eslintrc.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/witch-wap/.eslintrc.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/witch-wap/src/utils/common.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/witch-wap/src/utils/common.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/witch-wap/src/utils/common.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/witch-wap/src/utils/common.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/workspace/witch-wap/src/utils/common.js" />
+      <jump line="981" column="0" filename="$USER_HOME$/workspace/witch-wap/src/constants/Config.js" />
+      <jump line="152" column="31" filename="$USER_HOME$/workspace/witch-wap/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LuckyShopWeb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJ3Byb2Nlc3MuZW52Lk5PREVfRU5WJzogSlNPTi5zdHJpbmdpZnkoJ3Byb2R1Y3Rpb24nKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>LuckyShopWeb</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWJwYWNrQ29uZmlnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFTU9URV9QT1JUPTIyCg==</text>
+        <text encoding="base64">ICAgIEhPU1Q6J2h0dHA6Ly8nICsgY29tLmdldEFwaUFkZHJlc3MocHJvY2Vzcy5lbnYuTVlfRU5WKSArICcvYXBpLycsCiAgICBTU0NfU0hPUlQ6J2h0dHA6Ly8nICsgY29tLmdldEFwaUFkZHJlc3MocHJvY2Vzcy5lbnYuTVlfRU5WKSArICc6ODAwMS9hcGkvJywKICAgIFNTQ19MT05HOid3czovLycgKyBjb20uZ2V0QXBpQWRkcmVzcyhwcm9jZXNzLmVudi5NWV9FTlYpICsgJzozMTA4L3dzJywKICAgIFNMT1RfU0hPUlQ6J2h0dHA6Ly8nICsgY29tLmdldEFwaUFkZHJlc3MocHJvY2Vzcy5lbnYuTVlfRU5WKSArICc6ODAwMi9hcGkvJywKICAgIFNMT1RfTE9ORzonJywKICAgIEZSVUlUX1NIT1JUOidodHRwOi8vJyArIGNvbS5nZXRBcGlBZGRyZXNzKHByb2Nlc3MuZW52Lk1ZX0VOVikgKyAnOjgwMDIvYXBpLycsCiAgICBGUlVJVF9MT05HOicnLAogICAgQ09XX1NIT1JUOidodHRwOi8vJyArIGNvbS5nZXRBcGlBZGRyZXNzKHByb2Nlc3MuZW52Lk1ZX0VOVikgKyAnOjgwMDIvYXBpLycsCiAgICBDT1dfTE9ORzond3M6Ly8nICsgY29tLmdldEFwaUFkZHJlc3MocHJvY2Vzcy5lbnYuTVlfRU5WKSArICc6MzEwOS93cycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkZXBsb3kiOiAid2VicGFjayAmJiAuL2xpYi9kZXBsb3kuc2ggcHJvZHVjdGlvbiIK</text>
+        <text encoding="base64">ICAgICAgJ3Byb2Nlc3MuZW52Lk5PREVfRU5WJzogSlNPTi5zdHJpbmdpZnkoJ3Byb2R1Y3Rpb24nKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJFTU9URV9QT1JUPTk0NzgK</text>
+        <text encoding="base64">ICAgICAgICAncHJvY2Vzcy5lbnYuTk9ERV9FTlYnOiBKU09OLnN0cmluZ2lmeSgnZGV2JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJFTU9URV9IT1NUPTQ1LjEyMS40OC4xMzIKICAgIHVwbG9hZFRvU2VydmVyCiAgICBSRU1PVEVfSE9TVD00NS4xMjEuNDguMTMzCiAgICB1cGxvYWRUb1NlcnZlcgo=</text>
+        <text encoding="base64">ICAgIDonJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWxpZiBbICIkMSIgPT0gInAyIiBdOyB0aGVuCiAgICBSRU1PVEVfSE9TVD0xOTIuMTY4LjIwLjYyCiAgICBweXRob24gbGliL3VwbG9hZC5weQo=</text>
+        <text encoding="base64">ICAgIEZSVUlUX1NIT1JUOidodHRwOi8vJyArIGNvbS5nZXRBcGlBZGRyZXNzKHByb2Nlc3MuZW52Lk1ZX0VOVikgKyAnOjgwMDIvYXBpLycsCiAgICA6JycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZXBsb3lfeXgiOiAid2VicGFjayAmJiAuL2xpYi9kZXBsb3kuc2ggcHJvZHVjdGlvbl95eCIsCg==</text>
+        <text encoding="base64">ICAgIDonJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgKHByb2Nlc3MuYXJndlsyXSA9PT0gJ3Byb2QnKXsKICBjb25zb2xlLmxvZygnZGVwbG95IHByb2QnKQogIHByb2Nlc3MuZW52Lk5PREVfRU5WID0gJ2RldmVsb3BtZW50JwogIGNvbnN0IHdlYnBhY2tDb25maWcgPSByZXF1aXJlKCcuL3dlYnBhY2suZGV2LmNvbmYnKQp9IGVsc2UgewogIGNvbnNvbGUubG9nKCdkZXBsb3kgZGV2JykKICBwcm9jZXNzLmVudi5OT0RFX0VOViA9ICdwcm9kdWN0aW9uJwogIGNvbnN0IHdlYnBhY2tDb25maWcgPSByZXF1aXJlKCcuL3dlYnBhY2sucHJvZC5jb25mJykKfQoK</text>
+        <text encoding="base64">ICAgICJlc2xpbnQiOiAiXjQuMTguMiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5hcmd2WzJdKQo=</text>
+        <text encoding="base64">ICAgIEhPU1Q6IChwcm9jZXNzLmVudi5OT0RFX0VOViA9PSAncHJvZHVjdGlvbicgfHwgcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT0gJ3Byb2R1Y3Rpb25feXgnKSA/IGNvbS5nZXRBcGlBZGRyZXNzKHByb2Nlc3MuZW52Lk5PREVfRU5WKSA6ICdodHRwOi8vMTgzLjYwLjIxMS4xOTU6OTAwMS9hcGkvJywKICAgIFNTQ19TSE9SVDonaHR0cDovLzE4My42MC4xMDYuMjI4OjgwMDEvYXBpLycsCiAgICBTU0NfTE9ORzond3M6Ly8xODMuNjAuMTA2LjIyODo5MDIxL3dzJywKICAgIFNMT1RfU0hPUlQ6J2h0dHA6Ly8xODMuNjAuMTA2LjIyODo4MDAyL2FwaS8nLAogICAgU0xPVF9MT05HOicnLAogICAgRlJVSVRfU0hPUlQ6J2h0dHA6Ly8xODMuNjAuMTA2LjIyODo4MDAyL2FwaS8nLAogICAgRlJVSVRfTE9ORzonJywKICAgIENPV19TSE9SVDonaHR0cDovLzE4My42MC4xMDYuMjI4OjgwMDIvYXBpLycsCiAgICBDT1dfTE9ORzond3M6Ly8xODMuNjAuMTA2LjIyODo5MDExL3dzJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5hcmd2WzFdKQppZiAocHJvY2Vzcy5hcmd2WzFdID09PSAncHJvZCcpewogIHByb2Nlc3MuZW52Lk5PREVfRU5WID0gJ2RldmVsb3BtZW50JwogIGNvbnN0IHdlYnBhY2tDb25maWcgPSByZXF1aXJlKCcuL3dlYnBhY2suZGV2LmNvbmYnKQp9IGVsc2UgewogIHByb2Nlc3MuZW52Lk5PREVfRU5WID0gJ3Byb2R1Y3Rpb24nCiAgY29uc3Qgd2VicGFja0NvbmZpZyA9IHJlcXVpcmUoJy4vd2VicGFjay5wcm9kLmNvbmYnKQp9Cgo=</text>
+        <text encoding="base64">ICAgICJkZXBsb3kiOiAid2VicGFjayAmJiAuL2xpYi9kZXBsb3kuc2ggcHJvZHVjdGlvbiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgd2VicGFja0NvbmZpZyA9IHJlcXVpcmUoJy4vd2VicGFjay5wcm9kLmNvbmYnKQo=</text>
+        <text encoding="base64">ICAgIFJFTU9URV9QT1JUPTk0NzgK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0dFVF9BTEwvU0VUL2c=</text>
