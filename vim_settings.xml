@@ -296,12 +296,12 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-wap/src/utils/common.js" timestamp="1521170277034">
+      <file name="$USER_HOME$/workspace/witch-wap/src/utils/common.js" timestamp="1522760471766">
         <mark key="'" line="11" column="2" />
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="14" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/bagent-admin-web/package.json" timestamp="1516009189129">
         <mark key="[" line="12" column="39" />
@@ -334,7 +334,7 @@
         <mark key="." line="28" column="44" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522757118369">
+      <file name="/Dummy.txt" timestamp="1522760003184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -357,7 +357,12 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-wap/src/constants/Config.js" timestamp="1522756666589" />
+      <file name="$USER_HOME$/workspace/witch-wap/src/constants/Config.js" timestamp="1522760458522">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="33" column="55" />
+        <mark key="." line="4" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/GameCityPages/js/n_utils_game.js" timestamp="1502872342621">
         <mark key="[" line="48" column="51" />
         <mark key="]" line="48" column="74" />
@@ -609,8 +614,8 @@
       <jump line="152" column="31" filename="$USER_HOME$/workspace/witch-wap/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ3Byb2Nlc3MuZW52Lk5PREVfRU5WJzogSlNPTi5zdHJpbmdpZnkoJ3Byb2R1Y3Rpb24nKSwK</text>
+      <register name="&quot;" type="4">
+        <text>http://</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -618,8 +623,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWJwYWNrQ29uZmlnXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEhPU1Q6J2h0dHA6Ly8nICsgY29tLmdldEFwaUFkZHJlc3MocHJvY2Vzcy5lbnYuTVlfRU5WKSArICcvYXBpLycsCiAgICBTU0NfU0hPUlQ6J2h0dHA6Ly8nICsgY29tLmdldEFwaUFkZHJlc3MocHJvY2Vzcy5lbnYuTVlfRU5WKSArICc6ODAwMS9hcGkvJywKICAgIFNTQ19MT05HOid3czovLycgKyBjb20uZ2V0QXBpQWRkcmVzcyhwcm9jZXNzLmVudi5NWV9FTlYpICsgJzozMTA4L3dzJywKICAgIFNMT1RfU0hPUlQ6J2h0dHA6Ly8nICsgY29tLmdldEFwaUFkZHJlc3MocHJvY2Vzcy5lbnYuTVlfRU5WKSArICc6ODAwMi9hcGkvJywKICAgIFNMT1RfTE9ORzonJywKICAgIEZSVUlUX1NIT1JUOidodHRwOi8vJyArIGNvbS5nZXRBcGlBZGRyZXNzKHByb2Nlc3MuZW52Lk1ZX0VOVikgKyAnOjgwMDIvYXBpLycsCiAgICBGUlVJVF9MT05HOicnLAogICAgQ09XX1NIT1JUOidodHRwOi8vJyArIGNvbS5nZXRBcGlBZGRyZXNzKHByb2Nlc3MuZW52Lk1ZX0VOVikgKyAnOjgwMDIvYXBpLycsCiAgICBDT1dfTE9ORzond3M6Ly8nICsgY29tLmdldEFwaUFkZHJlc3MocHJvY2Vzcy5lbnYuTVlfRU5WKSArICc6MzEwOS93cycsCg==</text>
+      <register name="0" type="4">
+        <text>http://</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJ3Byb2Nlc3MuZW52Lk5PREVfRU5WJzogSlNPTi5zdHJpbmdpZnkoJ3Byb2R1Y3Rpb24nKSwK</text>
