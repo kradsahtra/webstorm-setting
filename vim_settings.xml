@@ -357,12 +357,12 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-wap/src/constants/Config.js" timestamp="1525771354613">
+      <file name="$USER_HOME$/workspace/witch-wap/src/constants/Config.js" timestamp="1525771550986">
         <mark key="'" line="13" column="49" />
-        <mark key="[" line="12" column="80" />
-        <mark key="]" line="12" column="82" />
+        <mark key="[" line="12" column="88" />
+        <mark key="]" line="12" column="100" />
         <mark key="^" line="12" column="82" />
-        <mark key="." line="12" column="82" />
+        <mark key="." line="12" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/GameCityPages/js/n_utils_game.js" timestamp="1502872342621">
         <mark key="[" line="48" column="51" />
@@ -417,11 +417,11 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-wap/lib/deploy.sh" timestamp="1521165814808">
+      <file name="$USER_HOME$/workspace/witch-wap/lib/deploy.sh" timestamp="1525771740514">
         <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="29" />
-        <mark key="." line="38" column="29" />
-        <mark key="^" line="38" column="29" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="27" />
+        <mark key="^" line="38" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/casino-web/lib/deploy.sh" timestamp="1507094485834">
         <mark key="'" line="34" column="1" />
@@ -616,16 +616,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>54.179.189.155</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>54.179.189.155</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWJwYWNrQ29uZmlnXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJyA/IA==</text>
+        <text>13.250.105.3</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJ3Byb2Nlc3MuZW52Lk5PREVfRU5WJzogSlNPTi5zdHJpbmdpZnkoJ3Byb2R1Y3Rpb24nKSwK</text>
