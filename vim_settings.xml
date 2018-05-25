@@ -103,7 +103,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/wap/lib/deploy.sh" timestamp="1526636941584" />
       <file name="$USER_HOME$/workspace/mlucky/src/api/data-config.js" timestamp="1500536973854">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="110" column="20" />
@@ -335,7 +334,7 @@
         <mark key="." line="28" column="44" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522760003184">
+      <file name="/Dummy.txt" timestamp="1527231890575">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -364,6 +363,12 @@
         <mark key="]" line="12" column="100" />
         <mark key="^" line="12" column="82" />
         <mark key="." line="12" column="88" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/wap/src/utils/common.js" timestamp="1527231888687">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/GameCityPages/js/n_utils_game.js" timestamp="1502872342621">
         <mark key="[" line="48" column="51" />
